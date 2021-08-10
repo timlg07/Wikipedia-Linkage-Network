@@ -4,8 +4,14 @@
   "description": "A network that shows linkage between certain Wikipedia pages.",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
   },
   "author": "Tim L. Greller",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^10.2.0",
+    "vis-data": "^7.1.2",
+    "vis-network": "^9.0.5"
+  }
 }

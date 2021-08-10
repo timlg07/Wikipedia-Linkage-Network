@@ -1,0 +1,7 @@
+{
+    "browserconfig": {
+        "headless": true,
+        "args": ["--window-size=1200,800"],
+        "defaultViewport": null
+    }
+}
