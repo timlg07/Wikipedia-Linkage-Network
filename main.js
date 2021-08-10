@@ -28,9 +28,11 @@ async function fetchNetwork(page, language) {
         const hrefs = await page.$$eval(wikirefQuery, elements => {
             const res = []
             elements.forEach(a => void res.push(a.href))
-            return res.filter(t => !/^(Wikipedia|Datei|Hilfe):/i.test(t))
+            return res
         })
-        const linkedTitles = hrefs.map(wikiurl.getTitle)
+        const linkedTitles = hrefs
+                .map(wikiurl.getTitle) // Parse url to title of the Wikipedia page
+                .filter(t => !t.includes(':')) // Filter out Wikipedia:, Datei:, Benutzer:, Hilfe:, and similar Links
         titleCombinations[title] = linkedTitles
     }
     return titleCombinations

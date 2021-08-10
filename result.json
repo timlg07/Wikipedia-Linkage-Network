@@ -6,8 +6,6 @@
         "Informationsintegration",
         "Enterprise Service Bus",
         "Prozessmanagement",
-        "Datei:Bizbus.jpg",
-        "Datei:Bizbus.jpg",
         "Business Bus",
         "Planung",
         "Methode (Softwaretechnik)",
@@ -45,19 +43,7 @@
         "OSGi",
         "Webservice",
         "Workflow-Management",
-        "OSGi",
-        "Spezial:ISBN-Suche/1586033115",
-        "Spezial:ISBN-Suche/3936771170",
-        "Spezial:ISBN-Suche/393677174X",
-        "Spezial:ISBN-Suche/9783936771817",
-        "Spezial:ISBN-Suche/9783898644556",
-        "Spezial:ISBN-Suche/3824421631",
-        "Spezial:ISBN-Suche/3898641864",
-        "Spezial:ISBN-Suche/0201615835",
-        "Spezial:ISBN-Suche/3936090882",
-        "Spezial:ISBN-Suche/3540427767",
-        "Spezial:ISBN-Suche/3827415721",
-        "Spezial:ISBN-Suche/9780321200686"
+        "OSGi"
     ],
     "Stammdatenpool": [
         "Stammdaten",
@@ -72,9 +58,6 @@
         "Software"
     ],
     "Workflow-Management": [
-        "Diskussion:Workflow-Management",
-        "Diskussion:Workflow-Management",
-        "Wikipedia:Wie schreibe ich gute Artikel",
         "Deutsche Sprache",
         "Geschäftsprozess",
         "Computer Supported Cooperative Work",
@@ -133,10 +116,6 @@
         "Petri-Netz",
         "WS-Business Process Execution Language",
         "Extensible Markup Language",
-        "Spezial:ISBN-Suche/9783540204398",
-        "Spezial:ISBN-Suche/0262011891",
-        "Spezial:ISBN-Suche/392099373X",
-        "Spezial:ISBN-Suche/3519004917",
         "WfMC",
         "DMOZ"
     ],
@@ -159,8 +138,6 @@
         "Textdatei"
     ],
     "Ereignisgesteuerte Prozesskette": [
-        "Datei:Beispiel ereignisorientierte Prozesskette (EPK).png",
-        "Datei:Beispiel ereignisorientierte Prozesskette (EPK).png",
         "Modellierungssprache",
         "Geschäftsprozess",
         "Organisation#Organisation in der Betriebswirtschaftslehre",
@@ -182,8 +159,6 @@
         "Bipartit",
         "Graph (Graphentheorie)",
         "Kontrollfluss",
-        "Datei:EPK komplex.png",
-        "Datei:EPK komplex.png",
         "ARIS",
         "Funktionszuordnungsdiagramm#Elemente und Beziehungen des Funktionszuordnungsdiagramms",
         "Aufbauorganisation",
@@ -201,15 +176,10 @@
         "Vorgangskettendiagramm",
         "Vorgangskettendiagramm",
         "BPMN",
-        "Spezial:ISBN-Suche/3540792481",
-        "Spezial:ISBN-Suche/3540416013",
-        "Spezial:ISBN-Suche/3540658238",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Spezial:ISBN-Suche/3540245103",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
         "Software AG"
     ],
     "Informationslogistik": [
@@ -228,7 +198,6 @@
         "Data-Warehouse-Prozess",
         "Information Lifecycle Management",
         "Internationale Standardnummer für fortlaufende Sammelwerke",
-        "Spezial:ISBN-Suche/9783941418806",
         "Fraunhofer IML"
     ],
     "Informationsbedarf": [
@@ -308,14 +277,10 @@
         "Betriebliche Funktion",
         "Daten",
         "Effizienz (Informatik)",
-        "Datei:Betriebliches informationssystem funktionsorientiert.png",
-        "Datei:Betriebliches informationssystem funktionsorientiert.png",
         "Datenstruktur",
         "Datenbestand",
         "Redundanz (Informationstheorie)",
         "Konsistenz (Datenspeicherung)#Konsistenz in klassischen relationalen Datenbanken",
-        "Datei:Betriebliches informationssystem datenorientiert.png",
-        "Datei:Betriebliches informationssystem datenorientiert.png",
         "Semantisches Datenmodell",
         "Datenbasis",
         "Datenbankmanagementsystem",
@@ -422,8 +387,7 @@
         "Susanne Leist",
         "Retail",
         "Informationszeitalter",
-        "Springer Science+Business Media",
-        "Spezial:ISBN-Suche/3540427767"
+        "Springer Science+Business Media"
     ],
     "Metaverzeichnisdienst": [
         "Verzeichnisdienst",
@@ -437,9 +401,6 @@
         "Quest Software"
     ],
     "Rezentralisierung": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
         "Client-Server-Modell",
         "Shared Server",
         "Desktop-Virtualisierung",
@@ -458,16 +419,8 @@
         "Erbrecht"
     ],
     "Mobile Datenerfassung": [
-        "Datei:Datenerfassungsgerät.png",
-        "Datei:Datenerfassungsgerät.png",
-        "Datei:Medea UHF RFID Reader from Nordic ID.png",
-        "Datei:Medea UHF RFID Reader from Nordic ID.png",
-        "Datei:Android-MDE-mit-LTE.jpg",
-        "Datei:Android-MDE-mit-LTE.jpg",
         "Personal Computer",
         "Datenerfassung",
-        "Datei:Barcode-scanner.jpg",
-        "Datei:Barcode-scanner.jpg",
         "Enterprise Resource Planning",
         "Warenwirtschaftssystem",
         "Customer-Relationship-Management",
@@ -477,12 +430,9 @@
         "Chaotische Lagerhaltung",
         "Krankenhausinformationssystem",
         "Personal Digital Assistant",
-        "Funkausleuchtung",
-        "Spezial:ISBN-Suche/9783834918529"
+        "Funkausleuchtung"
     ],
     "Integrationsplattform": [
-        "Datei:Integrationsplattform.svg",
-        "Datei:Integrationsplattform.svg",
         "Middleware",
         "Enterprise Application Integration",
         "Business Bus",
@@ -493,9 +443,6 @@
         "Englische Sprache"
     ],
     "Business Process Engine": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
         "Geschäftsprozess",
         "Anwendungssoftware",
         "Computerprogramm#Übersetzung und Ausführung",
@@ -521,13 +468,9 @@
         "SAP NetWeaver",
         "Open Source",
         "Activiti",
-        "Camunda BPM",
-        "Spezial:ISBN-Suche/9781847191465",
-        "Spezial:ISBN-Suche/9783836213899"
+        "Camunda BPM"
     ],
     "Management Support System": [
-        "Wikipedia:Lückenhaft",
-        "Wikipedia:Belege#Was sind zuverlässige Informationsquellen?",
         "EDV-System",
         "Management-Informationssystem",
         "Entscheidungsunterstützungssystem",
@@ -676,9 +619,6 @@
         "Kapazitätsterminierung"
     ],
     "International Business Information Technology": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
         "Duale Hochschule Baden-Württemberg",
         "Berufsakademie Mannheim",
         "Duale Hochschule Baden-Württemberg Stuttgart",
@@ -746,10 +686,7 @@
         "Stückliste",
         "PPS-System",
         "Normenliste DIN 4000 bis DIN 4499",
-        "DIN 199",
-        "Spezial:ISBN-Suche/3885853442",
-        "Spezial:ISBN-Suche/9783446413702",
-        "Spezial:ISBN-Suche/9783446413702"
+        "DIN 199"
     ],
     "U-Commerce": [
         "Kommunikation",
@@ -792,11 +729,9 @@
         "Mobile Commerce",
         "T-Commerce",
         "Machine to Machine",
-        "Spezial:ISBN-Suche/1846280354",
         "Digital Object Identifier",
         "Internationale Standardnummer für fortlaufende Sammelwerke",
         "Preprint",
-        "Vorlage:Literatur",
         "Digital Object Identifier"
     ],
     "Maschinendatenerfassung": [
@@ -842,8 +777,6 @@
         "Enterprise Service Bus"
     ],
     "Fehlersammelkarte": [
-        "Datei:Check sheet for motor assembly.svg",
-        "Datei:Check sheet for motor assembly.svg",
         "Prüfblatt",
         "Qualitätsregelkarte",
         "Pareto-Verteilung",
@@ -906,11 +839,8 @@
         "Elektronische Archivierung",
         "Information Lifecycle Management",
         "Langzeitarchivierung",
-        "Spezial:ISBN-Suche/3980675645",
-        "Spezial:ISBN-Suche/393488007X",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
         "Doxnet",
         "Dokumentlebenszyklusmanagement",
         "Verband Organisations- und Informationssysteme"
@@ -957,25 +887,18 @@
         "Enterprise Information Management",
         "Dokumentenmanagement",
         "Enterprise Content Management",
-        "Spezial:ISBN-Suche/3932898117",
         "Elektronische Signatur",
-        "Spezial:ISBN-Suche/3932898095",
         "Verfahrensdokumentation",
         "GoBS",
-        "Spezial:ISBN-Suche/3932898044",
         "Elektronische Archivierung",
-        "Spezial:ISBN-Suche/3932898036",
         "Web-Archivierung#Begrifflichkeiten",
-        "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink"
+        "Internet Archive"
     ],
     "Attributzertifikat": [
         "Digitales Zertifikat",
         "Digitale Signatur",
         "Digitales Zertifikat",
-        "Zertifizierungsstelle",
-        "Wikipedia:Hinweis Rechtsthemen",
-        "Wikipedia:Hinweis Rechtsthemen"
+        "Zertifizierungsstelle"
     ],
     "Produktdatenmanagement": [
         "Produktlebenszyklus",
@@ -990,11 +913,7 @@
         "Dokumentenmanagementsystem",
         "CAD",
         "Enterprise-Resource-Planning",
-        "Spezial:ISBN-Suche/3540229973",
-        "Ralph Stelzer",
-        "Spezial:ISBN-Suche/9783540443735",
-        "Spezial:ISBN-Suche/9783446412026",
-        "Spezial:ISBN-Suche/9783446427310"
+        "Ralph Stelzer"
     ],
     "Demontageplanung und -steuerung": [
         "Produktionsplanung und -steuerung",
@@ -1019,8 +938,6 @@
         "Klaus Backhaus",
         "Ulrich W. Thonemann",
         "Westfälische Wilhelms-Universität",
-        "Datei:MuensterLeonardoCampusInformationSystems.jpg",
-        "Datei:MuensterLeonardoCampusInformationSystems.jpg",
         "Wirtschaftsinformatik",
         "Informatik",
         "Betriebswirtschaft",
@@ -1122,11 +1039,9 @@
         "CSCW",
         "Workflow-Management",
         "Groupware",
-        "Informationswissenschaft",
-        "Spezial:ISBN-Suche/354059101X"
+        "Informationswissenschaft"
     ],
     "Initiative D21": [
-        "Datei:Initiative D21 Logo.png",
         "Eingetragener Verein",
         "Berlin",
         "Erwin Staudt",
@@ -1293,9 +1208,7 @@
         "Verkäufer",
         "Solvenz",
         "Verordnung (EU) 2019/1150 (Fairness und Transparenz)",
-        "Europäische Union",
-        "Spezial:ISBN-Suche/9783936771961",
-        "Spezial:ISBN-Suche/9783790825954"
+        "Europäische Union"
     ],
     "WebEDI": [
         "WWW",
@@ -1311,11 +1224,6 @@
         "GS1"
     ],
     "Kontextdiagramm": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
-        "Datei:NDE Context Diagram (vector).svg",
-        "Datei:NDE Context Diagram (vector).svg",
         "Datenfluss",
         "System",
         "Systemanalyse",
@@ -1332,9 +1240,6 @@
         "Anwendungsfalldiagramm"
     ],
     "Late-Join": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
         "Englische Sprache",
         "Informatik",
         "Sitzung (Informatik)",
@@ -1345,8 +1250,6 @@
         "Micropayment",
         "Nachrichten",
         "Festnetz",
-        "Spezial:ISBN-Suche/3937195122",
-        "Spezial:ISBN-Suche/3898171809",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
         "PDF"
@@ -1399,15 +1302,9 @@
         "Social Payment",
         "Games as a Service#Mikrotransaktionen",
         "Computerspiel",
-        "Spezial:ISBN-Suche/3898171809",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Spezial:ISBN-Suche/3409124462",
-        "Spezial:ISBN-Suche/387156463X",
-        "Spezial:ISBN-Suche/3409118055",
         "Friedrich Thießen",
-        "Spezial:ISBN-Suche/3781906426",
-        "Spezial:ISBN-Suche/3937195122",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
         "Zeitschriftendatenbank"
@@ -1422,9 +1319,7 @@
     ],
     "Interorganisationssystem": [
         "Informationssystem",
-        "Supply-Chain-Management",
-        "Spezial:ISBN-Suche/354025367X",
-        "Spezial:ISBN-Suche/3824402939"
+        "Supply-Chain-Management"
     ],
     "Rechnungskreis": [
         "Rechnungswesen",
@@ -1471,16 +1366,11 @@
         "BACnet",
         "Englische Sprache",
         "Building Information Modeling",
-        "Spezial:ISBN-Suche/9783658213572",
-        "Jens Nävy",
-        "Spezial:ISBN-Suche/3540441670",
-        "Spezial:ISBN-Suche/9783816930020"
+        "Jens Nävy"
     ],
     "Workflow Management Coalition": [
         "Workflow-Management",
         "Workflow-Management-System",
-        "Datei:Standards BPM 2009 11.jpg",
-        "Datei:Standards BPM 2009 11.jpg",
         "Workflow Referenzmodell",
         "SOAP",
         "Webservice",
@@ -1492,7 +1382,6 @@
         "Prozessmanagement",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Spezial:ISBN-Suche/0929652126",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
         "Web-Archivierung#Begrifflichkeiten",
@@ -1542,8 +1431,6 @@
         "Synonymie",
         "SQL",
         "Relationale Datenbank",
-        "Datei:Information-Retrieval.png",
-        "Datei:Information-Retrieval.png",
         "Suchmaschine",
         "Calvin Mooers",
         "Vannevar Bush",
@@ -1570,9 +1457,6 @@
         "Lucene",
         "Berrypicking",
         "Beurteilung eines Klassifikators",
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
         "Eulersche Zahl",
         "Informationslinguistik",
         "Boolesches Retrieval",
@@ -1604,19 +1488,9 @@
         "Internet Archive",
         "Alan Baddeley",
         "Michael W. Eysenck",
-        "Spezial:ISBN-Suche/9781848720015",
-        "Spezial:ISBN-Suche/3898642135",
-        "Spezial:ISBN-Suche/3832505148",
-        "Spezial:ISBN-Suche/9780521865715",
-        "Spezial:ISBN-Suche/9783662440131",
         "Internationale Standardnummer für fortlaufende Sammelwerke",
-        "Spezial:ISBN-Suche/3925474552",
-        "Spezial:ISBN-Suche/393894501X",
         "Gerard Salton",
         "Wolfgang G. Stock",
-        "Spezial:ISBN-Suche/9783486581720",
-        "Spezial:ISBN-Suche/9783839120644",
-        "Spezial:ISBN-Suche/9783642235122",
         "Gesellschaft für Informatik",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
@@ -1632,7 +1506,6 @@
         "Vertrieb",
         "Logistik",
         "Frachtkosten",
-        "Datenbank#:~:text=Zur Abfrage und Verwaltung der,wird durch ein Datenbankmodell festgelegt.",
         "Programmierschnittstelle",
         "Produktdatenmanagement",
         "CAD",
@@ -1656,9 +1529,7 @@
         "E-Business",
         "BMEcat",
         "ECl@ss",
-        "The Long Tail",
-        "Spezial:ISBN-Suche/9783871243462",
-        "Spezial:ISBN-Suche/9783816928973"
+        "The Long Tail"
     ],
     "Online Transaction Processing": [
         "Datenbank",
@@ -1704,13 +1575,6 @@
         "Wirtschaftsinformatik",
         "Johannes Kepler Universität Linz",
         "Informationstechnik",
-        "Spezial:ISBN-Suche/3486230638",
-        "Spezial:ISBN-Suche/3486254154",
-        "Spezial:ISBN-Suche/9783110346640",
-        "Spezial:ISBN-Suche/013464462X",
-        "Spezial:ISBN-Suche/0134648854",
-        "Spezial:ISBN-Suche/013465501X",
-        "Spezial:ISBN-Suche/3540322035",
         "Deutsche Nationalbibliothek",
         "Gemeinsame Normdatei"
     ],
@@ -1734,8 +1598,7 @@
         "Reporting",
         "Business Intelligence",
         "Universal Application",
-        "Verlag Axel Springer",
-        "Spezial:ISBN-Suche/9783322837349"
+        "Verlag Axel Springer"
     ],
     "Business-Rule-Engine": [
         "Softwarekomponente",
@@ -1759,8 +1622,7 @@
         "Content-Management-System",
         "Onlineshop",
         "Elektronischer Handel",
-        "Click-Through-Rate",
-        "Spezial:ISBN-Suche/9783826690792"
+        "Click-Through-Rate"
     ],
     "Metamodell": [
         "Benennung",
@@ -1768,8 +1630,6 @@
         "Griechische Sprache",
         "Modell (Wirtschaftsinformatik)",
         "Modell",
-        "Datei:Metamodell.png",
-        "Datei:Metamodell.png",
         "Referenzmodell",
         "Standardmodell",
         "Abstrakte Syntax",
@@ -1809,16 +1669,10 @@
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
         "Software Engineering",
-        "Spezial:ISBN-Suche/3540554017",
-        "Spezial:ISBN-Suche/3211811060",
         "Shaker Verlag",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Spezial:ISBN-Suche/3211811060",
-        "Shaker Verlag",
-        "Spezial:ISBN-Suche/3540554017",
-        "Spezial:ISBN-Suche/3540554017",
-        "Spezial:ISBN-Suche/9780262101080"
+        "Shaker Verlag"
     ],
     "Enhanced Telecom Operations Map": [
         "Geschäftsprozess",
@@ -1835,24 +1689,17 @@
         "Filigran",
         "Anwendungsprogramm",
         "TM Forum",
-        "Frameworx",
-        "Spezial:ISBN-Suche/9780979428180",
-        "Spezial:ISBN-Suche/9783832535100",
-        "Spezial:ISBN-Suche/9783319835785",
-        "Spezial:ISBN-Suche/9783658255800"
+        "Frameworx"
     ],
     "Handelsinformationssystem": [
         "Betriebliches Informationssystem",
         "ARIS",
         "Lagerverwaltung",
         "Zentralregulierung",
-        "Datei:Handels-H Lagergeschäft.png",
-        "Datei:Handels-H Lagergeschäft.png",
         "Referenzmodell",
         "Ordnungsrahmen",
         "Jörg Becker (Wirtschaftsinformatiker)",
-        "Jörg Becker (Wirtschaftsinformatiker)",
-        "Spezial:ISBN-Suche/3478255902"
+        "Jörg Becker (Wirtschaftsinformatiker)"
     ],
     "Y-CIM-Modell": [
         "Computer-integrated manufacturing",
@@ -1895,11 +1742,7 @@
         "Wolfgang König (Wirtschaftsinformatiker)",
         "Arnold Picot",
         "Matthias Schumann",
-        "Thomas Hess (Wirtschaftsinformatiker)",
-        "Spezial:ISBN-Suche/354023411X",
-        "Datei:Qsicon gesprochen.svg",
-        "Datei:De-Dispositionssystem-article.ogg",
-        "Portal:Gesprochene Wikipedia"
+        "Thomas Hess (Wirtschaftsinformatiker)"
     ],
     "Proficlass": [
         "Klassifikation",
@@ -1916,8 +1759,7 @@
         "Klassenbrowser",
         "Bauindustrie",
         "ECl@ss",
-        "ETIM",
-        "Spezial:ISBN-Suche/9783870641290"
+        "ETIM"
     ],
     "Produktkonfigurator": [
         "Computerprogramm",
@@ -1947,8 +1789,6 @@
         "Vertriebsprozess",
         "Systemlandschaft",
         "Geschäftsprozess",
-        "Datei:Produktkonfiguration-CAD-Automation-Fertigungsansatz-grobe-Attribute-von-Produkten.jpg",
-        "Datei:Produktkonfiguration-CAD-Automation-Fertigungsansatz-grobe-Attribute-von-Produkten.jpg",
         "Content-Management-System",
         "Online-Shop",
         "Microsoft Excel",
@@ -1987,8 +1827,6 @@
         "Enterprise-Resource-Planning",
         "Produktdatenmanagement",
         "Customer-Relationship-Management",
-        "Datei:Produktkonfiguration-CAD-Automation-Objektarten-in-massgeschneiderten-Produkten.jpg",
-        "Datei:Produktkonfiguration-CAD-Automation-Objektarten-in-massgeschneiderten-Produkten.jpg",
         "Autodesk",
         "CATIA",
         "SolidWorks",
@@ -2010,8 +1848,6 @@
         "JPEG",
         "Graphics Interchange Format",
         "Windows Bitmap",
-        "Datei:Produktkonfiguration-CAD-Automation-wer-konfiguriert-Produkte.jpg",
-        "Datei:Produktkonfiguration-CAD-Automation-wer-konfiguriert-Produkte.jpg",
         "3D-Modell",
         "Fehlerkosten",
         "Textverarbeitung",
@@ -2036,24 +1872,7 @@
         "Configuration Workgroup",
         "Enterprise-Resource-Planning",
         "Mass Customization",
-        "Variantenmanagement",
-        "Spezial:ISBN-Suche/3836212021",
-        "Spezial:ISBN-Suche/3184005526",
-        "Spezial:ISBN-Suche/3834901067",
-        "Spezial:ISBN-Suche/3832513922",
-        "Spezial:ISBN-Suche/3706404346",
-        "Spezial:ISBN-Suche/3181452165",
-        "Spezial:ISBN-Suche/3540647333",
-        "Spezial:ISBN-Suche/3446187790",
-        "Spezial:ISBN-Suche/3631562586",
-        "Spezial:ISBN-Suche/3826589378",
-        "Spezial:ISBN-Suche/3802786629",
-        "Spezial:ISBN-Suche/3540255060",
-        "Spezial:ISBN-Suche/9783642203800",
-        "Spezial:ISBN-Suche/3835003550",
-        "Spezial:ISBN-Suche/3834901067",
-        "Spezial:ISBN-Suche/9783446413702",
-        "Spezial:ISBN-Suche/9780124158177"
+        "Variantenmanagement"
     ],
     "Enterprise-Resource-Planning": [
         "Unternehmen",
@@ -2209,22 +2028,12 @@
         "Unternehmenssoftware",
         "Warenwirtschaft",
         "Workflow-Management",
-        "Spezial:ISBN-Suche/9783540474241",
-        "Spezial:ISBN-Suche/3980575624",
-        "Spezial:ISBN-Suche/9783486590500",
-        "Spezial:ISBN-Suche/9783446413702",
-        "Spezial:ISBN-Suche/047193450X",
-        "Spezial:ISBN-Suche/3831602581",
-        "Spezial:ISBN-Suche/9783540676829",
         "NWB Verlag",
         "Herne",
-        "Spezial:ISBN-Suche/9783470533537",
         "Computerwoche",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
         "Digital Object Identifier",
         "Digital Object Identifier",
-        "Digital Object Identifier",
-        "Spezial:ISBN-Suche/9781109744286"
+        "Digital Object Identifier"
     ],
     "Ordnungsrahmen": [
         "System",
@@ -2232,8 +2041,6 @@
         "Modell",
         "Wirtschaftsinformatik",
         "Informationssystem",
-        "Datei:Aris mod kl.png",
-        "Datei:Aris mod kl.png",
         "Business Process Reengineering",
         "Informationssystem",
         "ARIS",
@@ -2244,12 +2051,7 @@
         "Customer-Relationship-Management",
         "Business Process Reengineering",
         "Referenzmodell",
-        "Springer Science+Business Media",
-        "Spezial:ISBN-Suche/9783642129544",
-        "Spezial:ISBN-Suche/3830003544",
-        "Spezial:ISBN-Suche/3125171512",
-        "Spezial:ISBN-Suche/3830003544",
-        "Spezial:ISBN-Suche/9783642129544"
+        "Springer Science+Business Media"
     ],
     "Zachman Framework": [
         "Ordnungsrahmen",
@@ -2268,13 +2070,9 @@
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
         "Digital Object Identifier",
-        "Spezial:ISBN-Suche/0070314292",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Spezial:ISBN-Suche/3486229222",
-        "Springer Science+Business Media",
-        "Spezial:ISBN-Suche/9783642129544",
-        "Spezial:ISBN-Suche/9783642129544"
+        "Springer Science+Business Media"
     ],
     "Output Management": [
         "Dokumentenmanagement",
@@ -2287,9 +2085,7 @@
         "Produktionsplanung und -steuerung",
         "Druckauftrag",
         "Dokumentenmanagement",
-        "Computer Output on Laserdisk",
-        "Spezial:ISBN-Suche/3446417036",
-        "Spezial:ISBN-Suche/9783937818399"
+        "Computer Output on Laserdisk"
     ],
     "Unternehmensdaten": [
         "Unternehmen",
@@ -2471,9 +2267,7 @@
         "Wertschöpfungskettendiagramm",
         "Funktionszuordnungsdiagramm",
         "Ereignisgesteuerte Prozesskette",
-        "Internationale Standardnummer für fortlaufende Sammelwerke",
-        "Spezial:ISBN-Suche/3409191992",
-        "Spezial:ISBN-Suche/3409120025"
+        "Internationale Standardnummer für fortlaufende Sammelwerke"
     ],
     "Product-Lifecycle-Management": [
         "Produktlebenszyklus",
@@ -2508,14 +2302,7 @@
         "Service-Lifecycle-Management",
         "Corporate Evolution",
         "Ralph Stelzer",
-        "Spezial:ISBN-Suche/9783540443735",
-        "Spezial:ISBN-Suche/9783540878971",
-        "Spezial:ISBN-Suche/3540229973",
-        "Spezial:ISBN-Suche/3446191763",
-        "Spezial:ISBN-Suche/3446425853",
-        "Digital Object Identifier",
-        "Spezial:ISBN-Suche/9783540781738",
-        "Spezial:ISBN-Suche/9780857295453"
+        "Digital Object Identifier"
     ],
     "Very Large Business Applications": [
         "Systemlandschaft",
@@ -2528,12 +2315,9 @@
         "Supply-Chain-Management",
         "Customer-Relationship-Management",
         "E-Business",
-        "Spezial:ISBN-Suche/9783940019349",
         "E-recruiting",
         "OpenCms",
-        "Spezial:ISBN-Suche/9781424417520",
         "Shaker Verlag",
-        "Spezial:ISBN-Suche/9783832287429",
         "Universität Magdeburg",
         "Universität Oldenburg",
         "Universität Magdeburg",
@@ -2592,7 +2376,6 @@
         "Internet Archive",
         "Web-Archivierung#Begriffsbestimmung",
         "Archive.today",
-        "Spezial:ISBN-Suche/9289412909",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
         "Internationale Standardnummer für fortlaufende Sammelwerke",
@@ -2624,9 +2407,7 @@
         "Global System for Mobile Communications",
         "Bearer Service",
         "Short Message Service",
-        "Fax",
-        "Wikipedia:Defekte Weblinks",
-        "Wikipedia:Defekte Weblinks"
+        "Fax"
     ],
     "Remote Service": [
         "Netzwerkdienst",
@@ -2639,8 +2420,6 @@
         "Produktivität"
     ],
     "Open Building Information Exchange": [
-        "Datei:Obix.gif",
-        "Datei:Obix.gif",
         "Machine to Machine",
         "Extensible Markup Language",
         "Web Service",
@@ -2660,18 +2439,12 @@
         "Ontologie",
         "Unternehmensabbildung",
         "Unternehmensabbildung#Aspekte der ganzheitlichen Unternehmensabbildung",
-        "Wikipedia:Defekte Weblinks",
-        "Benutzer:InternetArchiveBot/Anleitung/Toter Link",
-        "Wikipedia:Defekte Weblinks",
-        "Benutzer:InternetArchiveBot/Anleitung/Toter Link",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
         "Peter Fettke",
         "Peter Loos (Wirtschaftsinformatiker)",
         "Web-Archivierung#Begrifflichkeiten",
-        "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink"
+        "Internet Archive"
     ],
     "Virtual Global University": [
         "Virtuelle Universität",
@@ -2689,9 +2462,6 @@
         "Europa-Universität Viadrina"
     ],
     "Business Process Discovery": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
         "Geschäftsprozess",
         "Wertkette",
         "Anlagenwirtschaft",
@@ -2787,8 +2557,6 @@
         "Aktenordner",
         "Elektronisches Dokument",
         "Elektronische Signatur",
-        "Datei:Adic scalar 100.jpg",
-        "Datei:Adic scalar 100.jpg",
         "Tape-Library",
         "Langzeitarchivierung",
         "Pleonasmus",
@@ -2834,8 +2602,6 @@
         "Festplatte",
         "Optischer Datenspeicher",
         "WORM",
-        "Datei:CD-R Back.jpg",
-        "Datei:CD-R Back.jpg",
         "CD-R",
         "Compact Disc",
         "International Organization for Standardization",
@@ -2867,8 +2633,6 @@
         "WORM",
         "Datenspeicher",
         "Datenspeicher",
-        "Datei:ECM Komponenten.jpg",
-        "Datei:ECM Komponenten.jpg",
         "Enterprise-Content-Management-System",
         "Informationslebenszyklusmanagement",
         "Hierarchisches Speichermanagement",
@@ -2886,18 +2650,10 @@
         "GoBS",
         "Web ARChive",
         "Uwe M. Borghoff",
-        "Spezial:ISBN-Suche/3898642453",
         "Ulrich Kampffmeyer",
         "Verband Organisations- und Informationssysteme",
-        "Spezial:ISBN-Suche/3932898036",
-        "Spezial:ISBN-Suche/3409879404",
-        "Spezial:ISBN-Suche/3980675645",
         "DMOZ",
         "OAIS",
-        "Spezial:ISBN-Suche/3932898036",
-        "Datei:Qsicon lesenswert.svg",
-        "Spezial:Permanenter Link/23070677",
-        "Wikipedia:Lesenswerte Artikel",
         "Library of Congress Control Number",
         "Web NDL Authorities"
     ],
@@ -2917,18 +2673,11 @@
         "Drill-Down"
     ],
     "Iteratives Prozess-Prototyping": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
         "Wirtschaftsinformatik",
         "Prototyping (Softwareentwicklung)",
         "Methodik",
-        "Datei:01 IPP Elemente.png",
-        "Datei:01 IPP Elemente.png",
         "Geschäftsprozess",
         "Data-Dictionary",
-        "Datei:02 IPP Vorgehen.png",
-        "Datei:02 IPP Vorgehen.png",
         "Wertkette",
         "SAP AG",
         "August-Wilhelm Scheer",
@@ -3015,8 +2764,6 @@
         "Dokumentlebenszyklusmanagement",
         "Content-Management-System",
         "WCMS",
-        "Datei:ECM Architektur.jpg",
-        "Datei:ECM Architektur.jpg",
         "Information",
         "Dokumentenmanagement",
         "Wissensmanagement",
@@ -3079,8 +2826,6 @@
         "Enterprise-Content-Management-System",
         "Service Oriented Architecture",
         "Enterprise-Content-Management-System",
-        "Datei:ECM Komponenten.jpg",
-        "Datei:ECM Komponenten.jpg",
         "Enterprise-Content-Management-System#Capture (Erfassung)",
         "Enterprise-Content-Management-System#Manage (Verwaltung, Bearbeitung, Nutzung)",
         "Enterprise-Content-Management-System#Store (Speichern)",
@@ -3123,15 +2868,7 @@
         "Output Management",
         "Wissensmanagement",
         "Workflow-Management",
-        "Diskussion:Enterprise-Content-Management",
         "Enterprise-Content-Management-System",
-        "Spezial:ISBN-Suche/3936052247",
-        "Spezial:ISBN-Suche/3980675645",
-        "Spezial:ISBN-Suche/3936534098",
-        "Spezial:ISBN-Suche/9783898644563",
-        "Spezial:ISBN-Suche/9783937818351",
-        "Spezial:ISBN-Suche/9783000266720",
-        "Spezial:ISBN-Suche/9783834808417",
         "Verband Organisations- und Informationssysteme",
         "DMOZ"
     ],
@@ -3258,9 +2995,7 @@
         "MacOS",
         "Linux",
         "Bilderverwaltung",
-        "Cross Media Publishing",
-        "Spezial:ISBN-Suche/9783871243493",
-        "Spezial:ISBN-Suche/9781136033629"
+        "Cross Media Publishing"
     ],
     "Intranetportal": [
         "Portal (Informatik)",
@@ -3282,17 +3017,13 @@
         "Videokonferenz",
         "Extranet",
         "Portal (Informatik)",
-        "Spezial:ISBN-Suche/3598116748",
-        "Spezial:ISBN-Suche/3540230157",
-        "Spezial:ISBN-Suche/3486577727",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive"
     ],
     "Prozessportal": [
         "Web-Applikation",
         "Unternehmensportal",
-        "Workflow",
-        "Spezial:ISBN-Suche/3540207155"
+        "Workflow"
     ],
     "Stammdaten": [
         "Informatik",
@@ -3357,17 +3088,11 @@
         "Stammdatenverwaltung",
         "Informations- und Kommunikationsdienste-Gesetz",
         "Teledienstedatenschutzgesetz",
-        "Spezial:ISBN-Suche/3481000030",
         "Hans Robert Hansen",
         "Gustaf Neumann (Wirtschaftsinformatiker)",
-        "Spezial:ISBN-Suche/3825226697",
-        "Spezial:ISBN-Suche/9783898647502",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Gemeinsame Normdatei",
-        "Datei:Qsicon gesprochen.svg",
-        "Datei:Wikipedia-Stammdaten.ogg",
-        "Portal:Gesprochene Wikipedia"
+        "Gemeinsame Normdatei"
     ],
     "Computer Supported Cooperative Work": [
         "Social Collaboration",
@@ -3420,8 +3145,6 @@
         "OpenCanvas",
         "Kollaboratives Schreiben",
         "Hyperlink",
-        "Datei:Cscwmatrix.jpg",
-        "Datei:Cscwmatrix.jpg",
         "Fortdauer",
         "Projektmanagementsoftware",
         "Instant Messaging",
@@ -3450,26 +3173,14 @@
         "Medienbruch",
         "Collaboration Engineering",
         "Gruppenarbeit (Arbeitsorganisation)",
-        "Spezial:ISBN-Suche/9783486702415",
         "Uwe M. Borghoff",
-        "Spezial:ISBN-Suche/3540628738",
-        "Spezial:ISBN-Suche/3920993608",
         "Roland Gabriel",
-        "Spezial:ISBN-Suche/3540665137",
         "Michael Koch (Informatiker)",
-        "Spezial:ISBN-Suche/3486580000",
         "Susanne Strahringer",
-        "Spezial:ISBN-Suche/3540674969",
         "Stefan Kirn",
-        "Spezial:ISBN-Suche/389319648X",
-        "Spezial:ISBN-Suche/9783898645997",
-        "Spezial:ISBN-Suche/3540009493",
-        "Spezial:ISBN-Suche/3540675523",
         "Helmut Krcmar",
-        "Spezial:ISBN-Suche/9783791028958",
         "Internationale Standardnummer für fortlaufende Sammelwerke",
-        "Digital Object Identifier",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink"
+        "Digital Object Identifier"
     ],
     "Groupware": [
         "Software",
@@ -3564,15 +3275,11 @@
         "Internationale Standardnummer für fortlaufende Sammelwerke",
         "Communications of the ACM",
         "Michael Koch (Informatiker)",
-        "Spezial:ISBN-Suche/9783486590548",
-        "Spezial:ISBN-Suche/1402042205",
-        "Spezial:ISBN-Suche/0444887601",
         "Dissertation",
         "Universität Karlsruhe",
         "Martin Eigner",
         "Ralph Stelzer",
-        "Springer Science+Business Media",
-        "Spezial:ISBN-Suche/9783540443735"
+        "Springer Science+Business Media"
     ],
     "Unternehmensarchitektur": [
         "Informationstechnik",
@@ -3640,23 +3347,13 @@
         "Schlanke Produktion",
         "Agile Softwareentwicklung",
         "Carl Hanser Verlag",
-        "Spezial:ISBN-Suche/9783446426948",
         "Internationale Standardnummer für fortlaufende Sammelwerke",
         "Springer Science+Business Media",
-        "Spezial:ISBN-Suche/9783642129544",
-        "Spezial:ISBN-Suche/9783898645102",
         "Dpunkt.verlag",
-        "Spezial:ISBN-Suche/9783864904066",
-        "Spezial:ISBN-Suche/1591398398",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
         "PDF",
         "Masterarbeit",
-        "Wikipedia:Defekte Weblinks",
-        "Benutzer:InternetArchiveBot/Anleitung/Toter Link",
-        "Spezial:ISBN-Suche/9783830037705",
-        "Spezial:ISBN-Suche/9783642129544",
-        "Spezial:ISBN-Suche/9783864904066",
         "Gemeinsame Normdatei"
     ],
     "Earned Value Analysis": [
@@ -3670,13 +3367,10 @@
         "Variable (Logik)",
         "Englische Sprache",
         "Projektstrukturplan",
-        "Datei:10 PSP.png",
-        "Datei:10 PSP.png",
         "Projekt",
         "Arbeitspaket",
         "Netzplan",
-        "Wert (Wirtschaft)",
-        "Spezial:ISBN-Suche/9783826609831"
+        "Wert (Wirtschaft)"
     ],
     "Input Management": [
         "Unstrukturierte Daten",
@@ -3719,11 +3413,7 @@
         "Französischer Revolutionskalender#Tageseinteilung",
         "Dezimalzeit",
         "Minute#Minuten im Arbeitsstudium",
-        "Tagesbruchteil",
-        "Spezial:ISBN-Suche/9783110158892",
-        "Spezial:ISBN-Suche/9783446448384",
-        "Spezial:ISBN-Suche/9783648048917",
-        "Spezial:ISBN-Suche/9783937957227"
+        "Tagesbruchteil"
     ],
     "Service Engineering": [
         "Produktentwicklung",
@@ -3763,9 +3453,7 @@
         "Elektronische Archivierung",
         "Compliance (BWL)",
         "Kassation (Archiv)",
-        "Ulrich Kampffmeyer",
-        "Spezial:ISBN-Suche/9783540690795",
-        "Spezial:ISBN-Suche/9783540358381"
+        "Ulrich Kampffmeyer"
     ],
     "PPS-System": [
         "Computerprogramm",
@@ -3812,11 +3500,6 @@
         "Einkauf",
         "Lagerhaltung",
         "Fertigungstyp",
-        "Spezial:ISBN-Suche/3540132775",
-        "Spezial:ISBN-Suche/3540177426",
-        "Spezial:ISBN-Suche/3540539840",
-        "Spezial:ISBN-Suche/3486272993",
-        "Spezial:ISBN-Suche/9783446413702",
         "Enterprise-Resource-Planning",
         "Manufacturing Execution System",
         "Produktionsplanung und -steuerung",
@@ -3836,9 +3519,7 @@
         "Risikomanagement",
         "Anlagevermögen",
         "Datenmanagement",
-        "Massachusetts Institute of Technology",
-        "Spezial:ISBN-Suche/0471253839",
-        "Spezial:ISBN-Suche/9783446420564"
+        "Massachusetts Institute of Technology"
     ],
     "Modifiable off-the-shelf": [
         "Commercial off-the-shelf",
@@ -3872,8 +3553,7 @@
         "LDIF",
         "CSV",
         "Visual Studio .NET",
-        "Microsoft Forefront",
-        "Wikipedia:Defekte Weblinks"
+        "Microsoft Forefront"
     ],
     "Enterprise Search": [
         "Information Retrieval",
@@ -3897,17 +3577,11 @@
         "Semantische Suche",
         "Semantische Suchmaschine",
         "Taxonomie",
-        "Spezial:ISBN-Suche/9781856046022",
-        "Spezial:ISBN-Suche/9783899811964",
-        "Spezial:ISBN-Suche/9783898386074",
         "Web-Archivierung#Begrifflichkeiten",
-        "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink"
+        "Internet Archive"
     ],
     "Enterprise-Content-Management-System": [
         "Enterprise-Content-Management",
-        "Datei:ECM Komponenten.jpg",
-        "Datei:ECM Komponenten.jpg",
         "Dokumentenmanagement",
         "Groupware",
         "WCMS",
@@ -4031,8 +3705,6 @@
         "Elektronische Archivierung",
         "Langzeitarchivierung",
         "Migration (Informationstechnik)",
-        "Datei:ECM Deliver.jpg",
-        "Datei:ECM Deliver.jpg",
         "Dateikonverter",
         "Datenkompression",
         "Ausgabe (Computer)",
@@ -4118,10 +3790,7 @@
         "Information Lifecycle Management",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Spezial:ISBN-Suche/3936052247",
-        "Ulrich Kampffmeyer",
-        "Spezial:ISBN-Suche/3936534098",
-        "Spezial:ISBN-Suche/9783834808417"
+        "Ulrich Kampffmeyer"
     ],
     "Quote to order": [
         "Build-to-Order",
@@ -4141,8 +3810,7 @@
     ],
     "Pegging (Wirtschaftsinformatik)": [
         "MRP II",
-        "Enterprise Resource Planning",
-        "Spezial:ISBN-Suche/0256247951"
+        "Enterprise Resource Planning"
     ],
     "Commercial off-the-shelf": [
         "Elektronik",
@@ -4160,12 +3828,7 @@
         "Modifiable off-the-shelf",
         "Anwendungsspezifische integrierte Schaltung",
         "Anwendungsspezifische integrierte Schaltung",
-        "Out of the box",
-        "Diskussion:Commercial off-the-shelf",
-        "Wikipedia:WikiProjekt Ereignisse/Vergangenheit",
-        "Wikipedia:Sei mutig",
-        "Wikipedia:Wie schreibe ich gute Artikel",
-        "Wikipedia:WikiProjekt Ereignisse/Vergangenheit/fehlend"
+        "Out of the box"
     ],
     "Verzeichnisdienst": [
         "Rechnernetz",
@@ -4218,9 +3881,6 @@
         "Metaverzeichnisdienst"
     ],
     "Datenträgeraustauschverfahren": [
-        "Wikipedia:Deutschlandlastige Artikel",
-        "Wikipedia:Deutschlandlastige Artikel",
-        "Wikipedia:Beteiligen",
         "Zahlungsverkehr",
         "Zahlungsverkehr",
         "Die Deutsche Kreditwirtschaft",
@@ -4267,34 +3927,18 @@
         "Buchgeld",
         "EDIFACT",
         "Swiss Interbank Clearing",
-        "Diskussion:Datenträgeraustauschverfahren",
-        "Wikipedia:WikiProjekt Ereignisse/Vergangenheit",
-        "Wikipedia:Sei mutig",
-        "Wikipedia:Wie schreibe ich gute Artikel",
-        "Wikipedia:WikiProjekt Ereignisse/Vergangenheit/fehlend",
         "Europäischer Zahlungsraum",
         "UNIFI (ISO 20022)",
         "Extensible Markup Language",
         "Electronic Banking Internet Communication Standard",
         "Abkommen über die Datenfernübertragung zwischen Kunden und Kreditinstituten",
-        "Wikipedia:Defekte Weblinks",
-        "Benutzer:InternetArchiveBot/Anleitung/Toter Link",
         "Deutsche Bundesbank",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
-        "Wikipedia:Defekte Weblinks",
-        "Benutzer:InternetArchiveBot/Anleitung/Toter Link",
         "Web-Archivierung#Begrifflichkeiten",
-        "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink"
+        "Internet Archive"
     ],
     "Business Process Reengineering": [
-        "Datei:Crystal Clear app package settings.png",
-        "Portal:Wirtschaft/Wartung",
-        "Portal:Wirtschaft",
-        "Wikipedia:Sei mutig",
-        "Portal:Wirtschaft/Wartung#Business Process Reengineering",
         "Englische Sprache",
         "Michael Hammer (Wirtschaftswissenschaftler)",
         "James A. Champy",
@@ -4305,8 +3949,6 @@
         "Total-Quality-Management",
         "Kontinuierlicher Verbesserungsprozess",
         "Organisationsstruktur",
-        "Datei:Bpr.png",
-        "Datei:Bpr.png",
         "Geschäftsprozess",
         "Funktionsorientierte Ablauforganisation",
         "Kundenanforderung",
@@ -4314,16 +3956,10 @@
         "Informationstechnologie",
         "Globalisierung",
         "Prozessanalyse",
-        "Spezial:ISBN-Suche/0471938831",
-        "Spezial:ISBN-Suche/3593350173",
         "Margit Osterloh",
-        "Jetta Frost",
-        "Spezial:ISBN-Suche/3409437886",
-        "Spezial:ISBN-Suche/9781461460671"
+        "Jetta Frost"
     ],
     "Stückliste": [
-        "Datei:Schneckengetriebe.png",
-        "Datei:Schneckengetriebe.png",
         "Bauteil (Technik)",
         "Erzeugnis (Technik)",
         "Produkt (Wirtschaft)",
@@ -4368,15 +4004,9 @@
         "Teileverwendungsnachweis",
         "Materialbedarfsplanung",
         "DIN 199",
-        "DIN 6771#Teil 2: Stücklisten",
-        "Spezial:ISBN-Suche/3771961300",
-        "Spezial:ISBN-Suche/3181452165",
-        "Spezial:ISBN-Suche/379108044X",
         "Produktlebenszyklus",
         "Produktmanagement",
-        "Produkt (Wirtschaft)",
-        "Spezial:ISBN-Suche/3181452165",
-        "Spezial:ISBN-Suche/9783446413702"
+        "Produkt (Wirtschaft)"
     ],
     "Electronic Markets": [
         "Betriebswirtschaftslehre",
@@ -4473,14 +4103,10 @@
         "Yahoo",
         "AOL",
         "Lycos Europe",
-        "Datei:Unternehmensportale.png",
-        "Datei:Unternehmensportale.png",
         "Thorsten Riemke-Gurzki",
         "Single Sign-on",
         "Grafische Benutzeroberfläche",
         "Expertise",
-        "Datei:Architektur von Prozessportalen.JPG",
-        "Datei:Architektur von Prozessportalen.JPG",
         "WebSphere#WebSphere Portal Server",
         "SAP NetWeaver Portal",
         "Microsoft Windows SharePoint Services",
@@ -4558,18 +4184,10 @@
         "Intranetportal",
         "PADEM",
         "Videoportal",
-        "Spezial:ISBN-Suche/9783732292417",
-        "Spezial:ISBN-Suche/9783540207153",
-        "Spezial:ISBN-Suche/3540222871",
-        "Spezial:ISBN-Suche/3409124543",
-        "Spezial:ISBN-Suche/3816767524",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive"
     ],
     "Geschäftsprozessmodellierung": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
         "Geschäftsprozess",
         "Modellierung",
         "Organisationseinheit",
@@ -4604,8 +4222,6 @@
         "Business Reengineering",
         "Prozesseigner",
         "Prozessmanagement",
-        "Datei:Kernprozess (Qualitätsmanagement).svg",
-        "Datei:Kernprozess (Qualitätsmanagement).svg",
         "Geschäftsprozessanalyse",
         "Geschäftsprozess",
         "Kernprozess",
@@ -4685,15 +4301,8 @@
         "Business Process Engine",
         "Integrationsplattform",
         "Software",
-        "Spezial:ISBN-Suche/9783921313893",
-        "Spezial:ISBN-Suche/3593350173",
         "August-Wilhelm Scheer",
-        "Spezial:ISBN-Suche/354062967X",
-        "Andreas Gadatsch",
-        "Spezial:ISBN-Suche/9783658278113",
-        "Spezial:ISBN-Suche/9783658188412",
-        "Wikipedia:Defekte Weblinks",
-        "Benutzer:InternetArchiveBot/Anleitung/Toter Link"
+        "Andreas Gadatsch"
     ],
     "Prozessmanagement": [
         "Prozessmanager (Computer)",
@@ -4704,8 +4313,6 @@
         "Organisationskultur",
         "Kennzahl",
         "Balanced Scorecard",
-        "Datei:Prozessmodell (Qualitätsmanagement).svg",
-        "Datei:Prozessmodell (Qualitätsmanagement).svg",
         "Demingkreis",
         "Nutzen (Wirtschaft)",
         "Geschäftsprozessoptimierung",
@@ -4793,31 +4400,17 @@
         "ITIL",
         "Serviceorientierte Architektur",
         "Informations- und Kommunikationstechnik",
-        "Spezial:ISBN-Suche/9783322850706",
         "Margit Osterloh",
         "Jetta Frost",
-        "Spezial:ISBN-Suche/9783834902320",
-        "Spezial:ISBN-Suche/9783446415713",
-        "Spezial:ISBN-Suche/9783834922113",
-        "Spezial:ISBN-Suche/9783921313893",
-        "Spezial:ISBN-Suche/9783642338434",
         "Michael Gaitanides",
-        "Spezial:ISBN-Suche/9783800642175",
-        "Spezial:ISBN-Suche/9783791039893",
-        "Spezial:ISBN-Suche/9783446446250",
         "Karl W. Wagner",
-        "Spezial:ISBN-Suche/9783446457416",
         "Andreas Gadatsch",
-        "Spezial:ISBN-Suche/9783658278113",
-        "Spezial:ISBN-Suche/9780929652122",
         "Workflow Management Coalition",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive"
     ],
     "Vorgangsbearbeitung": [
-        "Diskussion:Vorgangsbearbeitung",
         "E-Akte",
-        "Wikipedia:Wie schreibe ich gute Artikel",
         "Sachbearbeiter",
         "Verwaltung",
         "Antrag",
@@ -4838,8 +4431,7 @@
     ],
     "Project Scorecard": [
         "Balanced Scorecard",
-        "Robert S. Kaplan",
-        "Spezial:ISBN-Suche/9783832284466"
+        "Robert S. Kaplan"
     ],
     "Mobiler Kundendienst": [
         "Service-Management",
@@ -4849,27 +4441,14 @@
         "Enterprise Resource Planning",
         "Customer-Relationship-Management",
         "SAP",
-        "Datei:1 Wikipedia Mobiler Service1.jpg",
-        "Datei:1 Wikipedia Mobiler Service1.jpg",
-        "Datei:2 Wikipedia Mobiler Service2.jpg",
-        "Datei:2 Wikipedia Mobiler Service2.jpg",
-        "Datei:3 Wikipedia Mobiler Service3-.jpg",
-        "Datei:3 Wikipedia Mobiler Service3-.jpg",
-        "Datei:4 Wikipedia Mobiler Service Nutzenpotenzial-Rechnung.JPG",
-        "Datei:4 Wikipedia Mobiler Service Nutzenpotenzial-Rechnung.JPG",
         "Service-Management",
         "Enterprise Resource Planning",
         "Kundendienst"
     ],
     "Office Excellence": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
         "Management",
         "Produktivität",
         "Büro",
-        "Datei:OE Levelmodell.jpg",
-        "Datei:OE Levelmodell.jpg",
         "Produktivität",
         "Qualität",
         "Kaizen",
@@ -4893,14 +4472,7 @@
         "Volkswagen AG",
         "Harting (Unternehmen)",
         "Harting (Unternehmen)",
-        "Spezial:ISBN-Suche/3833463414",
-        "Spezial:ISBN-Suche/9783833463419",
-        "Spezial:ISBN-Suche/9783784472874",
-        "Spezial:ISBN-Suche/9783980952118",
-        "Spezial:ISBN-Suche/9783980952101",
-        "Bodo Wiegand",
-        "Spezial:ISBN-Suche/9783980952156",
-        "Spezial:ISBN-Suche/9780743249270"
+        "Bodo Wiegand"
     ],
     "Analyst": [
         "Österreich",
@@ -4958,14 +4530,9 @@
         "Semantik",
         "Metadaten",
         "Datenbankadministrator",
-        "Qualitätssicherung",
-        "Spezial:ISBN-Suche/3790813567"
+        "Qualitätssicherung"
     ],
     "Flottenmanagement": [
-        "Diskussion:Flottenmanagement",
-        "Wikipedia:Wie schreibe ich gute Artikel",
-        "Datei:Idd-212G.png",
-        "Datei:Idd-212G.png",
         "OBD II",
         "Fuhrpark",
         "Fahrzeug",
@@ -4981,15 +4548,11 @@
         "Güterverkehr",
         "Disponent",
         "Global Positioning System",
-        "Datei:Geolocation.png",
-        "Datei:Geolocation.png",
         "Geolokation",
         "Satellit (Raumfahrt)",
         "Rechnernetz",
         "Internet",
         "Rechenzentrum",
-        "Datei:Tracking idd212g.png",
-        "Datei:Tracking idd212g.png",
         "GPRS",
         "SMS",
         "Datenlogger",
@@ -5061,15 +4624,9 @@
         "Ehepartner",
         "Flottenmanagement (Zeitschrift)",
         "Web-Archivierung#Begrifflichkeiten",
-        "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
-        "Wikipedia:Hinweis Rechtsthemen",
-        "Wikipedia:Hinweis Rechtsthemen"
+        "Internet Archive"
     ],
     "Verband der Wirtschaftsinformatik": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
         "Wirtschaftsinformatik",
         "Fachverband",
         "Schweiz"
@@ -5137,19 +4694,10 @@
         "Integrität (Informationssicherheit)",
         "Verschlüsselung",
         "E-Mail",
-        "Diskussion:Online-Brief",
-        "Wikipedia:WikiProjekt Ereignisse/Vergangenheit",
-        "Wikipedia:Sei mutig",
-        "Wikipedia:Wie schreibe ich gute Artikel",
-        "Wikipedia:WikiProjekt Ereignisse/Vergangenheit/2011",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
-        "Wikipedia:Defekte Weblinks",
-        "Benutzer:InternetArchiveBot/Anleitung/Toter Link",
         "Web-Archivierung#Begrifflichkeiten",
-        "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink"
+        "Internet Archive"
     ],
     "Supply Chain Event Management": [
         "Lieferkette",
@@ -5171,10 +4719,6 @@
         "RFID",
         "Statistik",
         "Kennzahl",
-        "Spezial:ISBN-Suche/9783639189827",
-        "Spezial:ISBN-Suche/9783790817393",
-        "Spezial:ISBN-Suche/3764374861",
-        "Spezial:ISBN-Suche/3824421941",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive"
     ],
@@ -5239,15 +4783,8 @@
         "University of Western Ontario",
         "Unternehmenskultur",
         "Gerd F. Kamiske",
-        "Spezial:ISBN-Suche/3446214860",
-        "Spezial:ISBN-Suche/9783446416093",
-        "Spezial:ISBN-Suche/3879884013",
         "Adolf J. Schwab",
-        "Spezial:ISBN-Suche/354044372X",
-        "Ulrich Bröckling",
-        "Spezial:ISBN-Suche/3518294326",
-        "Spezial:ISBN-Suche/3638582051",
-        "Spezial:ISBN-Suche/9783642318924"
+        "Ulrich Bröckling"
     ],
     "Unstrukturierte Daten": [
         "Wirtschaftsinformatik",
@@ -5305,11 +4842,7 @@
         "Personalwesen",
         "Administrationssystem",
         "Dispositionssystem",
-        "Kontrollsystem",
-        "Spezial:ISBN-Suche/354023411X",
-        "Datei:Qsicon gesprochen.svg",
-        "Datei:De-Planungssystem-article.ogg",
-        "Portal:Gesprochene Wikipedia"
+        "Kontrollsystem"
     ],
     "Kontrollsystem": [
         "Anwendungssystem",
@@ -5317,8 +4850,7 @@
         "Operatives System",
         "Administrationssystem",
         "Dispositionssystem",
-        "Planungssystem",
-        "Spezial:ISBN-Suche/354023411X"
+        "Planungssystem"
     ],
     "Operatives System": [
         "Anwendungssystem",
@@ -5334,11 +4866,7 @@
         "Administrationssystem",
         "Dispositionssystem",
         "Planungssystem",
-        "Kontrollsystem",
-        "Spezial:ISBN-Suche/354023411X",
-        "Datei:Qsicon gesprochen.svg",
-        "Datei:De-Operatives System-article.ogg",
-        "Portal:Gesprochene Wikipedia"
+        "Kontrollsystem"
     ],
     "Themenentdeckung und -verfolgung": [
         "Nachrichten",
@@ -5352,18 +4880,9 @@
         "Computerlinguistik",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
-        "Spezial:ISBN-Suche/9780792376644",
-        "Digital Object Identifier",
-        "Spezial:ISBN-Suche/0792376641"
+        "Digital Object Identifier"
     ],
     "Software-Industrie": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
-        "Diskussion:Software-Industrie",
-        "Diskussion:Software-Industrie#Überarbeiten",
-        "Wikipedia:Wie schreibe ich gute Artikel",
         "Unternehmen",
         "Software",
         "IT-Cluster Rhein-Main-Neckar",
@@ -5407,18 +4926,12 @@
         "Software",
         "Softwaretechnik",
         "Heiner Diefenbach",
-        "Spezial:ISBN-Suche/9783642133602",
-        "Wikipedia:Defekte Weblinks",
-        "Benutzer:InternetArchiveBot/Anleitung/Toter Link",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
         "Software-Atlas Deutschland",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
-        "Digital Object Identifier",
-        "Spezial:ISBN-Suche/3839169836"
+        "Digital Object Identifier"
     ],
     "BMEcat": [
         "Katalogmanagement",
@@ -5448,18 +4961,7 @@
         "Fredmund Malik",
         "Balanced Scorecard",
         "Theory of Constraints",
-        "Spezial:ISBN-Suche/3430135826",
-        "Spezial:ISBN-Suche/3922062008",
-        "Spezial:ISBN-Suche/3593354608",
-        "Spezial:ISBN-Suche/3512004962",
-        "Frederic Vester",
-        "Spezial:ISBN-Suche/342102703X",
-        "Spezial:ISBN-Suche/9783869360010",
-        "Spezial:ISBN-Suche/3921279070",
-        "Spezial:ISBN-Suche/3927889288",
-        "Spezial:ISBN-Suche/9783346321848",
-        "Spezial:ISBN-Suche/9783834918352",
-        "Spezial:ISBN-Suche/9783869360010"
+        "Frederic Vester"
     ],
     "Standardisierungsproblem": [
         "Wirtschaftsinformatik",
@@ -5478,10 +4980,6 @@
         "Informationskosten",
         "Opportunitätskosten",
         "Trade-off",
-        "Datei:Standardisierungsproblem 1 - unstandardisiert.png",
-        "Datei:Standardisierungsproblem 2 - ein Knoten standardisiert.png",
-        "Datei:Standardisierungsproblem 3 - 2 Knoten standardisiert.png",
-        "Datei:Standardisierungsproblem 4 - 3 Knoten standardisiert.png",
         "Komplexitätstheorie",
         "Operations Research",
         "Branch-and-Bound",
@@ -5495,13 +4993,9 @@
         "Numerische Simulation",
         "Modellbasiertes Systems Engineering",
         "Web-Archivierung#Begrifflichkeiten",
-        "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink"
+        "Internet Archive"
     ],
     "Produktivitätsparadoxon": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
         "Informationstechnologie",
         "Hypothese",
         "Dienstleistungssektor",
@@ -5524,15 +5018,11 @@
         "Unternehmensarchitektur",
         "Framework",
         "Framework",
-        "Datei:Generic EAMMF Matrix.png",
-        "Datei:Generic EAMMF Matrix.png",
         "Department of Defense",
         "Department of Commerce",
         "Springer Science+Business Media",
-        "Spezial:ISBN-Suche/9783642129544",
         "Government Accountability Office",
         "Government Accountability Office",
-        "Spezial:ISBN-Suche/9783642129544",
         "Government Accountability Office",
         "Government Accountability Office",
         "Government Accountability Office",
@@ -5622,16 +5112,10 @@
         "PayPal",
         "Amazon",
         "Facebook",
-        "Spezial:ISBN-Suche/9783662598283",
-        "Spezial:ISBN-Suche/3800632659",
-        "Spezial:ISBN-Suche/9783642106514",
-        "Spezial:ISBN-Suche/3540668772",
         "Internationale Standardnummer für fortlaufende Sammelwerke",
-        "Spezial:ISBN-Suche/9783731610670",
         "Internationale Standardnummer für fortlaufende Sammelwerke",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
         "Absatzwirtschaft (Zeitschrift)"
     ],
     "Tradex Technologies": [
@@ -5655,11 +5139,7 @@
         "Aktienkurs",
         "Fusion (Wirtschaft)",
         "Unternehmensübernahme",
-        "Software-Industrie",
-        "Wikipedia:Defekte Weblinks",
-        "Benutzer:InternetArchiveBot/Anleitung/Toter Link",
-        "Wikipedia:Defekte Weblinks",
-        "Benutzer:InternetArchiveBot/Anleitung/Toter Link"
+        "Software-Industrie"
     ],
     "HMD Praxis der Wirtschaftsinformatik": [
         "Wirtschaftsinformatik",
@@ -5674,7 +5154,6 @@
         "Gesellschaft für Informatik"
     ],
     "NetIQ eDirectory": [
-        "Datei:CWorthy3.png",
         "Softwareentwickler",
         "Version (Software)",
         "Betriebssystem",
@@ -5708,13 +5187,7 @@
         "Replikation",
         "Standleitung",
         "Lightweight Directory Access Protocol",
-        "Client-Server-Modell",
-        "Spezial:ISBN-Suche/0971742006",
-        "Spezial:ISBN-Suche/0768661056",
-        "Spezial:ISBN-Suche/0789729849",
-        "Spezial:ISBN-Suche/0768665906",
-        "Spezial:ISBN-Suche/159059553X",
-        "Spezial:ISBN-Suche/143020043X"
+        "Client-Server-Modell"
     ],
     "Kollaboratives Filtern": [
         "Data-Mining",
@@ -5738,16 +5211,11 @@
         "TiVo",
         "Yelp, Inc.",
         "Rate Your Music",
-        "Spezial:ISBN-Suche/9783540850168",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Spezial:ISBN-Suche/9783639255096",
-        "Spezial:ISBN-Suche/9781595936547",
         "Gemeinsame Normdatei"
     ],
     "De-Mail": [
-        "Datei:De-mail.svg",
-        "Datei:De-mail.svg",
         "Liste der IPA-Zeichen",
         "E-Mail",
         "Kommunikationsmittel",
@@ -5801,8 +5269,6 @@
         "Authentifizierung",
         "Digitales Zertifikat",
         "Verschlüsselung",
-        "Diskussion:De-Mail",
-        "Wikipedia:Wie schreibe ich gute Artikel",
         "Ende-zu-Ende-Verschlüsselung",
         "S/MIME",
         "OpenPGP",
@@ -5815,11 +5281,6 @@
         "Ende-zu-Ende-Verschlüsselung",
         "Zugang",
         "Bundesamt für Sicherheit in der Informationstechnik",
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
-        "Diskussion:De-Mail#fehlende Belege",
-        "Benutzer:JensLechtenboerger",
         "IT-Gipfel",
         "Financial Times Deutschland",
         "E-Postbrief",
@@ -5884,22 +5345,16 @@
         "Datenschutz und Datensicherheit",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Wikipedia:Defekte Weblinks",
-        "Benutzer:InternetArchiveBot/Anleitung/Toter Link",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
-        "Spezial:ISBN-Suche/0130460192",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Wikipedia:Defekte Weblinks",
-        "Benutzer:InternetArchiveBot/Anleitung/Toter Link",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
         "Linus Neumann",
@@ -5907,15 +5362,11 @@
         "Chaos Computer Club",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Wikipedia:Defekte Weblinks",
-        "Benutzer:InternetArchiveBot/Anleitung/Toter Link",
         "Neue Juristische Wochenschrift",
         "Sueddeutsche.de",
         "Heise online"
     ],
     "Metadaten": [
-        "Datei:Schlagwortkatalog.jpg",
-        "Datei:Schlagwortkatalog.jpg",
         "Datenstruktur",
         "Elektronisches Dokument",
         "Buch",
@@ -5984,14 +5435,10 @@
         "Orthogonal",
         "Identifikator",
         "Uniform Resource Identifier",
-        "Datei:Frameworks-Metadaten-Generisch-3.gif",
-        "Datei:Frameworks-Metadaten-Generisch-3.gif",
         "Framework",
         "Komponente (Software)",
         "Resource Description Framework",
         "World Wide Web Consortium",
-        "Datei:Frameworks-Metadaten-RDF-6.gif",
-        "Datei:Frameworks-Metadaten-RDF-6.gif",
         "Namensraum",
         "Datentyp",
         "RDF-Schema",
@@ -6069,9 +5516,6 @@
         "Ontologie (Informatik)",
         "Untertitel",
         "TV-Anytime",
-        "Spezial:ISBN-Suche/9783833419263",
-        "Spezial:ISBN-Suche/3860572873",
-        "Spezial:ISBN-Suche/3639078799",
         "Bildwissenschaft",
         "Süddeutsche.de",
         "Gemeinsame Normdatei"
@@ -6181,11 +5625,7 @@
         "Service-Level-Agreement",
         "Wikiversity",
         "Wikiversity",
-        "Wikiversity",
-        "Spezial:ISBN-Suche/3540554017",
-        "Spezial:ISBN-Suche/3528157593",
-        "Spezial:ISBN-Suche/3540600485",
-        "Datei:Zachman Framework Model.svg"
+        "Wikiversity"
     ],
     "Betriebswirtschaftliches Institut für Organisation und Automation": [
         "Gemeinnützigkeit",
@@ -6209,29 +5649,15 @@
         "Köln-Müngersdorf",
         "Gründerzentrum",
         "Hochschule Fresenius",
-        "Spezial:ISBN-Suche/9783642168581",
-        "Spezial:ISBN-Suche/9783642281426",
-        "Spezial:ISBN-Suche/3827373484",
-        "Spezial:ISBN-Suche/3540067035",
-        "Spezial:ISBN-Suche/3528051051",
-        "Spezial:ISBN-Suche/3816302378",
-        "Spezial:ISBN-Suche/9783642281426",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
         "Gemeinsame Normdatei",
         "Library of Congress Control Number",
         "Virtual International Authority File"
     ],
     "T-Commerce": [
-        "Diskussion:T-Commerce",
-        "Wikipedia:WikiProjekt Ereignisse/Vergangenheit",
-        "Wikipedia:Sei mutig",
-        "Wikipedia:Wie schreibe ich gute Artikel",
-        "Wikipedia:WikiProjekt Ereignisse/Vergangenheit/2005",
         "Fernseher",
         "U-Commerce",
         "M-Commerce",
@@ -6256,18 +5682,13 @@
         "Informationssystem",
         "Modell",
         "Theorie des überlegten Handelns",
-        "Datei:Technology Acceptance Model.png",
-        "Datei:Technology Acceptance Model.png",
         "Informationssysteme",
         "Reliabilität",
         "Metaanalyse",
         "Computertechnologie",
         "Kulturkreis",
         "Gemeinsamer Bibliotheksverbund",
-        "Datei:TAM2.png",
-        "Datei:TAM2.png",
-        "Output",
-        "Spezial:ISBN-Suche/9783832542726"
+        "Output"
     ],
     "Enterprise Manufacturing Intelligence": [
         "Vertikale Integration",
@@ -6276,9 +5697,6 @@
         "Key Performance Indicator"
     ],
     "Customer-Relationship-Management": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
         "Englische Sprache",
         "Kunde",
         "Dokumentation",
@@ -6350,9 +5768,6 @@
         "Wertkette",
         "Prozesskostenrechnung",
         "Warengruppenmanagement",
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
         "Datenbank",
         "Data-Warehouse",
         "Data-Mining",
@@ -6405,18 +5820,7 @@
         "Know your customer",
         "Kundenmanagement",
         "Software-on-Demand",
-        "Spezial:ISBN-Suche/9783170262690",
-        "Spezial:ISBN-Suche/9783905413021",
-        "Spezial:ISBN-Suche/3899364740",
-        "Spezial:ISBN-Suche/9783857437281",
-        "Spezial:ISBN-Suche/3905413086",
-        "Spezial:ISBN-Suche/3409119914",
-        "Spezial:ISBN-Suche/9783527502509",
         "VDM Verlag Dr. Müller",
-        "Spezial:ISBN-Suche/9783836404174",
-        "Spezial:ISBN-Suche/9783898645072",
-        "Spezial:ISBN-Suche/340921934X",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
         "Editions Weblaw"
     ],
     "Social CRM": [
@@ -6465,8 +5869,6 @@
         "Subjektive Relevanz",
         "Datenbank",
         "SQL",
-        "Datei:Drs.svg",
-        "Datei:Drs.svg",
         "Indexierung",
         "Stemming",
         "Register (Nachschlagewerk)",
@@ -6487,13 +5889,9 @@
         "Erweitertes Boolesches Retrieval",
         "Neuronales Netz",
         "Fuzzy Retrieval",
-        "Spezial:ISBN-Suche/020139829X",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Internationale Standardnummer für fortlaufende Sammelwerke",
-        "Spezial:ISBN-Suche/0408709294",
-        "Spezial:ISBN-Suche/9781441977151",
-        "Spezial:ISBN-Suche/0070544859"
+        "Internationale Standardnummer für fortlaufende Sammelwerke"
     ],
     "Process-Mining": [
         "Prozessmanagement",
@@ -6544,26 +5942,19 @@
         "Workflow-Management",
         "Serviceorientierte Architektur",
         "WS-Business Process Execution Language",
-        "Extensible Markup Language",
-        "Spezial:ISBN-Suche/9783735740304",
-        "Spezial:ISBN-Suche/9783839607763"
+        "Extensible Markup Language"
     ],
     "Department of Defense Joint Technical Architecture": [
         "Informationssystem",
         "Framework",
-        "Verteidigungsministerium der Vereinigten Staaten",
-        "Spezial:ISBN-Suche/9783642129544"
+        "Verteidigungsministerium der Vereinigten Staaten"
     ],
     "US Federal Enterprise Architecture Framework": [
         "Vorgehensmodell",
         "Unternehmensarchitektur",
         "Chief Information Officer",
         "Zachman Framework",
-        "National Institutes of Health",
-        "Spezial:ISBN-Suche/9783642129544",
-        "Spezial:ISBN-Suche/9783642129544",
-        "Spezial:ISBN-Suche/9783642129544",
-        "Spezial:ISBN-Suche/9783642129544"
+        "National Institutes of Health"
     ],
     "Zählpunkt (Logistik)": [
         "Materialfluss",
@@ -6617,15 +6008,7 @@
         "Materialflusssimulation",
         "Logistik",
         "Lieferkette",
-        "Digitaler Zwilling",
-        "Spezial:ISBN-Suche/3446406700",
-        "Spezial:ISBN-Suche/9783446418783",
-        "Spezial:ISBN-Suche/3409179143",
-        "Spezial:ISBN-Suche/9783642052927",
-        "Spezial:ISBN-Suche/9783446413702",
-        "Spezial:ISBN-Suche/3446190848",
-        "Spezial:ISBN-Suche/9783446418783",
-        "Spezial:ISBN-Suche/9783540768593"
+        "Digitaler Zwilling"
     ],
     "Produktionsprogramm": [
         "Produkt (Wirtschaft)",
@@ -6697,11 +6080,6 @@
         "Produktionssystem (Unternehmen)",
         "Produktportfolio",
         "Produktionsplanung und -steuerung",
-        "Spezial:ISBN-Suche/9783540850779",
-        "Spezial:ISBN-Suche/9783486587623",
-        "Spezial:ISBN-Suche/9783446413702",
-        "Spezial:ISBN-Suche/9783642052927",
-        "Spezial:ISBN-Suche/3446175237",
         "Erich Gutenberg",
         "Gemeinsame Normdatei"
     ],
@@ -6716,10 +6094,7 @@
         "Kraftfahrzeugausstattung",
         "Boolesche Algebra",
         "Widerspruchsfreiheit",
-        "AVL-Baum",
-        "Spezial:ISBN-Suche/9783866445628",
-        "Spezial:ISBN-Suche/3181452165",
-        "Spezial:ISBN-Suche/9783446413702"
+        "AVL-Baum"
     ],
     "Mass Customization": [
         "Massenproduktion",
@@ -6738,13 +6113,7 @@
         "Website-Baukasten",
         "Konfigurator",
         "Produktkonfigurator",
-        "Boolesche Algebra",
-        "Spezial:ISBN-Suche/0875843727",
-        "Spezial:ISBN-Suche/3835003550",
-        "Spezial:ISBN-Suche/3865502814",
-        "Spezial:ISBN-Suche/9783835008380",
-        "Spezial:ISBN-Suche/3890127509",
-        "Spezial:ISBN-Suche/9783642183898"
+        "Boolesche Algebra"
     ],
     "Produktionsplan": [
         "Unternehmensplanung",
@@ -6766,20 +6135,13 @@
         "Personalplanung",
         "Beschaffungsplanung",
         "Prognose",
-        "Materialwirtschaft",
-        "Spezial:ISBN-Suche/9783540403067",
-        "Spezial:ISBN-Suche/9783446418783",
-        "Spezial:ISBN-Suche/9783446413702",
-        "Spezial:ISBN-Suche/9783446418783",
-        "Spezial:ISBN-Suche/9783446413702"
+        "Materialwirtschaft"
     ],
     "OMB Enterprise Architecture Assessment Framework": [
         "Vorgehensmodell",
         "Unternehmensarchitektur",
         "Office of Management and Budget",
-        "Enterprise Architecture Management Maturity Framework",
-        "Spezial:ISBN-Suche/9783642129544",
-        "Spezial:ISBN-Suche/9783642129544"
+        "Enterprise Architecture Management Maturity Framework"
     ],
     "Media@Komm": [
         "E-Administration",
@@ -6813,33 +6175,17 @@
         "Kaliningrad",
         "Deutscher Städte- und Gemeindebund",
         "Heinrich Reinermann",
-        "Spezial:ISBN-Suche/3932112644",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
-        "Wikipedia:Defekte Weblinks",
-        "Benutzer:InternetArchiveBot/Anleitung/Toter Link",
-        "Wikipedia:Defekte Weblinks",
-        "Benutzer:InternetArchiveBot/Anleitung/Toter Link",
         "Web-Archivierung#Begrifflichkeiten",
-        "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink"
+        "Internet Archive"
     ],
     "Visuelle Sprache": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
-        "Datei:OO-historie-2.svg",
-        "Datei:OO-historie-2.svg",
         "Programmiersprache",
         "Programmiersprachen",
         "C (Programmiersprache)",
         "C++",
         "Java (Programmiersprache)",
-        "Datei:Sysml diagrams collage.jpg",
-        "Datei:Sysml diagrams collage.jpg",
-        "Datei:Scratch Screenshot, Running Script.png",
-        "Datei:Scratch Screenshot, Running Script.png",
         "UML",
         "Quelltext",
         "UML",
@@ -6858,9 +6204,6 @@
         "Geschäftsprozessmodellierung"
     ],
     "Unternehmensinformatik": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
         "Informationssysteme",
         "Kommunikationssystem",
         "Unternehmenssoftware",
@@ -6885,13 +6228,10 @@
         "Geschäftsprozessmodellierung",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
         "Web-Archivierung#Begrifflichkeiten",
-        "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink"
+        "Internet Archive"
     ],
     "Integrierte Organisations- und Technikentwicklung": [
         "Groupware",
@@ -6918,8 +6258,7 @@
         "Organisation",
         "Computer Supported Cooperative Work",
         "Gruppenarbeit (Arbeitsorganisation)",
-        "Kollaboration",
-        "Spezial:ISBN-Suche/9783642208911"
+        "Kollaboration"
     ],
     "Web Dynpro": [
         "SAP",
@@ -6951,17 +6290,7 @@
         "Assistent (Datenverarbeitung)",
         "Skin (Computer)",
         "Dynpro",
-        "Business Server Pages",
-        "Spezial:ISBN-Suche/9783898427647",
-        "Spezial:ISBN-Suche/1592290779",
-        "Spezial:ISBN-Suche/1592290388",
-        "Spezial:ISBN-Suche/3898423174",
-        "Spezial:ISBN-Suche/3898426904",
-        "Spezial:ISBN-Suche/9781592293117",
-        "Spezial:ISBN-Suche/9783836213158",
-        "Spezial:ISBN-Suche/9783836215220",
-        "Spezial:ISBN-Suche/9783642113840",
-        "Spezial:ISBN-Suche/9783642113864"
+        "Business Server Pages"
     ],
     "Datenmapping": [
         "Datenmodell",
@@ -7023,8 +6352,6 @@
     ],
     "Extranet": [
         "Intranet",
-        "Datei:Intranet Extranet.jpg",
-        "Datei:Intranet Extranet.jpg",
         "Internet",
         "Transmission Control Protocol",
         "Internet Protocol",
@@ -7035,9 +6362,6 @@
         "E-Business"
     ],
     "Dokumenterzeugung": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
         "Software",
         "Layout",
         "Corporate Design",
@@ -7083,8 +6407,6 @@
         "Softwareentwicklungsprozess",
         "Anforderungsanalyse (Informatik)",
         "Softwaretest",
-        "Datei:Quality Engineering.jpg",
-        "Datei:Quality Engineering.jpg",
         "Softwarequalität",
         "Usability",
         "ISO/IEC 25000",
@@ -7137,28 +6459,19 @@
         "Variable Kosten",
         "Datenschutz",
         "Informationssicherheit",
-        "Spezial:ISBN-Suche/3540655123",
-        "Spezial:ISBN-Suche/9783486590500",
-        "Spezial:ISBN-Suche/9783937818375",
-        "Spezial:ISBN-Suche/0077108949",
         "Web-Archivierung#Begrifflichkeiten",
-        "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink"
+        "Internet Archive"
     ],
     "Certified Financial Engineer": [
         "Deutsche Börse",
         "Eurex",
         "An-Institut",
         "Hochschule für Wirtschaft und Umwelt Nürtingen-Geislingen",
-        "Datei:Certified Financial Engineer (CFE).png",
-        "Datei:Certified Financial Engineer (CFE).png",
         "Unterscheidungskraft (Markenrecht)",
         "Wort-Bild-Marke",
         "Oldenbourg Wissenschaftsverlag",
-        "Spezial:ISBN-Suche/9783110353037",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
         "Deutsches Anlegerfernsehen",
         "Deutsche Börse"
     ],
@@ -7169,8 +6482,7 @@
         "Enterprise-Resource-Planning",
         "Customer-Relationship-Management",
         "Vorlieferant",
-        "Papierloses Büro",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink"
+        "Papierloses Büro"
     ],
     "ISO/IEC 27002": [
         "Internationale Organisation für Normung",
@@ -7195,7 +6507,6 @@
         "Audit"
     ],
     "AristaFlow": [
-        "Datei:AristaFlow GmbH.png",
         "Rechtsform",
         "Gründung (Recht)",
         "Sitz (juristische Person)",
@@ -7203,8 +6514,6 @@
         "Mitarbeiter",
         "Wirtschaftszweig",
         "Software",
-        "Datei:AristaFlow GmbH.png",
-        "Datei:AristaFlow BPM Suite.PNG",
         "Softwareentwickler",
         "Version (Software)",
         "Betriebssystem",
@@ -7234,9 +6543,6 @@
         "Nachhaltig",
         "Markttransparenz",
         "Compliance (BWL)",
-        "Diskussion:Enterprise Information Management",
-        "Diskussion:Enterprise Information Management",
-        "Wikipedia:Wie schreibe ich gute Artikel",
         "Endgerät",
         "Enterprise-Content-Management",
         "Business Process Management",
@@ -7263,8 +6569,6 @@
         "Reporting",
         "Business Intelligence",
         "Internationale Standardnummer für fortlaufende Sammelwerke",
-        "Spezial:ISBN-Suche/9781591402060",
-        "Spezial:ISBN-Suche/9781461452355",
         "Internationale Standardnummer für fortlaufende Sammelwerke",
         "Verband Organisations- und Informationssysteme",
         "Verband Organisations- und Informationssysteme",
@@ -7273,12 +6577,10 @@
         "Verband Organisations- und Informationssysteme",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink",
         "Ulrich Kampffmeyer",
         "Open Text",
         "Web-Archivierung#Begrifflichkeiten",
-        "Internet Archive",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink"
+        "Internet Archive"
     ],
     "Standard for the exchange of product model data": [
         "Standard",
@@ -7292,9 +6594,6 @@
         "AP233",
         "Systems Engineering",
         "Boundary Representation",
-        "Diskussion:Standard for the exchange of product model data",
-        "Diskussion:Standard for the exchange of product model data",
-        "Wikipedia:Wie schreibe ich gute Artikel",
         "DIN-Norm",
         "DIN-Norm",
         "Internationale Organisation für Normung",
@@ -7305,9 +6604,7 @@
         "CAD",
         "Industry Foundation Classes",
         "Industry Foundation Classes",
-        "Initial Graphics Exchange Specification",
-        "Spezial:ISBN-Suche/3410129200",
-        "Spezial:ISBN-Suche/3519063778"
+        "Initial Graphics Exchange Specification"
     ],
     "Intranet": [
         "Latein",
@@ -7373,13 +6670,6 @@
         "Internetagentur",
         "Intranetportal",
         "Host (Informationstechnik)",
-        "Spezial:ISBN-Suche/3835000950",
-        "Spezial:ISBN-Suche/389669491X",
-        "Spezial:ISBN-Suche/3896693352",
-        "Spezial:ISBN-Suche/3826640071",
-        "Spezial:ISBN-Suche/9783940543233",
-        "Spezial:ISBN-Suche/9783658054397",
-        "Spezial:ISBN-Suche/9783940543134",
         "Gemeinsame Normdatei"
     ],
     "Organigramm": [
@@ -7395,8 +6685,6 @@
         "Abteilung (Organisation)",
         "Stelle (Organisation)",
         "Führungsspanne",
-        "Datei:Organigramm 2.png",
-        "Datei:Organigramm 2.png",
         "Software",
         "Dia (Software)",
         "Kivio",
@@ -7410,14 +6698,9 @@
         "SAP AG",
         "PeopleSoft",
         "Horst-Joachim Rahn",
-        "Spezial:ISBN-Suche/9783470498676",
         "Manfred Schulte-Zurhausen",
-        "Spezial:ISBN-Suche/3800628252",
         "Jean-Paul Thommen",
-        "Spezial:ISBN-Suche/3908143381",
-        "Spezial:ISBN-Suche/3409430164",
         "Dietmar Vahs",
-        "Spezial:ISBN-Suche/9783791026626",
         "Alfred D. Chandler junior"
     ],
     "Informationskosten": [
@@ -7604,9 +6887,6 @@
         "Gemeinsame Normdatei"
     ],
     "Digital Workplace": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
         "Digitaltechnik#Allgemeines",
         "Information",
         "Softwaretool",
@@ -7630,12 +6910,8 @@
         "Großraumbüro",
         "Arbeitnehmer",
         "Telearbeit",
-        "Datei:Digital Workplace.gif",
-        "Datei:Digital Workplace.gif",
         "Benutzeroberfläche",
         "Benutzerschnittstelle",
-        "Datei:Schichtenmodell Digital Workplace.png",
-        "Datei:Schichtenmodell Digital Workplace.png",
         "Back-End",
         "Datenintegration",
         "Komplexität",
@@ -7656,14 +6932,9 @@
         "Familie",
         "Haushalt",
         "Kosten",
-        "Homeoffice",
-        "Spezial:ISBN-Suche/9783739296203",
-        "Spezial:ISBN-Suche/3446427910"
+        "Homeoffice"
     ],
     "Social Intranet": [
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
         "Software",
         "Social Software",
         "Content-Management-System",
@@ -7680,11 +6951,7 @@
         "Unternehmenskultur",
         "Andrew McAfee",
         "Harvard Business Review",
-        "Carl Hanser Verlag",
-        "Spezial:ISBN-Suche/3446427910",
-        "Spezial:ISBN-Suche/9783486590548",
-        "Spezial:ISBN-Suche/9783896695802",
-        "Spezial:ISBN-Suche/3446427910"
+        "Carl Hanser Verlag"
     ],
     "Informationswirtschaft (Studiengang)": [
         "Informationswirtschaft",
@@ -7708,8 +6975,6 @@
         "Helmut Krcmar",
         "Information Retrieval",
         "Indexierung",
-        "Datei:Wissenspyramide.svg",
-        "Datei:Wissenspyramide.svg",
         "Daten",
         "Information",
         "Wissen",
@@ -7746,13 +7011,6 @@
         "Information Retrieval",
         "Informationsmanagement",
         "Wissensmanagement",
-        "Spezial:ISBN-Suche/9783540851158",
-        "Spezial:ISBN-Suche/3598116748",
-        "Spezial:ISBN-Suche/9783940344281",
-        "Spezial:ISBN-Suche/9783834918413",
-        "Spezial:ISBN-Suche/9783486588422",
-        "Spezial:ISBN-Suche/9783658104290",
-        "Spezial:ISBN-Suche/9783662458624",
         "Gemeinsame Normdatei"
     ],
     "Digitaler Finanzbericht": [
@@ -7776,11 +7034,7 @@
         "E-Commerce",
         "Net Economy",
         "Internationale Standardnummer für fortlaufende Sammelwerke",
-        "Springer Science+Business Media",
-        "Spezial:ISBN-Suche/9783839168257",
-        "Spezial:ISBN-Suche/9783834924650",
-        "Spezial:ISBN-Suche/9783658050542",
-        "Spezial:ISBN-Suche/9783834924520"
+        "Springer Science+Business Media"
     ],
     "Database Marketing": [
         "Zielgruppe",
@@ -7798,11 +7052,6 @@
         "Customer-Relationship-Management",
         "Enterprise-Resource-Planning",
         "Datenschutzrichtlinie",
-        "Spezial:ISBN-Suche/9780761923572",
-        "Spezial:ISBN-Suche/9780071457507",
-        "Spezial:ISBN-Suche/9780273713029",
-        "Spezial:ISBN-Suche/9780387725796",
-        "Spezial:ISBN-Suche/9780749419608",
         "Gabler Wirtschaftslexikon"
     ],
     "Computer Aided Selling": [
@@ -7815,15 +7064,7 @@
         "Datenfernübertragung",
         "Verwaltung",
         "Koordinaten",
-        "Kommunikation",
-        "Spezial:ISBN-Suche/9783322852359",
-        "Spezial:ISBN-Suche/9783322933683",
-        "Spezial:ISBN-Suche/9783663083122",
-        "Spezial:ISBN-Suche/9783800617838",
-        "Spezial:ISBN-Suche/9783322890337",
-        "Spezial:ISBN-Suche/9783642756979",
-        "Spezial:ISBN-Suche/9783503039111",
-        "Spezial:ISBN-Suche/9783322852359"
+        "Kommunikation"
     ],
     "Business Intelligence": [
         "Englische Sprache",
@@ -7897,19 +7138,10 @@
         "Enterprise-Resource-Planning",
         "In-Memory-Datenbank",
         "Location Intelligence",
-        "Spezial:ISBN-Suche/3827315913",
-        "Spezial:ISBN-Suche/3937137513",
-        "Spezial:ISBN-Suche/9781447148654",
-        "Spezial:ISBN-Suche/9783642355592",
-        "Spezial:ISBN-Suche/9783800653706",
-        "Spezial:ISBN-Suche/9783834819581",
-        "Spezial:ISBN-Suche/9783658030285",
         "Digital Object Identifier",
         "Hans Peter Luhn",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
-        "Spezial:ISBN-Suche/9783942183758",
-        "Spezial:ISBN-Suche/9783446457119",
         "Gemeinsame Normdatei"
     ],
     "Informationsdefizit": [
@@ -7943,12 +7175,7 @@
         "Wissensmanagement",
         "Informationsmanagement",
         "Wissensdatenbank",
-        "Lernplattform",
-        "Spezial:ISBN-Suche/9783540714071",
-        "Spezial:ISBN-Suche/9783540897675",
-        "Spezial:ISBN-Suche/9783940019776",
-        "Spezial:ISBN-Suche/3936771138",
-        "Spezial:ISBN-Suche/3540204954"
+        "Lernplattform"
     ],
     "Technology Business Management": [
         "Wertschöpfungsprozess",
@@ -7964,14 +7191,11 @@
         "Key Performance Indicator",
         "Service Level Agreement",
         "Operational Level Agreement",
-        "Service Level Management",
-        "Benutzer:InternetArchiveBot/Anleitung/Archivlink"
+        "Service Level Management"
     ],
     "Montagelinie": [
         "Fließfertigung",
         "Automobilindustrie",
-        "Datei:Rolling chassis.jpg",
-        "Datei:Rolling chassis.jpg",
         "Lotus Elise",
         "Montage (Produktion)",
         "Montageplanung",
@@ -7998,11 +7222,7 @@
         "Industrie 4.0",
         "Heijunka",
         "Automobilfertigung",
-        "Modularität",
-        "Spezial:ISBN-Suche/0785319581",
-        "Spezial:ISBN-Suche/3540140425",
-        "Spezial:ISBN-Suche/9783446413702",
-        "Spezial:ISBN-Suche/3446219862"
+        "Modularität"
     ],
     "Management-Informationssystem": [
         "Informationssystem (Informatik)",
@@ -8053,9 +7273,6 @@
         "Konfektionierung",
         "Auslieferung",
         "Wertschöpfungskette",
-        "Spezial:ISBN-Suche/9783322849779",
-        "Spezial:ISBN-Suche/9783642185991",
-        "Spezial:ISBN-Suche/9783900782573",
         "Gabler Wirtschaftslexikon",
         "Bundesagentur für Arbeit"
     ],
@@ -8074,8 +7291,6 @@
     ],
     "ARIS": [
         "Aris",
-        "Datei:ARIS-Modell.png",
-        "Datei:ARIS-Modell.png",
         "August-Wilhelm Scheer",
         "An-Institut",
         "Wirtschaftsinformatik",
@@ -8109,22 +7324,10 @@
         "IDS Scheer AG",
         "SAP Exchange Infrastructure",
         "WebMethods",
-        "Spezial:ISBN-Suche/9783800731220",
-        "Spezial:ISBN-Suche/9783642129544",
-        "Spezial:ISBN-Suche/3937137114",
-        "Spezial:ISBN-Suche/1846286123",
-        "Spezial:ISBN-Suche/9781848001107",
-        "Spezial:ISBN-Suche/3540011838",
-        "Spezial:ISBN-Suche/3540554017",
-        "Spezial:ISBN-Suche/3540430296",
-        "Spezial:ISBN-Suche/9783642129544",
         "Software AG",
-        "Spezial:ISBN-Suche/9783642129544",
         "Gemeinsame Normdatei"
     ],
     "Data Lake": [
-        "Datei:Datensammlung Studie.png",
-        "Datei:Datensammlung Studie.png",
         "Wirtschaftsinformatik",
         "Repository",
         "Rohdatenformat",
@@ -8141,12 +7344,9 @@
         "Rohdaten",
         "Datenqualität",
         "ETL-Prozess",
-        "Datenstruktur",
-        "Spezial:ISBN-Suche/9783446439597"
+        "Datenstruktur"
     ],
     "Infrastruktur-Daten-Management für Verkehrsunternehmen": [
-        "Datei:IDMVU logo.jpg",
-        "Datei:IDMVU logo.jpg",
         "Infrastruktur",
         "Verkehrsunternehmen",
         "Standardisierung",
@@ -8235,9 +7435,6 @@
         "Mittlere Datentechnik",
         "Codegenerator",
         "CA Technologies",
-        "Spezial:ISBN-Suche/1848217609",
-        "Spezial:ISBN-Suche/1430262532",
-        "Spezial:ISBN-Suche/1118739531",
         "Web-Archivierung#Begrifflichkeiten",
         "Internet Archive",
         "Gemeinsame Normdatei"
@@ -8284,12 +7481,9 @@
         "Fraunhofer FIT",
         "Hochschule Bonn-Rhein-Sieg",
         "Graduiertenschule",
-        "Doktorand",
-        "Spezial:ISBN-Suche/9783658109257"
+        "Doktorand"
     ],
     "WISS Schulen für Wirtschaft Informatik Immobilien": [
-        "Datei:Wirtschaftsinformatikschule-Schweiz-Logo.svg",
-        "Datei:Wirtschaftsinformatikschule-Schweiz-Logo.svg",
         "Informations- und Kommunikationstechnik",
         "Wirtschaftsinformatik",
         "Berufslehre",
@@ -8301,7 +7495,6 @@
         "Kalaidos Bildungsgruppe Schweiz",
         "Grundbildung",
         "Höhere Berufsbildung",
-        "Wikipedia:Defekte Weblinks",
         "Handelsregister (Schweiz)",
         "Kanton Zürich"
     ],
@@ -8331,24 +7524,14 @@
         "Solvay",
         "Hidden Champions",
         "Landesregierung von Nordrhein-Westfalen",
-        "Datei:ECLASS Organigram.png",
-        "Datei:ECLASS Organigram.png",
         "Institut der deutschen Wirtschaft",
-        "Datei:ECl@ss pyramide.jpg",
-        "Datei:ECl@ss pyramide.jpg",
         "UNSPSC",
-        "Datei:Baumstruktur des eCl@ss-Standards.png",
-        "Datei:Baumstruktur des eCl@ss-Standards.png",
         "DIN-Norm",
         "Europäische Norm",
         "ISO",
         "Deutsche Kommission Elektrotechnik Elektronik Informationstechnik",
         "International Electrotechnical Commission",
         "Globally Unique Identifier",
-        "Datei:Entwicklung eCl@ss Content, Stand Mai 2018.png",
-        "Datei:Entwicklung eCl@ss Content, Stand Mai 2018.png",
-        "Datei:ECI@ss ReleaseEntwicklung.jpg",
-        "Datei:ECI@ss ReleaseEntwicklung.jpg",
         "ISO",
         "ETIM",
         "Standardisierung",
@@ -8362,11 +7545,8 @@
         "UNSPSC",
         "Internationale Standardnummer für fortlaufende Sammelwerke",
         "Digital Object Identifier",
-        "Spezial:ISBN-Suche/382447932X",
-        "Spezial:ISBN-Suche/9783870641290",
         "Web-Archivierung#Begrifflichkeiten",
-        "Internet Archive",
-        "Spezial:ISBN-Suche/3816761623"
+        "Internet Archive"
     ],
     "UNSPSC": [
         "Englische Sprache",
@@ -8384,18 +7564,6 @@
         "Notation (Dokumentation)"
     ],
     "Case Management Model and Notation": [
-        "Wikipedia:Redaktion Informatik/Qualitätssicherung#Case Management Model and Notation",
-        "Wikipedia:Redaktion Informatik/Qualitätssicherung",
-        "Wikipedia:Redaktion Informatik",
-        "Wikipedia:Sei mutig",
-        "Wikipedia:Redaktion Informatik/Qualitätssicherung#Case Management Model and Notation",
-        "Benutzer:A.Abdel-Rahim",
-        "Benutzer Diskussion:A.Abdel-Rahim",
-        "Datei:Qsicon Unverstaendlich.svg",
-        "Wikipedia:Allgemeinverständlichkeit",
-        "Diskussion:Case Management Model and Notation",
-        "Wikipedia:Unverständliche Artikel#Case Management Model and Notation",
-        "Vorlage:Erledigt",
         "Fall",
         "Business Process Model and Notation",
         "Anamnese",
@@ -8403,22 +7571,12 @@
         "Object Management Group",
         "BPMN",
         "Decision Model and Notation",
-        "Datei:Bruchbehandlung.svg",
         "BPMN",
         "Business Process Management",
         "Geschäftsprozessmodellierung",
         "Decision Model and Notation"
     ],
     "Electronic Mobility": [
-        "Wikipedia:Redaktion Informatik/Qualitätssicherung#Electronic Mobility",
-        "Wikipedia:Redaktion Informatik/Qualitätssicherung",
-        "Wikipedia:Redaktion Informatik",
-        "Wikipedia:Sei mutig",
-        "Wikipedia:Redaktion Informatik/Qualitätssicherung#Electronic Mobility",
-        "Wikipedia:Belege",
-        "Wikipedia:Belege",
-        "Hilfe:Einzelnachweise",
-        "Wikipedia:Literatur",
         "Elektromobilität",
         "Internet",
         "Mensch-Maschine-Kommunikation",
@@ -8441,11 +7599,7 @@
         "Außendienst",
         "Arbeitgeber",
         "Gewerkschaft",
-        "Entgrenzung der Arbeit",
-        "Spezial:ISBN-Suche/3893761055",
-        "Spezial:ISBN-Suche/3893760873",
-        "Spezial:ISBN-Suche/9783896735218",
-        "Spezial:ISBN-Suche/9783893761173"
+        "Entgrenzung der Arbeit"
     ],
     "Consumerization": [
         "Consumer",
@@ -8542,18 +7696,10 @@
         "Software",
         "Middleware",
         "BYOD",
-        "Spezial:ISBN-Suche/9783737601689",
-        "Spezial:ISBN-Suche/9783736995581",
         "Internationale Standardnummer für fortlaufende Sammelwerke",
         "Internationale Standardnummer für fortlaufende Sammelwerke"
     ],
     "ERP Management": [
-        "Wikipedia:Qualitätssicherung/30. Juli 2021#ERP Management",
-        "Wikipedia:Qualitätssicherung",
-        "Wikipedia:Sei mutig",
-        "Wikipedia:Qualitätssicherung/30. Juli 2021#ERP Management",
-        "Benutzer:A.Abdel-Rahim",
-        "Benutzer Diskussion:A.Abdel-Rahim",
         "GITO Verlag",
         "Enterprise-Resource-Planning",
         "Norbert Gronau",
