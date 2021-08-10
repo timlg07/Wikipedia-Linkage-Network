@@ -1,0 +1,11 @@
+{
+  "name": "wikinetwork",
+  "version": "1.0.0",
+  "description": "A network that shows linkage between certain Wikipedia pages.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim L. Greller",
+  "license": "MIT"
+}
