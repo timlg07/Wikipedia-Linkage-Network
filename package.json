@@ -11,7 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "puppeteer": "^10.2.0",
-    "vis-data": "^7.1.2",
-    "vis-network": "^9.0.5"
+    "vis": "^4.21.0-EOL"
   }
 }

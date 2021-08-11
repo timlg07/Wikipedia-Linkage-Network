@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Network</title>
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <style type="text/css">
+        #mynetwork {
+            position: absolute;
+            inset: 0;
+            border: 1px solid lightgray;
+        }
+
+        body,
+        html {
+            border: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="mynetwork"></div>
+    <script type="text/javascript">
+        const req = new XMLHttpRequest()
+        req.overrideMimeType('application/json')
+        req.open('GET', './network.json', true)
+        req.onreadystatechange = () => {
+            if (req.readyState === 4 && req.status === 200) {
+                const data = JSON.parse(req.responseText)
+                render(data)
+            }
+        }
+        req.send(null)
+
+        function render(data) {
+            const nodes = new vis.DataSet(data.nodes)
+            const edges = new vis.DataSet(data.edges)
+
+            const container = document.getElementById('mynetwork')
+            const network = new vis.Network(container, { nodes, edges }, {
+                autoResize: true,
+                height: '100%',
+                width: '100%', 
+                edges: {
+                    color: '#0F52BA'
+                },
+                nodes: {
+                    color: '#9DDAC6'
+                },
+                layout: {
+                    clusterThreshold: 50,
+                    hierarchical: {
+                        enabled: false,
+                        nodeSpacing: 200
+                    }
+                }
+            })
+        }
+    </script>
+</body>
+
+</html>

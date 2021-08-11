@@ -1,25 +1,21 @@
 const fs = require('fs')
 const puppeteer = require('puppeteer')
-const {Network} = require('vis-network')
 const wikiurl = require('./wikiurl.js')
 const config = require('./config.json')
 const titles = require('./titles.json')
 
-;(async function main() {
+async function main() {
     const browser = await puppeteer.launch(config.browserconfig)
     const page = await browser.newPage()
-    const data = await fetchNetwork(page, 'de')
+    const refs = await fetchRefData(page, 'de')
+    const data = createDataSets(refs)
     await browser.close()
 
-    fs.writeFile(
-        "result.json",
-        JSON.stringify(data, null, 4),
-        'utf8',
-        err => { if(err) throw err }
-    )
-})()
+    save('result.json', refs)
+    save('network.json', data)
+}
 
-async function fetchNetwork(page, language) {
+async function fetchRefData(page, language) {
     const titleCombinations = {}
     for (let title of titles[language]) {
         const url = wikiurl.getUrl(language, title)
@@ -37,3 +33,42 @@ async function fetchNetwork(page, language) {
     }
     return titleCombinations
 }
+
+function createDataSets(refs) {
+    const nodes = []
+    const edges = []
+
+    Object.keys(refs).forEach((t, i) => {
+        nodes.push({
+            id: i + 1,
+            label: t
+        })
+    })
+    
+    for (const [title, reflist] of Object.entries(refs)) {
+        const from = nodes.find(n => n.label === title)?.id
+        const tos = reflist
+                .map(t => nodes.find(n => n.label === t)?.id)
+                .filter(t => t !== undefined)
+        tos.forEach(to => void edges.push({from, to}))
+    }
+
+    console.log(nodes)
+    console.log(edges)
+
+    return {
+        nodes: nodes,//new vis.DataSet(nodes),
+        edges: edges//new vis.DataSet(edges)
+    }
+}
+
+function save(filename, data) {
+    fs.writeFile(
+        filename,
+        JSON.stringify(data, null, 4),
+        'utf8',
+        err => { if(err) throw err }
+    )
+}
+
+main()
