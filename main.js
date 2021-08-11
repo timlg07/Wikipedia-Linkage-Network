@@ -41,20 +41,28 @@ function createDataSets(refs) {
     Object.keys(refs).forEach((t, i) => {
         nodes.push({
             id: i + 1,
-            label: t
+            label: t,
+            value: 1
         })
     })
     
     for (const [title, reflist] of Object.entries(refs)) {
         const from = nodes.find(n => n.label === title)?.id
-        const tos = reflist
-                .map(t => nodes.find(n => n.label === t)?.id)
-                .filter(t => t !== undefined)
-        tos.forEach(to => void edges.push({from, to}))
+        reflist
+            .map(to => nodes.find(n => n.label === to)?.id)
+            .filter(to => !!to)
+            .forEach(to => {
+                const edge = edges.find(e => e.from === from && e.to === to)
+                if (edge) {
+                    edge.value++
+                } else {
+                    edges.push({from, to, value: 1})
+                }
+            })
     }
 
-    console.log(nodes)
-    console.log(edges)
+    // set node values:
+    edges.forEach(edge => void nodes.find(node => nodes[edge.to - 1].value += edge.value))
 
     return {
         nodes: nodes,//new vis.DataSet(nodes),

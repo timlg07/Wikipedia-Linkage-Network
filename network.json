@@ -2,3309 +2,3440 @@
     "nodes": [
         {
             "id": 1,
-            "label": "Enterprise Application Integration"
+            "label": "Enterprise Application Integration",
+            "value": 16
         },
         {
             "id": 2,
-            "label": "Stammdatenpool"
+            "label": "Stammdatenpool",
+            "value": 1
         },
         {
             "id": 3,
-            "label": "Workflow-Management"
+            "label": "Workflow-Management",
+            "value": 19
         },
         {
             "id": 4,
-            "label": "Katalogmanagement"
+            "label": "Katalogmanagement",
+            "value": 3
         },
         {
             "id": 5,
-            "label": "Ereignisgesteuerte Prozesskette"
+            "label": "Ereignisgesteuerte Prozesskette",
+            "value": 15
         },
         {
             "id": 6,
-            "label": "Informationslogistik"
+            "label": "Informationslogistik",
+            "value": 4
         },
         {
             "id": 7,
-            "label": "Informationsbedarf"
+            "label": "Informationsbedarf",
+            "value": 4
         },
         {
             "id": 8,
-            "label": "Betriebliches Informationssystem"
+            "label": "Betriebliches Informationssystem",
+            "value": 3
         },
         {
             "id": 9,
-            "label": "Straight Through Processing"
+            "label": "Straight Through Processing",
+            "value": 2
         },
         {
             "id": 10,
-            "label": "Content-Lifecycle"
+            "label": "Content-Lifecycle",
+            "value": 2
         },
         {
             "id": 11,
-            "label": "Sharenet"
+            "label": "Sharenet",
+            "value": 2
         },
         {
             "id": 12,
-            "label": "Business Bus"
+            "label": "Business Bus",
+            "value": 6
         },
         {
             "id": 13,
-            "label": "Metaverzeichnisdienst"
+            "label": "Metaverzeichnisdienst",
+            "value": 3
         },
         {
             "id": 14,
-            "label": "Rezentralisierung"
+            "label": "Rezentralisierung",
+            "value": 1
         },
         {
             "id": 15,
-            "label": "Mobile Datenerfassung"
+            "label": "Mobile Datenerfassung",
+            "value": 1
         },
         {
             "id": 16,
-            "label": "Integrationsplattform"
+            "label": "Integrationsplattform",
+            "value": 8
         },
         {
             "id": 17,
-            "label": "Business Process Engine"
+            "label": "Business Process Engine",
+            "value": 5
         },
         {
             "id": 18,
-            "label": "Management Support System"
+            "label": "Management Support System",
+            "value": 1
         },
         {
             "id": 19,
-            "label": "Communications Oriented Production Information and Control System"
+            "label": "Communications Oriented Production Information and Control System",
+            "value": 2
         },
         {
             "id": 20,
-            "label": "Durchlaufterminierung"
+            "label": "Durchlaufterminierung",
+            "value": 1
         },
         {
             "id": 21,
-            "label": "International Business Information Technology"
+            "label": "International Business Information Technology",
+            "value": 1
         },
         {
             "id": 22,
-            "label": "Sachmerkmal-Liste"
+            "label": "Sachmerkmal-Liste",
+            "value": 1
         },
         {
             "id": 23,
-            "label": "U-Commerce"
+            "label": "U-Commerce",
+            "value": 3
         },
         {
             "id": 24,
-            "label": "Maschinendatenerfassung"
+            "label": "Maschinendatenerfassung",
+            "value": 1
         },
         {
             "id": 25,
-            "label": "Integration (Software)"
+            "label": "Integration (Software)",
+            "value": 7
         },
         {
             "id": 26,
-            "label": "Fehlersammelkarte"
+            "label": "Fehlersammelkarte",
+            "value": 1
         },
         {
             "id": 27,
-            "label": "Dokumenten-Technologien"
+            "label": "Dokumenten-Technologien",
+            "value": 7
         },
         {
             "id": 28,
-            "label": "Dokumentlebenszyklusmanagement"
+            "label": "Dokumentlebenszyklusmanagement",
+            "value": 9
         },
         {
             "id": 29,
-            "label": "Business Process Modeling Language"
+            "label": "Business Process Modeling Language",
+            "value": 1
         },
         {
             "id": 30,
-            "label": "Verband Organisations- und Informationssysteme"
+            "label": "Verband Organisations- und Informationssysteme",
+            "value": 9
         },
         {
             "id": 31,
-            "label": "Attributzertifikat"
+            "label": "Attributzertifikat",
+            "value": 1
         },
         {
             "id": 32,
-            "label": "Produktdatenmanagement"
+            "label": "Produktdatenmanagement",
+            "value": 12
         },
         {
             "id": 33,
-            "label": "Demontageplanung und -steuerung"
+            "label": "Demontageplanung und -steuerung",
+            "value": 1
         },
         {
             "id": 34,
-            "label": "European Research Center for Information Systems"
+            "label": "European Research Center for Information Systems",
+            "value": 1
         },
         {
             "id": 35,
-            "label": "Workgroup Computing"
+            "label": "Workgroup Computing",
+            "value": 3
         },
         {
             "id": 36,
-            "label": "Initiative D21"
+            "label": "Initiative D21",
+            "value": 1
         },
         {
             "id": 37,
-            "label": "Virtueller Marktplatz"
+            "label": "Virtueller Marktplatz",
+            "value": 1
         },
         {
             "id": 38,
-            "label": "WebEDI"
+            "label": "WebEDI",
+            "value": 1
         },
         {
             "id": 39,
-            "label": "Kontextdiagramm"
+            "label": "Kontextdiagramm",
+            "value": 1
         },
         {
             "id": 40,
-            "label": "Late-Join"
+            "label": "Late-Join",
+            "value": 1
         },
         {
             "id": 41,
-            "label": "Kleinstbetrag"
+            "label": "Kleinstbetrag",
+            "value": 2
         },
         {
             "id": 42,
-            "label": "Micropayment"
+            "label": "Micropayment",
+            "value": 2
         },
         {
             "id": 43,
-            "label": "PADEM"
+            "label": "PADEM",
+            "value": 2
         },
         {
             "id": 44,
-            "label": "Interorganisationssystem"
+            "label": "Interorganisationssystem",
+            "value": 2
         },
         {
             "id": 45,
-            "label": "Rechnungskreis"
+            "label": "Rechnungskreis",
+            "value": 1
         },
         {
             "id": 46,
-            "label": "Computer-Aided Facility Management"
+            "label": "Computer-Aided Facility Management",
+            "value": 1
         },
         {
             "id": 47,
-            "label": "Workflow Management Coalition"
+            "label": "Workflow Management Coalition",
+            "value": 4
         },
         {
             "id": 48,
-            "label": "Workflow Reference Model"
+            "label": "Workflow Reference Model",
+            "value": 1
         },
         {
             "id": 49,
-            "label": "Universal Business Language"
+            "label": "Universal Business Language",
+            "value": 1
         },
         {
             "id": 50,
-            "label": "Information Retrieval"
+            "label": "Information Retrieval",
+            "value": 8
         },
         {
             "id": 51,
-            "label": "Produktinformationsmanagement"
+            "label": "Produktinformationsmanagement",
+            "value": 5
         },
         {
             "id": 52,
-            "label": "Online Transaction Processing"
+            "label": "Online Transaction Processing",
+            "value": 3
         },
         {
             "id": 53,
-            "label": "Information Engineering"
+            "label": "Information Engineering",
+            "value": 1
         },
         {
             "id": 54,
-            "label": "Individuelle Datenverarbeitung"
+            "label": "Individuelle Datenverarbeitung",
+            "value": 1
         },
         {
             "id": 55,
-            "label": "Business-Rule-Engine"
+            "label": "Business-Rule-Engine",
+            "value": 1
         },
         {
             "id": 56,
-            "label": "Conversion-Tracking"
+            "label": "Conversion-Tracking",
+            "value": 1
         },
         {
             "id": 57,
-            "label": "Metamodell"
+            "label": "Metamodell",
+            "value": 2
         },
         {
             "id": 58,
-            "label": "Enhanced Telecom Operations Map"
+            "label": "Enhanced Telecom Operations Map",
+            "value": 1
         },
         {
             "id": 59,
-            "label": "Handelsinformationssystem"
+            "label": "Handelsinformationssystem",
+            "value": 2
         },
         {
             "id": 60,
-            "label": "Y-CIM-Modell"
+            "label": "Y-CIM-Modell",
+            "value": 4
         },
         {
             "id": 61,
-            "label": "Administrationssystem"
+            "label": "Administrationssystem",
+            "value": 5
         },
         {
             "id": 62,
-            "label": "Dispositionssystem"
+            "label": "Dispositionssystem",
+            "value": 8
         },
         {
             "id": 63,
-            "label": "Proficlass"
+            "label": "Proficlass",
+            "value": 2
         },
         {
             "id": 64,
-            "label": "Produktkonfigurator"
+            "label": "Produktkonfigurator",
+            "value": 4
         },
         {
             "id": 65,
-            "label": "Enterprise-Resource-Planning"
+            "label": "Enterprise-Resource-Planning",
+            "value": 28
         },
         {
             "id": 66,
-            "label": "Ordnungsrahmen"
+            "label": "Ordnungsrahmen",
+            "value": 6
         },
         {
             "id": 67,
-            "label": "Zachman Framework"
+            "label": "Zachman Framework",
+            "value": 5
         },
         {
             "id": 68,
-            "label": "Output Management"
+            "label": "Output Management",
+            "value": 6
         },
         {
             "id": 69,
-            "label": "Unternehmensdaten"
+            "label": "Unternehmensdaten",
+            "value": 5
         },
         {
             "id": 70,
-            "label": "Modell (Wirtschaftsinformatik)"
+            "label": "Modell (Wirtschaftsinformatik)",
+            "value": 5
         },
         {
             "id": 71,
-            "label": "Product-Lifecycle-Management"
+            "label": "Product-Lifecycle-Management",
+            "value": 4
         },
         {
             "id": 72,
-            "label": "Very Large Business Applications"
+            "label": "Very Large Business Applications",
+            "value": 1
         },
         {
             "id": 73,
-            "label": "Mobiler Geschäftsprozess"
+            "label": "Mobiler Geschäftsprozess",
+            "value": 1
         },
         {
             "id": 74,
-            "label": "Business To Manufacturing Markup Language"
+            "label": "Business To Manufacturing Markup Language",
+            "value": 1
         },
         {
             "id": 75,
-            "label": "MoReq"
+            "label": "MoReq",
+            "value": 5
         },
         {
             "id": 76,
-            "label": "Teleservice"
+            "label": "Teleservice",
+            "value": 2
         },
         {
             "id": 77,
-            "label": "Remote Service"
+            "label": "Remote Service",
+            "value": 1
         },
         {
             "id": 78,
-            "label": "Open Building Information Exchange"
+            "label": "Open Building Information Exchange",
+            "value": 1
         },
         {
             "id": 79,
-            "label": "Semantisches Objektmodell"
+            "label": "Semantisches Objektmodell",
+            "value": 6
         },
         {
             "id": 80,
-            "label": "Virtual Global University"
+            "label": "Virtual Global University",
+            "value": 1
         },
         {
             "id": 81,
-            "label": "Business Process Discovery"
+            "label": "Business Process Discovery",
+            "value": 1
         },
         {
             "id": 82,
-            "label": "Funktionszuordnungsdiagramm"
+            "label": "Funktionszuordnungsdiagramm",
+            "value": 8
         },
         {
             "id": 83,
-            "label": "Vorgangskettendiagramm"
+            "label": "Vorgangskettendiagramm",
+            "value": 7
         },
         {
             "id": 84,
-            "label": "Elektronische Archivierung"
+            "label": "Elektronische Archivierung",
+            "value": 21
         },
         {
             "id": 85,
-            "label": "Führungsinformationssystem (Wirtschaft)"
+            "label": "Führungsinformationssystem (Wirtschaft)",
+            "value": 5
         },
         {
             "id": 86,
-            "label": "Iteratives Prozess-Prototyping"
+            "label": "Iteratives Prozess-Prototyping",
+            "value": 1
         },
         {
             "id": 87,
-            "label": "Prozesskostenrechnung"
+            "label": "Prozesskostenrechnung",
+            "value": 7
         },
         {
             "id": 88,
-            "label": "Enterprise-Content-Management"
+            "label": "Enterprise-Content-Management",
+            "value": 12
         },
         {
             "id": 89,
-            "label": "Digital-Asset-Management"
+            "label": "Digital-Asset-Management",
+            "value": 3
         },
         {
             "id": 90,
-            "label": "Intranetportal"
+            "label": "Intranetportal",
+            "value": 4
         },
         {
             "id": 91,
-            "label": "Prozessportal"
+            "label": "Prozessportal",
+            "value": 1
         },
         {
             "id": 92,
-            "label": "Stammdaten"
+            "label": "Stammdaten",
+            "value": 8
         },
         {
             "id": 93,
-            "label": "Computer Supported Cooperative Work"
+            "label": "Computer Supported Cooperative Work",
+            "value": 9
         },
         {
             "id": 94,
-            "label": "Groupware"
+            "label": "Groupware",
+            "value": 19
         },
         {
             "id": 95,
-            "label": "Unternehmensarchitektur"
+            "label": "Unternehmensarchitektur",
+            "value": 11
         },
         {
             "id": 96,
-            "label": "Earned Value Analysis"
+            "label": "Earned Value Analysis",
+            "value": 1
         },
         {
             "id": 97,
-            "label": "Input Management"
+            "label": "Input Management",
+            "value": 2
         },
         {
             "id": 98,
-            "label": "CEFACT"
+            "label": "CEFACT",
+            "value": 2
         },
         {
             "id": 99,
-            "label": "Industrieminute"
+            "label": "Industrieminute",
+            "value": 1
         },
         {
             "id": 100,
-            "label": "Service Engineering"
+            "label": "Service Engineering",
+            "value": 1
         },
         {
             "id": 101,
-            "label": "IFTMIN"
+            "label": "IFTMIN",
+            "value": 1
         },
         {
             "id": 102,
-            "label": "Informationslebenszyklusmanagement"
+            "label": "Informationslebenszyklusmanagement",
+            "value": 7
         },
         {
             "id": 103,
-            "label": "PPS-System"
+            "label": "PPS-System",
+            "value": 8
         },
         {
             "id": 104,
-            "label": "Unternehmensweite Datenqualität"
+            "label": "Unternehmensweite Datenqualität",
+            "value": 1
         },
         {
             "id": 105,
-            "label": "Modifiable off-the-shelf"
+            "label": "Modifiable off-the-shelf",
+            "value": 2
         },
         {
             "id": 106,
-            "label": "Microsoft Identity Integration Server"
+            "label": "Microsoft Identity Integration Server",
+            "value": 2
         },
         {
             "id": 107,
-            "label": "Enterprise Search"
+            "label": "Enterprise Search",
+            "value": 1
         },
         {
             "id": 108,
-            "label": "Enterprise-Content-Management-System"
+            "label": "Enterprise-Content-Management-System",
+            "value": 18
         },
         {
             "id": 109,
-            "label": "Quote to order"
+            "label": "Quote to order",
+            "value": 1
         },
         {
             "id": 110,
-            "label": "Boundary object"
+            "label": "Boundary object",
+            "value": 1
         },
         {
             "id": 111,
-            "label": "Pegging (Wirtschaftsinformatik)"
+            "label": "Pegging (Wirtschaftsinformatik)",
+            "value": 1
         },
         {
             "id": 112,
-            "label": "Commercial off-the-shelf"
+            "label": "Commercial off-the-shelf",
+            "value": 2
         },
         {
             "id": 113,
-            "label": "Verzeichnisdienst"
+            "label": "Verzeichnisdienst",
+            "value": 5
         },
         {
             "id": 114,
-            "label": "Datenträgeraustauschverfahren"
+            "label": "Datenträgeraustauschverfahren",
+            "value": 1
         },
         {
             "id": 115,
-            "label": "Business Process Reengineering"
+            "label": "Business Process Reengineering",
+            "value": 6
         },
         {
             "id": 116,
-            "label": "Stückliste"
+            "label": "Stückliste",
+            "value": 13
         },
         {
             "id": 117,
-            "label": "Electronic Markets"
+            "label": "Electronic Markets",
+            "value": 1
         },
         {
             "id": 118,
-            "label": "Business & Information Systems Engineering"
+            "label": "Business & Information Systems Engineering",
+            "value": 1
         },
         {
             "id": 119,
-            "label": "IBOLT"
+            "label": "IBOLT",
+            "value": 1
         },
         {
             "id": 120,
-            "label": "Portal (Informatik)"
+            "label": "Portal (Informatik)",
+            "value": 11
         },
         {
             "id": 121,
-            "label": "Geschäftsprozessmodellierung"
+            "label": "Geschäftsprozessmodellierung",
+            "value": 15
         },
         {
             "id": 122,
-            "label": "Prozessmanagement"
+            "label": "Prozessmanagement",
+            "value": 14
         },
         {
             "id": 123,
-            "label": "Vorgangsbearbeitung"
+            "label": "Vorgangsbearbeitung",
+            "value": 3
         },
         {
             "id": 124,
-            "label": "Project Scorecard"
+            "label": "Project Scorecard",
+            "value": 1
         },
         {
             "id": 125,
-            "label": "Mobiler Kundendienst"
+            "label": "Mobiler Kundendienst",
+            "value": 1
         },
         {
             "id": 126,
-            "label": "Office Excellence"
+            "label": "Office Excellence",
+            "value": 1
         },
         {
             "id": 127,
-            "label": "Analyst"
+            "label": "Analyst",
+            "value": 3
         },
         {
             "id": 128,
-            "label": "Dateneigner"
+            "label": "Dateneigner",
+            "value": 1
         },
         {
             "id": 129,
-            "label": "Flottenmanagement"
+            "label": "Flottenmanagement",
+            "value": 1
         },
         {
             "id": 130,
-            "label": "Verband der Wirtschaftsinformatik"
+            "label": "Verband der Wirtschaftsinformatik",
+            "value": 1
         },
         {
             "id": 131,
-            "label": "Business Engineering"
+            "label": "Business Engineering",
+            "value": 2
         },
         {
             "id": 132,
-            "label": "Online-Brief"
+            "label": "Online-Brief",
+            "value": 1
         },
         {
             "id": 133,
-            "label": "Supply Chain Event Management"
+            "label": "Supply Chain Event Management",
+            "value": 1
         },
         {
             "id": 134,
-            "label": "Total-Quality-Management"
+            "label": "Total-Quality-Management",
+            "value": 5
         },
         {
             "id": 135,
-            "label": "Unstrukturierte Daten"
+            "label": "Unstrukturierte Daten",
+            "value": 4
         },
         {
             "id": 136,
-            "label": "IS link"
+            "label": "IS link",
+            "value": 1
         },
         {
             "id": 137,
-            "label": "Planungssystem"
+            "label": "Planungssystem",
+            "value": 7
         },
         {
             "id": 138,
-            "label": "Kontrollsystem"
+            "label": "Kontrollsystem",
+            "value": 6
         },
         {
             "id": 139,
-            "label": "Operatives System"
+            "label": "Operatives System",
+            "value": 4
         },
         {
             "id": 140,
-            "label": "Themenentdeckung und -verfolgung"
+            "label": "Themenentdeckung und -verfolgung",
+            "value": 1
         },
         {
             "id": 141,
-            "label": "Software-Industrie"
+            "label": "Software-Industrie",
+            "value": 3
         },
         {
             "id": 142,
-            "label": "BMEcat"
+            "label": "BMEcat",
+            "value": 4
         },
         {
             "id": 143,
-            "label": "Engpasskonzentrierte Strategie"
+            "label": "Engpasskonzentrierte Strategie",
+            "value": 1
         },
         {
             "id": 144,
-            "label": "Standardisierungsproblem"
+            "label": "Standardisierungsproblem",
+            "value": 2
         },
         {
             "id": 145,
-            "label": "Simulationsdatenmanagement"
+            "label": "Simulationsdatenmanagement",
+            "value": 1
         },
         {
             "id": 146,
-            "label": "Produktivitätsparadoxon"
+            "label": "Produktivitätsparadoxon",
+            "value": 1
         },
         {
             "id": 147,
-            "label": "Enterprise Architecture Management Maturity Framework"
+            "label": "Enterprise Architecture Management Maturity Framework",
+            "value": 3
         },
         {
             "id": 148,
-            "label": "Wertschöpfungskettendiagramm"
+            "label": "Wertschöpfungskettendiagramm",
+            "value": 10
         },
         {
             "id": 149,
-            "label": "Mandantenfähigkeit"
+            "label": "Mandantenfähigkeit",
+            "value": 2
         },
         {
             "id": 150,
-            "label": "Internet Business Cluster"
+            "label": "Internet Business Cluster",
+            "value": 1
         },
         {
             "id": 151,
-            "label": "Internetökonomie"
+            "label": "Internetökonomie",
+            "value": 4
         },
         {
             "id": 152,
-            "label": "Tradex Technologies"
+            "label": "Tradex Technologies",
+            "value": 1
         },
         {
             "id": 153,
-            "label": "HMD Praxis der Wirtschaftsinformatik"
+            "label": "HMD Praxis der Wirtschaftsinformatik",
+            "value": 1
         },
         {
             "id": 154,
-            "label": "NetIQ eDirectory"
+            "label": "NetIQ eDirectory",
+            "value": 1
         },
         {
             "id": 155,
-            "label": "Kollaboratives Filtern"
+            "label": "Kollaboratives Filtern",
+            "value": 1
         },
         {
             "id": 156,
-            "label": "De-Mail"
+            "label": "De-Mail",
+            "value": 3
         },
         {
             "id": 157,
-            "label": "Metadaten"
+            "label": "Metadaten",
+            "value": 16
         },
         {
             "id": 158,
-            "label": "Gesellschaft für Organisation"
+            "label": "Gesellschaft für Organisation",
+            "value": 2
         },
         {
             "id": 159,
-            "label": "Unternehmensabbildung"
+            "label": "Unternehmensabbildung",
+            "value": 6
         },
         {
             "id": 160,
-            "label": "Betriebswirtschaftliches Institut für Organisation und Automation"
+            "label": "Betriebswirtschaftliches Institut für Organisation und Automation",
+            "value": 1
         },
         {
             "id": 161,
-            "label": "T-Commerce"
+            "label": "T-Commerce",
+            "value": 3
         },
         {
             "id": 162,
-            "label": "Technology Acceptance Model"
+            "label": "Technology Acceptance Model",
+            "value": 1
         },
         {
             "id": 163,
-            "label": "Enterprise Manufacturing Intelligence"
+            "label": "Enterprise Manufacturing Intelligence",
+            "value": 1
         },
         {
             "id": 164,
-            "label": "Customer-Relationship-Management"
+            "label": "Customer-Relationship-Management",
+            "value": 18
         },
         {
             "id": 165,
-            "label": "Social CRM"
+            "label": "Social CRM",
+            "value": 2
         },
         {
             "id": 166,
-            "label": "ProMet"
+            "label": "ProMet",
+            "value": 3
         },
         {
             "id": 167,
-            "label": "Dokumentenretrieval"
+            "label": "Dokumentenretrieval",
+            "value": 2
         },
         {
             "id": 168,
-            "label": "Process-Mining"
+            "label": "Process-Mining",
+            "value": 3
         },
         {
             "id": 169,
-            "label": "Workflow-Management-System"
+            "label": "Workflow-Management-System",
+            "value": 10
         },
         {
             "id": 170,
-            "label": "Department of Defense Joint Technical Architecture"
+            "label": "Department of Defense Joint Technical Architecture",
+            "value": 2
         },
         {
             "id": 171,
-            "label": "US Federal Enterprise Architecture Framework"
+            "label": "US Federal Enterprise Architecture Framework",
+            "value": 1
         },
         {
             "id": 172,
-            "label": "Zählpunkt (Logistik)"
+            "label": "Zählpunkt (Logistik)",
+            "value": 1
         },
         {
             "id": 173,
-            "label": "Produktionsprogramm"
+            "label": "Produktionsprogramm",
+            "value": 6
         },
         {
             "id": 174,
-            "label": "Variantenbaum"
+            "label": "Variantenbaum",
+            "value": 1
         },
         {
             "id": 175,
-            "label": "Mass Customization"
+            "label": "Mass Customization",
+            "value": 5
         },
         {
             "id": 176,
-            "label": "Produktionsplan"
+            "label": "Produktionsplan",
+            "value": 2
         },
         {
             "id": 177,
-            "label": "OMB Enterprise Architecture Assessment Framework"
+            "label": "OMB Enterprise Architecture Assessment Framework",
+            "value": 2
         },
         {
             "id": 178,
-            "label": "Media@Komm"
+            "label": "Media@Komm",
+            "value": 1
         },
         {
             "id": 179,
-            "label": "Visuelle Sprache"
+            "label": "Visuelle Sprache",
+            "value": 1
         },
         {
             "id": 180,
-            "label": "Unternehmensinformatik"
+            "label": "Unternehmensinformatik",
+            "value": 1
         },
         {
             "id": 181,
-            "label": "Integrierte Organisations- und Technikentwicklung"
+            "label": "Integrierte Organisations- und Technikentwicklung",
+            "value": 1
         },
         {
             "id": 182,
-            "label": "Collaboration Engineering"
+            "label": "Collaboration Engineering",
+            "value": 2
         },
         {
             "id": 183,
-            "label": "Web Dynpro"
+            "label": "Web Dynpro",
+            "value": 1
         },
         {
             "id": 184,
-            "label": "Datenmapping"
+            "label": "Datenmapping",
+            "value": 1
         },
         {
             "id": 185,
-            "label": "Comindware Tracker"
+            "label": "Comindware Tracker",
+            "value": 4
         },
         {
             "id": 186,
-            "label": "Extranet"
+            "label": "Extranet",
+            "value": 5
         },
         {
             "id": 187,
-            "label": "Dokumenterzeugung"
+            "label": "Dokumenterzeugung",
+            "value": 1
         },
         {
             "id": 188,
-            "label": "Elektronische Zustellung"
+            "label": "Elektronische Zustellung",
+            "value": 2
         },
         {
             "id": 189,
-            "label": "Quality Engineering"
+            "label": "Quality Engineering",
+            "value": 1
         },
         {
             "id": 190,
-            "label": "Supply-Chain-Management-Software"
+            "label": "Supply-Chain-Management-Software",
+            "value": 2
         },
         {
             "id": 191,
-            "label": "Certified Financial Engineer"
+            "label": "Certified Financial Engineer",
+            "value": 1
         },
         {
             "id": 192,
-            "label": "Trade Relationship Management"
+            "label": "Trade Relationship Management",
+            "value": 1
         },
         {
             "id": 193,
-            "label": "ISO/IEC 27002"
+            "label": "ISO/IEC 27002",
+            "value": 1
         },
         {
             "id": 194,
-            "label": "AristaFlow"
+            "label": "AristaFlow",
+            "value": 3
         },
         {
             "id": 195,
-            "label": "Enterprise Information Management"
+            "label": "Enterprise Information Management",
+            "value": 2
         },
         {
             "id": 196,
-            "label": "Standard for the exchange of product model data"
+            "label": "Standard for the exchange of product model data",
+            "value": 3
         },
         {
             "id": 197,
-            "label": "Intranet"
+            "label": "Intranet",
+            "value": 9
         },
         {
             "id": 198,
-            "label": "Organigramm"
+            "label": "Organigramm",
+            "value": 6
         },
         {
             "id": 199,
-            "label": "Informationskosten"
+            "label": "Informationskosten",
+            "value": 3
         },
         {
             "id": 200,
-            "label": "Digital Workplace"
+            "label": "Digital Workplace",
+            "value": 2
         },
         {
             "id": 201,
-            "label": "Social Intranet"
+            "label": "Social Intranet",
+            "value": 1
         },
         {
             "id": 202,
-            "label": "Informationswirtschaft (Studiengang)"
+            "label": "Informationswirtschaft (Studiengang)",
+            "value": 1
         },
         {
             "id": 203,
-            "label": "Digitaler Finanzbericht"
+            "label": "Digitaler Finanzbericht",
+            "value": 1
         },
         {
             "id": 204,
-            "label": "E-Pricing"
+            "label": "E-Pricing",
+            "value": 1
         },
         {
             "id": 205,
-            "label": "Database Marketing"
+            "label": "Database Marketing",
+            "value": 1
         },
         {
             "id": 206,
-            "label": "Computer Aided Selling"
+            "label": "Computer Aided Selling",
+            "value": 1
         },
         {
             "id": 207,
-            "label": "Business Intelligence"
+            "label": "Business Intelligence",
+            "value": 12
         },
         {
             "id": 208,
-            "label": "Informationsdefizit"
+            "label": "Informationsdefizit",
+            "value": 1
         },
         {
             "id": 209,
-            "label": "Wissensmanagementsystem"
+            "label": "Wissensmanagementsystem",
+            "value": 1
         },
         {
             "id": 210,
-            "label": "Technology Business Management"
+            "label": "Technology Business Management",
+            "value": 1
         },
         {
             "id": 211,
-            "label": "Montagelinie"
+            "label": "Montagelinie",
+            "value": 4
         },
         {
             "id": 212,
-            "label": "Management-Informationssystem"
+            "label": "Management-Informationssystem",
+            "value": 2
         },
         {
             "id": 213,
-            "label": "E-Logistik"
+            "label": "E-Logistik",
+            "value": 1
         },
         {
             "id": 214,
-            "label": "ISO 8583"
+            "label": "ISO 8583",
+            "value": 1
         },
         {
             "id": 215,
-            "label": "ARIS"
+            "label": "ARIS",
+            "value": 12
         },
         {
             "id": 216,
-            "label": "Data Lake"
+            "label": "Data Lake",
+            "value": 1
         },
         {
             "id": 217,
-            "label": "Infrastruktur-Daten-Management für Verkehrsunternehmen"
+            "label": "Infrastruktur-Daten-Management für Verkehrsunternehmen",
+            "value": 1
         },
         {
             "id": 218,
-            "label": "COBOL"
+            "label": "COBOL",
+            "value": 1
         },
         {
             "id": 219,
-            "label": "Verbraucherinformatik"
+            "label": "Verbraucherinformatik",
+            "value": 1
         },
         {
             "id": 220,
-            "label": "WISS Schulen für Wirtschaft Informatik Immobilien"
+            "label": "WISS Schulen für Wirtschaft Informatik Immobilien",
+            "value": 1
         },
         {
             "id": 221,
-            "label": "ArchiMate"
+            "label": "ArchiMate",
+            "value": 2
         },
         {
             "id": 222,
-            "label": "ECLASS"
+            "label": "ECLASS",
+            "value": 1
         },
         {
             "id": 223,
-            "label": "UNSPSC"
+            "label": "UNSPSC",
+            "value": 5
         },
         {
             "id": 224,
-            "label": "Case Management Model and Notation"
+            "label": "Case Management Model and Notation",
+            "value": 1
         },
         {
             "id": 225,
-            "label": "Electronic Mobility"
+            "label": "Electronic Mobility",
+            "value": 1
         },
         {
             "id": 226,
-            "label": "Consumerization"
+            "label": "Consumerization",
+            "value": 3
         },
         {
             "id": 227,
-            "label": "ERP Management"
+            "label": "ERP Management",
+            "value": 1
         }
     ],
     "edges": [
         {
             "from": 1,
-            "to": 25
+            "to": 25,
+            "value": 4
         },
         {
             "from": 1,
-            "to": 122
+            "to": 122,
+            "value": 1
         },
         {
             "from": 1,
-            "to": 12
+            "to": 12,
+            "value": 3
         },
         {
             "from": 1,
-            "to": 25
+            "to": 16,
+            "value": 1
         },
         {
             "from": 1,
-            "to": 25
+            "to": 17,
+            "value": 1
         },
         {
             "from": 1,
-            "to": 12
+            "to": 120,
+            "value": 1
         },
         {
             "from": 1,
-            "to": 16
+            "to": 9,
+            "value": 1
         },
         {
             "from": 1,
-            "to": 25
+            "to": 88,
+            "value": 1
         },
         {
             "from": 1,
-            "to": 17
-        },
-        {
-            "from": 1,
-            "to": 120
-        },
-        {
-            "from": 1,
-            "to": 9
-        },
-        {
-            "from": 1,
-            "to": 12
-        },
-        {
-            "from": 1,
-            "to": 88
-        },
-        {
-            "from": 1,
-            "to": 3
+            "to": 3,
+            "value": 1
         },
         {
             "from": 2,
-            "to": 92
+            "to": 92,
+            "value": 1
         },
         {
             "from": 3,
-            "to": 93
+            "to": 93,
+            "value": 1
         },
         {
             "from": 3,
-            "to": 169
+            "to": 169,
+            "value": 2
         },
         {
             "from": 3,
-            "to": 94
+            "to": 94,
+            "value": 1
         },
         {
             "from": 3,
-            "to": 6
+            "to": 6,
+            "value": 1
         },
         {
             "from": 3,
-            "to": 169
+            "to": 65,
+            "value": 1
         },
         {
             "from": 3,
-            "to": 65
-        },
-        {
-            "from": 3,
-            "to": 123
+            "to": 123,
+            "value": 1
         },
         {
             "from": 4,
-            "to": 65
+            "to": 65,
+            "value": 1
         },
         {
             "from": 4,
-            "to": 142
+            "to": 142,
+            "value": 1
         },
         {
             "from": 5,
-            "to": 121
+            "to": 121,
+            "value": 2
         },
         {
             "from": 5,
-            "to": 159
+            "to": 159,
+            "value": 1
         },
         {
             "from": 5,
-            "to": 215
+            "to": 215,
+            "value": 2
         },
         {
             "from": 5,
-            "to": 215
+            "to": 115,
+            "value": 1
         },
         {
             "from": 5,
-            "to": 115
+            "to": 87,
+            "value": 1
         },
         {
             "from": 5,
-            "to": 121
-        },
-        {
-            "from": 5,
-            "to": 87
-        },
-        {
-            "from": 5,
-            "to": 83
-        },
-        {
-            "from": 5,
-            "to": 83
+            "to": 83,
+            "value": 2
         },
         {
             "from": 6,
-            "to": 7
+            "to": 7,
+            "value": 1
         },
         {
             "from": 6,
-            "to": 157
+            "to": 157,
+            "value": 1
         },
         {
             "from": 7,
-            "to": 199
+            "to": 199,
+            "value": 1
         },
         {
             "from": 7,
-            "to": 69
+            "to": 69,
+            "value": 1
         },
         {
             "from": 7,
-            "to": 6
+            "to": 6,
+            "value": 1
         },
         {
             "from": 8,
-            "to": 65
+            "to": 65,
+            "value": 1
         },
         {
             "from": 8,
-            "to": 62
+            "to": 62,
+            "value": 1
         },
         {
             "from": 9,
-            "to": 1
+            "to": 1,
+            "value": 1
         },
         {
             "from": 9,
-            "to": 52
+            "to": 52,
+            "value": 1
         },
         {
             "from": 10,
-            "to": 108
+            "to": 108,
+            "value": 1
         },
         {
             "from": 10,
-            "to": 84
+            "to": 84,
+            "value": 2
         },
         {
             "from": 10,
-            "to": 84
-        },
-        {
-            "from": 10,
-            "to": 71
+            "to": 71,
+            "value": 1
         },
         {
             "from": 12,
-            "to": 1
+            "to": 1,
+            "value": 1
         },
         {
             "from": 12,
-            "to": 25
+            "to": 25,
+            "value": 1
         },
         {
             "from": 12,
-            "to": 16
+            "to": 16,
+            "value": 1
         },
         {
             "from": 12,
-            "to": 98
+            "to": 98,
+            "value": 1
         },
         {
             "from": 13,
-            "to": 113
+            "to": 113,
+            "value": 1
         },
         {
             "from": 13,
-            "to": 106
+            "to": 106,
+            "value": 1
         },
         {
             "from": 15,
-            "to": 164
+            "to": 164,
+            "value": 1
         },
         {
             "from": 16,
-            "to": 1
+            "to": 1,
+            "value": 1
         },
         {
             "from": 16,
-            "to": 12
+            "to": 12,
+            "value": 1
         },
         {
             "from": 16,
-            "to": 17
+            "to": 17,
+            "value": 1
         },
         {
             "from": 17,
-            "to": 1
+            "to": 1,
+            "value": 2
         },
         {
             "from": 17,
-            "to": 169
+            "to": 169,
+            "value": 1
         },
         {
             "from": 17,
-            "to": 1
+            "to": 194,
+            "value": 1
         },
         {
             "from": 17,
-            "to": 194
-        },
-        {
-            "from": 17,
-            "to": 185
+            "to": 185,
+            "value": 1
         },
         {
             "from": 18,
-            "to": 212
+            "to": 212,
+            "value": 1
         },
         {
             "from": 18,
-            "to": 85
+            "to": 85,
+            "value": 1
         },
         {
             "from": 19,
-            "to": 116
+            "to": 116,
+            "value": 1
         },
         {
             "from": 19,
-            "to": 173
+            "to": 173,
+            "value": 1
         },
         {
             "from": 22,
-            "to": 92
+            "to": 92,
+            "value": 1
         },
         {
             "from": 22,
-            "to": 103
+            "to": 103,
+            "value": 2
         },
         {
             "from": 22,
-            "to": 116
-        },
-        {
-            "from": 22,
-            "to": 116
-        },
-        {
-            "from": 22,
-            "to": 103
+            "to": 116,
+            "value": 2
         },
         {
             "from": 23,
-            "to": 161
-        },
-        {
-            "from": 23,
-            "to": 161
+            "to": 161,
+            "value": 2
         },
         {
             "from": 25,
-            "to": 16
+            "to": 16,
+            "value": 2
         },
         {
             "from": 25,
-            "to": 12
+            "to": 12,
+            "value": 1
         },
         {
             "from": 25,
-            "to": 16
-        },
-        {
-            "from": 25,
-            "to": 1
+            "to": 1,
+            "value": 1
         },
         {
             "from": 27,
-            "to": 135
+            "to": 135,
+            "value": 1
         },
         {
             "from": 27,
-            "to": 88
+            "to": 88,
+            "value": 3
         },
         {
             "from": 27,
-            "to": 68
+            "to": 68,
+            "value": 2
         },
         {
             "from": 27,
-            "to": 88
+            "to": 197,
+            "value": 1
         },
         {
             "from": 27,
-            "to": 88
+            "to": 120,
+            "value": 1
         },
         {
             "from": 27,
-            "to": 197
+            "to": 94,
+            "value": 1
         },
         {
             "from": 27,
-            "to": 120
+            "to": 84,
+            "value": 1
         },
         {
             "from": 27,
-            "to": 68
+            "to": 28,
+            "value": 1
         },
         {
             "from": 27,
-            "to": 94
-        },
-        {
-            "from": 27,
-            "to": 84
-        },
-        {
-            "from": 27,
-            "to": 28
-        },
-        {
-            "from": 27,
-            "to": 30
+            "to": 30,
+            "value": 1
         },
         {
             "from": 28,
-            "to": 102
+            "to": 102,
+            "value": 1
         },
         {
             "from": 28,
-            "to": 75
+            "to": 75,
+            "value": 2
         },
         {
             "from": 28,
-            "to": 84
-        },
-        {
-            "from": 28,
-            "to": 75
+            "to": 84,
+            "value": 1
         },
         {
             "from": 30,
-            "to": 84
+            "to": 84,
+            "value": 2
         },
         {
             "from": 30,
-            "to": 195
-        },
-        {
-            "from": 30,
-            "to": 84
+            "to": 195,
+            "value": 1
         },
         {
             "from": 32,
-            "to": 51
+            "to": 51,
+            "value": 1
         },
         {
             "from": 32,
-            "to": 65
+            "to": 65,
+            "value": 2
         },
         {
             "from": 32,
-            "to": 196
-        },
-        {
-            "from": 32,
-            "to": 65
+            "to": 196,
+            "value": 1
         },
         {
             "from": 34,
-            "to": 44
+            "to": 44,
+            "value": 1
         },
         {
             "from": 34,
-            "to": 169
+            "to": 169,
+            "value": 1
         },
         {
             "from": 34,
-            "to": 94
+            "to": 94,
+            "value": 1
         },
         {
             "from": 34,
-            "to": 93
+            "to": 93,
+            "value": 1
         },
         {
             "from": 35,
-            "to": 93
+            "to": 93,
+            "value": 1
         },
         {
             "from": 35,
-            "to": 94
+            "to": 94,
+            "value": 2
         },
         {
             "from": 35,
-            "to": 3
-        },
-        {
-            "from": 35,
-            "to": 3
-        },
-        {
-            "from": 35,
-            "to": 94
+            "to": 3,
+            "value": 2
         },
         {
             "from": 37,
-            "to": 4
+            "to": 4,
+            "value": 1
         },
         {
             "from": 37,
-            "to": 142
+            "to": 142,
+            "value": 1
         },
         {
             "from": 39,
-            "to": 1
+            "to": 1,
+            "value": 1
         },
         {
             "from": 40,
-            "to": 94
+            "to": 94,
+            "value": 1
         },
         {
             "from": 40,
-            "to": 93
+            "to": 93,
+            "value": 1
         },
         {
             "from": 41,
-            "to": 42
+            "to": 42,
+            "value": 1
         },
         {
             "from": 42,
-            "to": 41
+            "to": 41,
+            "value": 1
         },
         {
             "from": 43,
-            "to": 120
+            "to": 120,
+            "value": 1
         },
         {
             "from": 46,
-            "to": 197
+            "to": 197,
+            "value": 1
         },
         {
             "from": 47,
-            "to": 3
+            "to": 3,
+            "value": 1
         },
         {
             "from": 47,
-            "to": 169
+            "to": 169,
+            "value": 1
         },
         {
             "from": 47,
-            "to": 207
+            "to": 207,
+            "value": 1
         },
         {
             "from": 47,
-            "to": 122
-        },
-        {
-            "from": 47,
-            "to": 122
+            "to": 122,
+            "value": 2
         },
         {
             "from": 48,
-            "to": 47
+            "to": 47,
+            "value": 1
         },
         {
             "from": 48,
-            "to": 169
+            "to": 169,
+            "value": 1
         },
         {
             "from": 51,
-            "to": 32
+            "to": 32,
+            "value": 2
         },
         {
             "from": 51,
-            "to": 89
+            "to": 89,
+            "value": 1
         },
         {
             "from": 51,
-            "to": 157
+            "to": 157,
+            "value": 1
         },
         {
             "from": 51,
-            "to": 88
+            "to": 88,
+            "value": 1
         },
         {
             "from": 51,
-            "to": 84
+            "to": 84,
+            "value": 1
         },
         {
             "from": 51,
-            "to": 32
+            "to": 68,
+            "value": 1
         },
         {
             "from": 51,
-            "to": 68
-        },
-        {
-            "from": 51,
-            "to": 142
+            "to": 142,
+            "value": 1
         },
         {
             "from": 54,
-            "to": 69
+            "to": 69,
+            "value": 1
         },
         {
             "from": 54,
-            "to": 207
+            "to": 207,
+            "value": 1
         },
         {
             "from": 57,
-            "to": 70
+            "to": 70,
+            "value": 1
         },
         {
             "from": 57,
-            "to": 215
+            "to": 215,
+            "value": 2
         },
         {
             "from": 57,
-            "to": 215
+            "to": 5,
+            "value": 1
         },
         {
             "from": 57,
-            "to": 5
+            "to": 79,
+            "value": 1
         },
         {
             "from": 57,
-            "to": 79
-        },
-        {
-            "from": 57,
-            "to": 157
+            "to": 157,
+            "value": 1
         },
         {
             "from": 59,
-            "to": 8
+            "to": 8,
+            "value": 1
         },
         {
             "from": 59,
-            "to": 215
+            "to": 215,
+            "value": 1
         },
         {
             "from": 59,
-            "to": 66
+            "to": 66,
+            "value": 1
         },
         {
             "from": 60,
-            "to": 103
+            "to": 103,
+            "value": 1
         },
         {
             "from": 60,
-            "to": 66
+            "to": 66,
+            "value": 1
         },
         {
             "from": 61,
-            "to": 62
+            "to": 62,
+            "value": 2
         },
         {
             "from": 61,
-            "to": 139
+            "to": 139,
+            "value": 1
         },
         {
             "from": 61,
-            "to": 62
+            "to": 137,
+            "value": 1
         },
         {
             "from": 61,
-            "to": 137
-        },
-        {
-            "from": 61,
-            "to": 138
+            "to": 138,
+            "value": 1
         },
         {
             "from": 62,
-            "to": 61
+            "to": 61,
+            "value": 1
         },
         {
             "from": 62,
-            "to": 137
+            "to": 137,
+            "value": 1
         },
         {
             "from": 62,
-            "to": 138
+            "to": 138,
+            "value": 1
         },
         {
             "from": 63,
-            "to": 223
+            "to": 223,
+            "value": 1
         },
         {
             "from": 64,
-            "to": 116
+            "to": 116,
+            "value": 4
         },
         {
             "from": 64,
-            "to": 175
+            "to": 175,
+            "value": 2
         },
         {
             "from": 64,
-            "to": 164
+            "to": 164,
+            "value": 3
         },
         {
             "from": 64,
-            "to": 65
+            "to": 65,
+            "value": 4
         },
         {
             "from": 64,
-            "to": 116
+            "to": 71,
+            "value": 1
         },
         {
             "from": 64,
-            "to": 116
+            "to": 32,
+            "value": 1
         },
         {
             "from": 64,
-            "to": 71
-        },
-        {
-            "from": 64,
-            "to": 164
-        },
-        {
-            "from": 64,
-            "to": 65
-        },
-        {
-            "from": 64,
-            "to": 116
-        },
-        {
-            "from": 64,
-            "to": 65
-        },
-        {
-            "from": 64,
-            "to": 32
-        },
-        {
-            "from": 64,
-            "to": 164
-        },
-        {
-            "from": 64,
-            "to": 196
-        },
-        {
-            "from": 64,
-            "to": 65
-        },
-        {
-            "from": 64,
-            "to": 175
+            "to": 196,
+            "value": 1
         },
         {
             "from": 65,
-            "to": 149
+            "to": 149,
+            "value": 1
         },
         {
             "from": 65,
-            "to": 92
+            "to": 92,
+            "value": 1
         },
         {
             "from": 65,
-            "to": 116
+            "to": 116,
+            "value": 2
         },
         {
             "from": 65,
-            "to": 32
+            "to": 32,
+            "value": 2
         },
         {
             "from": 65,
-            "to": 103
+            "to": 103,
+            "value": 1
         },
         {
             "from": 65,
-            "to": 164
+            "to": 164,
+            "value": 1
         },
         {
             "from": 65,
-            "to": 173
+            "to": 173,
+            "value": 1
         },
         {
             "from": 65,
-            "to": 32
+            "to": 1,
+            "value": 1
         },
         {
             "from": 65,
-            "to": 116
+            "to": 175,
+            "value": 1
         },
         {
             "from": 65,
-            "to": 1
+            "to": 19,
+            "value": 1
         },
         {
             "from": 65,
-            "to": 175
-        },
-        {
-            "from": 65,
-            "to": 19
-        },
-        {
-            "from": 65,
-            "to": 3
+            "to": 3,
+            "value": 1
         },
         {
             "from": 66,
-            "to": 115
+            "to": 115,
+            "value": 2
         },
         {
             "from": 66,
-            "to": 215
+            "to": 215,
+            "value": 2
         },
         {
             "from": 66,
-            "to": 60
+            "to": 60,
+            "value": 2
         },
         {
             "from": 66,
-            "to": 215
+            "to": 59,
+            "value": 1
         },
         {
             "from": 66,
-            "to": 60
-        },
-        {
-            "from": 66,
-            "to": 59
-        },
-        {
-            "from": 66,
-            "to": 164
-        },
-        {
-            "from": 66,
-            "to": 115
+            "to": 164,
+            "value": 1
         },
         {
             "from": 67,
-            "to": 66
+            "to": 66,
+            "value": 1
         },
         {
             "from": 67,
-            "to": 95
+            "to": 95,
+            "value": 1
         },
         {
             "from": 68,
-            "to": 27
+            "to": 27,
+            "value": 1
         },
         {
             "from": 69,
-            "to": 92
+            "to": 92,
+            "value": 1
         },
         {
             "from": 69,
-            "to": 135
+            "to": 135,
+            "value": 1
         },
         {
             "from": 69,
-            "to": 157
+            "to": 157,
+            "value": 1
         },
         {
             "from": 70,
-            "to": 198
+            "to": 198,
+            "value": 1
         },
         {
             "from": 70,
-            "to": 148
+            "to": 148,
+            "value": 1
         },
         {
             "from": 70,
-            "to": 82
+            "to": 82,
+            "value": 1
         },
         {
             "from": 70,
-            "to": 5
+            "to": 5,
+            "value": 1
         },
         {
             "from": 71,
-            "to": 32
+            "to": 32,
+            "value": 3
         },
         {
             "from": 71,
-            "to": 141
+            "to": 141,
+            "value": 1
         },
         {
             "from": 71,
-            "to": 65
+            "to": 65,
+            "value": 2
         },
         {
             "from": 71,
-            "to": 32
-        },
-        {
-            "from": 71,
-            "to": 65
-        },
-        {
-            "from": 71,
-            "to": 32
-        },
-        {
-            "from": 71,
-            "to": 102
+            "to": 102,
+            "value": 1
         },
         {
             "from": 72,
-            "to": 164
+            "to": 164,
+            "value": 1
         },
         {
             "from": 73,
-            "to": 66
+            "to": 66,
+            "value": 1
         },
         {
             "from": 75,
-            "to": 28
+            "to": 28,
+            "value": 3
         },
         {
             "from": 75,
-            "to": 84
+            "to": 84,
+            "value": 2
         },
         {
             "from": 75,
-            "to": 28
+            "to": 102,
+            "value": 1
         },
         {
             "from": 75,
-            "to": 102
-        },
-        {
-            "from": 75,
-            "to": 84
-        },
-        {
-            "from": 75,
-            "to": 157
-        },
-        {
-            "from": 75,
-            "to": 28
+            "to": 157,
+            "value": 1
         },
         {
             "from": 77,
-            "to": 76
+            "to": 76,
+            "value": 1
         },
         {
             "from": 79,
-            "to": 57
+            "to": 57,
+            "value": 1
         },
         {
             "from": 79,
-            "to": 159
+            "to": 159,
+            "value": 1
         },
         {
             "from": 81,
-            "to": 207
+            "to": 207,
+            "value": 1
         },
         {
             "from": 81,
-            "to": 122
+            "to": 122,
+            "value": 1
         },
         {
             "from": 82,
-            "to": 70
+            "to": 70,
+            "value": 1
         },
         {
             "from": 82,
-            "to": 121
+            "to": 121,
+            "value": 2
         },
         {
             "from": 82,
-            "to": 115
+            "to": 115,
+            "value": 1
         },
         {
             "from": 82,
-            "to": 121
+            "to": 148,
+            "value": 2
         },
         {
             "from": 82,
-            "to": 148
+            "to": 5,
+            "value": 2
         },
         {
             "from": 82,
-            "to": 5
-        },
-        {
-            "from": 82,
-            "to": 83
-        },
-        {
-            "from": 82,
-            "to": 148
-        },
-        {
-            "from": 82,
-            "to": 5
-        },
-        {
-            "from": 82,
-            "to": 83
+            "to": 83,
+            "value": 2
         },
         {
             "from": 83,
-            "to": 70
+            "to": 70,
+            "value": 1
         },
         {
             "from": 83,
-            "to": 121
+            "to": 121,
+            "value": 1
         },
         {
             "from": 83,
-            "to": 5
+            "to": 5,
+            "value": 2
         },
         {
             "from": 83,
-            "to": 82
+            "to": 82,
+            "value": 2
         },
         {
             "from": 83,
-            "to": 5
-        },
-        {
-            "from": 83,
-            "to": 82
-        },
-        {
-            "from": 83,
-            "to": 148
+            "to": 148,
+            "value": 1
         },
         {
             "from": 84,
-            "to": 108
+            "to": 108,
+            "value": 4
         },
         {
             "from": 84,
-            "to": 108
+            "to": 27,
+            "value": 1
         },
         {
             "from": 84,
-            "to": 27
+            "to": 30,
+            "value": 3
         },
         {
             "from": 84,
-            "to": 30
+            "to": 157,
+            "value": 2
         },
         {
             "from": 84,
-            "to": 30
+            "to": 102,
+            "value": 1
         },
         {
             "from": 84,
-            "to": 157
+            "to": 88,
+            "value": 1
         },
         {
             "from": 84,
-            "to": 108
-        },
-        {
-            "from": 84,
-            "to": 157
-        },
-        {
-            "from": 84,
-            "to": 108
-        },
-        {
-            "from": 84,
-            "to": 102
-        },
-        {
-            "from": 84,
-            "to": 88
-        },
-        {
-            "from": 84,
-            "to": 75
-        },
-        {
-            "from": 84,
-            "to": 30
+            "to": 75,
+            "value": 1
         },
         {
             "from": 86,
-            "to": 215
+            "to": 215,
+            "value": 1
         },
         {
             "from": 87,
-            "to": 65
+            "to": 65,
+            "value": 1
         },
         {
             "from": 87,
-            "to": 122
+            "to": 122,
+            "value": 1
         },
         {
             "from": 88,
-            "to": 84
+            "to": 84,
+            "value": 4
         },
         {
             "from": 88,
-            "to": 157
+            "to": 157,
+            "value": 1
         },
         {
             "from": 88,
-            "to": 108
+            "to": 108,
+            "value": 8
         },
         {
             "from": 88,
-            "to": 27
+            "to": 27,
+            "value": 3
         },
         {
             "from": 88,
-            "to": 28
+            "to": 28,
+            "value": 2
         },
         {
             "from": 88,
-            "to": 3
+            "to": 3,
+            "value": 2
         },
         {
             "from": 88,
-            "to": 84
+            "to": 120,
+            "value": 3
         },
         {
             "from": 88,
-            "to": 120
+            "to": 186,
+            "value": 1
         },
         {
             "from": 88,
-            "to": 186
+            "to": 197,
+            "value": 1
         },
         {
             "from": 88,
-            "to": 197
+            "to": 94,
+            "value": 4
         },
         {
             "from": 88,
-            "to": 94
+            "to": 1,
+            "value": 2
         },
         {
             "from": 88,
-            "to": 108
+            "to": 122,
+            "value": 2
         },
         {
             "from": 88,
-            "to": 108
+            "to": 102,
+            "value": 2
         },
         {
             "from": 88,
-            "to": 120
+            "to": 89,
+            "value": 1
         },
         {
             "from": 88,
-            "to": 1
+            "to": 6,
+            "value": 1
         },
         {
             "from": 88,
-            "to": 108
+            "to": 68,
+            "value": 1
         },
         {
             "from": 88,
-            "to": 1
-        },
-        {
-            "from": 88,
-            "to": 27
-        },
-        {
-            "from": 88,
-            "to": 108
-        },
-        {
-            "from": 88,
-            "to": 108
-        },
-        {
-            "from": 88,
-            "to": 94
-        },
-        {
-            "from": 88,
-            "to": 94
-        },
-        {
-            "from": 88,
-            "to": 120
-        },
-        {
-            "from": 88,
-            "to": 84
-        },
-        {
-            "from": 88,
-            "to": 122
-        },
-        {
-            "from": 88,
-            "to": 102
-        },
-        {
-            "from": 88,
-            "to": 108
-        },
-        {
-            "from": 88,
-            "to": 122
-        },
-        {
-            "from": 88,
-            "to": 89
-        },
-        {
-            "from": 88,
-            "to": 27
-        },
-        {
-            "from": 88,
-            "to": 28
-        },
-        {
-            "from": 88,
-            "to": 84
-        },
-        {
-            "from": 88,
-            "to": 94
-        },
-        {
-            "from": 88,
-            "to": 102
-        },
-        {
-            "from": 88,
-            "to": 6
-        },
-        {
-            "from": 88,
-            "to": 68
-        },
-        {
-            "from": 88,
-            "to": 3
-        },
-        {
-            "from": 88,
-            "to": 108
-        },
-        {
-            "from": 88,
-            "to": 30
+            "to": 30,
+            "value": 1
         },
         {
             "from": 89,
-            "to": 51
+            "to": 51,
+            "value": 2
         },
         {
             "from": 89,
-            "to": 65
+            "to": 65,
+            "value": 1
         },
         {
             "from": 89,
-            "to": 51
+            "to": 32,
+            "value": 1
         },
         {
             "from": 89,
-            "to": 32
-        },
-        {
-            "from": 89,
-            "to": 167
+            "to": 167,
+            "value": 1
         },
         {
             "from": 90,
-            "to": 120
+            "to": 120,
+            "value": 2
         },
         {
             "from": 90,
-            "to": 197
+            "to": 197,
+            "value": 1
         },
         {
             "from": 90,
-            "to": 186
-        },
-        {
-            "from": 90,
-            "to": 120
+            "to": 186,
+            "value": 1
         },
         {
             "from": 92,
-            "to": 116
+            "to": 116,
+            "value": 1
         },
         {
             "from": 92,
-            "to": 64
+            "to": 64,
+            "value": 1
         },
         {
             "from": 93,
-            "to": 94
+            "to": 94,
+            "value": 2
         },
         {
             "from": 93,
-            "to": 3
+            "to": 3,
+            "value": 2
         },
         {
             "from": 93,
-            "to": 35
+            "to": 35,
+            "value": 2
         },
         {
             "from": 93,
-            "to": 35
-        },
-        {
-            "from": 93,
-            "to": 3
-        },
-        {
-            "from": 93,
-            "to": 94
-        },
-        {
-            "from": 93,
-            "to": 182
+            "to": 182,
+            "value": 1
         },
         {
             "from": 94,
-            "to": 93
+            "to": 93,
+            "value": 2
         },
         {
             "from": 94,
-            "to": 169
+            "to": 169,
+            "value": 1
         },
         {
             "from": 94,
-            "to": 93
+            "to": 108,
+            "value": 1
         },
         {
             "from": 94,
-            "to": 108
+            "to": 88,
+            "value": 1
         },
         {
             "from": 94,
-            "to": 88
-        },
-        {
-            "from": 94,
-            "to": 185
+            "to": 185,
+            "value": 1
         },
         {
             "from": 95,
-            "to": 67
+            "to": 67,
+            "value": 2
         },
         {
             "from": 95,
-            "to": 121
+            "to": 121,
+            "value": 1
         },
         {
             "from": 95,
-            "to": 159
+            "to": 159,
+            "value": 1
         },
         {
             "from": 95,
-            "to": 170
+            "to": 170,
+            "value": 1
         },
         {
             "from": 95,
-            "to": 177
+            "to": 177,
+            "value": 1
         },
         {
             "from": 95,
-            "to": 147
+            "to": 147,
+            "value": 1
         },
         {
             "from": 95,
-            "to": 67
+            "to": 221,
+            "value": 1
         },
         {
             "from": 95,
-            "to": 221
-        },
-        {
-            "from": 95,
-            "to": 94
+            "to": 94,
+            "value": 1
         },
         {
             "from": 97,
-            "to": 135
+            "to": 135,
+            "value": 1
         },
         {
             "from": 97,
-            "to": 108
+            "to": 108,
+            "value": 1
         },
         {
             "from": 102,
-            "to": 157
+            "to": 157,
+            "value": 1
         },
         {
             "from": 102,
-            "to": 3
+            "to": 3,
+            "value": 1
         },
         {
             "from": 102,
-            "to": 84
+            "to": 84,
+            "value": 1
         },
         {
             "from": 103,
-            "to": 60
+            "to": 60,
+            "value": 1
         },
         {
             "from": 103,
-            "to": 65
+            "to": 65,
+            "value": 1
         },
         {
             "from": 103,
-            "to": 190
+            "to": 190,
+            "value": 1
         },
         {
             "from": 104,
-            "to": 92
+            "to": 92,
+            "value": 1
         },
         {
             "from": 105,
-            "to": 112
+            "to": 112,
+            "value": 1
         },
         {
             "from": 106,
-            "to": 13
+            "to": 13,
+            "value": 1
         },
         {
             "from": 107,
-            "to": 50
+            "to": 50,
+            "value": 1
         },
         {
             "from": 107,
-            "to": 157
+            "to": 157,
+            "value": 1
         },
         {
             "from": 108,
-            "to": 88
+            "to": 88,
+            "value": 1
         },
         {
             "from": 108,
-            "to": 94
+            "to": 94,
+            "value": 2
         },
         {
             "from": 108,
-            "to": 120
+            "to": 120,
+            "value": 1
         },
         {
             "from": 108,
-            "to": 97
+            "to": 97,
+            "value": 1
         },
         {
             "from": 108,
-            "to": 65
+            "to": 65,
+            "value": 1
         },
         {
             "from": 108,
-            "to": 50
+            "to": 50,
+            "value": 2
         },
         {
             "from": 108,
-            "to": 28
+            "to": 28,
+            "value": 1
         },
         {
             "from": 108,
-            "to": 27
+            "to": 27,
+            "value": 1
         },
         {
             "from": 108,
-            "to": 94
+            "to": 10,
+            "value": 1
         },
         {
             "from": 108,
-            "to": 10
+            "to": 84,
+            "value": 5
         },
         {
             "from": 108,
-            "to": 84
+            "to": 75,
+            "value": 1
         },
         {
             "from": 108,
-            "to": 75
+            "to": 157,
+            "value": 2
         },
         {
             "from": 108,
-            "to": 157
+            "to": 123,
+            "value": 1
         },
         {
             "from": 108,
-            "to": 123
+            "to": 3,
+            "value": 1
         },
         {
             "from": 108,
-            "to": 3
+            "to": 121,
+            "value": 1
         },
         {
             "from": 108,
-            "to": 121
+            "to": 1,
+            "value": 1
         },
         {
             "from": 108,
-            "to": 1
+            "to": 68,
+            "value": 1
         },
         {
             "from": 108,
-            "to": 84
+            "to": 186,
+            "value": 1
         },
         {
             "from": 108,
-            "to": 50
+            "to": 197,
+            "value": 1
         },
         {
             "from": 108,
-            "to": 84
-        },
-        {
-            "from": 108,
-            "to": 84
-        },
-        {
-            "from": 108,
-            "to": 68
-        },
-        {
-            "from": 108,
-            "to": 84
-        },
-        {
-            "from": 108,
-            "to": 157
-        },
-        {
-            "from": 108,
-            "to": 186
-        },
-        {
-            "from": 108,
-            "to": 197
-        },
-        {
-            "from": 108,
-            "to": 122
+            "to": 122,
+            "value": 1
         },
         {
             "from": 109,
-            "to": 164
+            "to": 164,
+            "value": 1
         },
         {
             "from": 112,
-            "to": 105
+            "to": 105,
+            "value": 1
         },
         {
             "from": 113,
-            "to": 197
+            "to": 197,
+            "value": 1
         },
         {
             "from": 113,
-            "to": 13
+            "to": 13,
+            "value": 1
         },
         {
             "from": 115,
-            "to": 134
+            "to": 134,
+            "value": 1
         },
         {
             "from": 116,
-            "to": 87
+            "to": 87,
+            "value": 1
         },
         {
             "from": 116,
-            "to": 64
+            "to": 64,
+            "value": 1
         },
         {
             "from": 119,
-            "to": 16
+            "to": 16,
+            "value": 2
         },
         {
             "from": 119,
-            "to": 16
+            "to": 1,
+            "value": 1
         },
         {
             "from": 119,
-            "to": 1
-        },
-        {
-            "from": 119,
-            "to": 120
+            "to": 120,
+            "value": 1
         },
         {
             "from": 120,
-            "to": 1
+            "to": 1,
+            "value": 1
         },
         {
             "from": 120,
-            "to": 88
+            "to": 88,
+            "value": 1
         },
         {
             "from": 120,
-            "to": 25
+            "to": 25,
+            "value": 1
         },
         {
             "from": 120,
-            "to": 90
+            "to": 90,
+            "value": 1
         },
         {
             "from": 120,
-            "to": 43
+            "to": 43,
+            "value": 1
         },
         {
             "from": 121,
-            "to": 159
+            "to": 159,
+            "value": 1
         },
         {
             "from": 121,
-            "to": 122
+            "to": 122,
+            "value": 2
         },
         {
             "from": 121,
-            "to": 3
+            "to": 3,
+            "value": 1
         },
         {
             "from": 121,
-            "to": 122
+            "to": 164,
+            "value": 1
         },
         {
             "from": 121,
-            "to": 164
+            "to": 71,
+            "value": 1
         },
         {
             "from": 121,
-            "to": 71
+            "to": 148,
+            "value": 4
         },
         {
             "from": 121,
-            "to": 148
+            "to": 82,
+            "value": 1
         },
         {
             "from": 121,
-            "to": 148
+            "to": 87,
+            "value": 1
         },
         {
             "from": 121,
-            "to": 148
+            "to": 5,
+            "value": 1
         },
         {
             "from": 121,
-            "to": 82
+            "to": 79,
+            "value": 2
         },
         {
             "from": 121,
-            "to": 87
+            "to": 166,
+            "value": 1
         },
         {
             "from": 121,
-            "to": 5
+            "to": 1,
+            "value": 1
         },
         {
             "from": 121,
-            "to": 79
+            "to": 17,
+            "value": 1
         },
         {
             "from": 121,
-            "to": 79
-        },
-        {
-            "from": 121,
-            "to": 148
-        },
-        {
-            "from": 121,
-            "to": 166
-        },
-        {
-            "from": 121,
-            "to": 1
-        },
-        {
-            "from": 121,
-            "to": 17
-        },
-        {
-            "from": 121,
-            "to": 16
+            "to": 16,
+            "value": 1
         },
         {
             "from": 122,
-            "to": 121
+            "to": 121,
+            "value": 1
         },
         {
             "from": 122,
-            "to": 5
+            "to": 5,
+            "value": 1
         },
         {
             "from": 122,
-            "to": 168
+            "to": 168,
+            "value": 2
         },
         {
             "from": 122,
-            "to": 87
+            "to": 87,
+            "value": 2
         },
         {
             "from": 122,
-            "to": 168
+            "to": 134,
+            "value": 2
         },
         {
             "from": 122,
-            "to": 87
+            "to": 158,
+            "value": 1
         },
         {
             "from": 122,
-            "to": 134
+            "to": 47,
+            "value": 2
         },
         {
             "from": 122,
-            "to": 158
-        },
-        {
-            "from": 122,
-            "to": 47
-        },
-        {
-            "from": 122,
-            "to": 115
-        },
-        {
-            "from": 122,
-            "to": 134
-        },
-        {
-            "from": 122,
-            "to": 47
+            "to": 115,
+            "value": 1
         },
         {
             "from": 123,
-            "to": 3
+            "to": 3,
+            "value": 1
         },
         {
             "from": 125,
-            "to": 164
+            "to": 164,
+            "value": 1
         },
         {
             "from": 128,
-            "to": 69
+            "to": 69,
+            "value": 1
         },
         {
             "from": 128,
-            "to": 157
+            "to": 157,
+            "value": 1
         },
         {
             "from": 131,
-            "to": 226
+            "to": 226,
+            "value": 2
         },
         {
             "from": 131,
-            "to": 226
+            "to": 215,
+            "value": 1
         },
         {
             "from": 131,
-            "to": 215
-        },
-        {
-            "from": 131,
-            "to": 79
+            "to": 79,
+            "value": 1
         },
         {
             "from": 132,
-            "to": 156
+            "to": 156,
+            "value": 1
         },
         {
             "from": 135,
-            "to": 157
+            "to": 157,
+            "value": 1
         },
         {
             "from": 135,
-            "to": 207
+            "to": 207,
+            "value": 1
         },
         {
             "from": 137,
-            "to": 139
+            "to": 139,
+            "value": 1
         },
         {
             "from": 137,
-            "to": 61
+            "to": 61,
+            "value": 1
         },
         {
             "from": 137,
-            "to": 62
+            "to": 62,
+            "value": 1
         },
         {
             "from": 137,
-            "to": 138
+            "to": 138,
+            "value": 1
         },
         {
             "from": 138,
-            "to": 137
+            "to": 137,
+            "value": 2
         },
         {
             "from": 138,
-            "to": 139
+            "to": 139,
+            "value": 1
         },
         {
             "from": 138,
-            "to": 61
+            "to": 61,
+            "value": 1
         },
         {
             "from": 138,
-            "to": 62
-        },
-        {
-            "from": 138,
-            "to": 137
+            "to": 62,
+            "value": 1
         },
         {
             "from": 139,
-            "to": 62
+            "to": 62,
+            "value": 2
         },
         {
             "from": 139,
-            "to": 137
+            "to": 137,
+            "value": 2
         },
         {
             "from": 139,
-            "to": 138
+            "to": 138,
+            "value": 2
         },
         {
             "from": 139,
-            "to": 61
-        },
-        {
-            "from": 139,
-            "to": 62
-        },
-        {
-            "from": 139,
-            "to": 137
-        },
-        {
-            "from": 139,
-            "to": 138
+            "to": 61,
+            "value": 1
         },
         {
             "from": 140,
-            "to": 50
+            "to": 50,
+            "value": 1
         },
         {
             "from": 142,
-            "to": 4
+            "to": 4,
+            "value": 1
         },
         {
             "from": 142,
-            "to": 63
+            "to": 63,
+            "value": 1
         },
         {
             "from": 142,
-            "to": 223
+            "to": 223,
+            "value": 1
         },
         {
             "from": 142,
-            "to": 51
+            "to": 51,
+            "value": 1
         },
         {
             "from": 144,
-            "to": 199
+            "to": 199,
+            "value": 1
         },
         {
             "from": 145,
-            "to": 32
+            "to": 32,
+            "value": 1
         },
         {
             "from": 147,
-            "to": 95
+            "to": 95,
+            "value": 1
         },
         {
             "from": 148,
-            "to": 70
+            "to": 70,
+            "value": 1
         },
         {
             "from": 148,
-            "to": 121
+            "to": 121,
+            "value": 1
         },
         {
             "from": 148,
-            "to": 159
+            "to": 159,
+            "value": 1
         },
         {
             "from": 148,
-            "to": 5
+            "to": 5,
+            "value": 3
         },
         {
             "from": 148,
-            "to": 82
+            "to": 82,
+            "value": 2
         },
         {
             "from": 148,
-            "to": 5
-        },
-        {
-            "from": 148,
-            "to": 83
-        },
-        {
-            "from": 148,
-            "to": 82
-        },
-        {
-            "from": 148,
-            "to": 5
-        },
-        {
-            "from": 148,
-            "to": 83
+            "to": 83,
+            "value": 2
         },
         {
             "from": 150,
-            "to": 151
+            "to": 151,
+            "value": 1
         },
         {
             "from": 152,
-            "to": 141
+            "to": 141,
+            "value": 1
         },
         {
             "from": 154,
-            "to": 113
+            "to": 113,
+            "value": 2
         },
         {
             "from": 154,
-            "to": 113
+            "to": 157,
+            "value": 1
         },
         {
             "from": 154,
-            "to": 157
-        },
-        {
-            "from": 154,
-            "to": 94
+            "to": 94,
+            "value": 1
         },
         {
             "from": 156,
-            "to": 188
+            "to": 188,
+            "value": 1
         },
         {
             "from": 157,
-            "to": 207
+            "to": 207,
+            "value": 1
         },
         {
             "from": 158,
-            "to": 127
+            "to": 127,
+            "value": 1
         },
         {
             "from": 158,
-            "to": 122
+            "to": 122,
+            "value": 1
         },
         {
             "from": 159,
-            "to": 95
+            "to": 95,
+            "value": 3
         },
         {
             "from": 159,
-            "to": 121
+            "to": 121,
+            "value": 1
         },
         {
             "from": 159,
-            "to": 95
+            "to": 215,
+            "value": 1
         },
         {
             "from": 159,
-            "to": 215
+            "to": 79,
+            "value": 1
         },
         {
             "from": 159,
-            "to": 79
+            "to": 166,
+            "value": 1
         },
         {
             "from": 159,
-            "to": 166
+            "to": 67,
+            "value": 1
         },
         {
             "from": 159,
-            "to": 67
+            "to": 198,
+            "value": 2
         },
         {
             "from": 159,
-            "to": 198
+            "to": 148,
+            "value": 1
         },
         {
             "from": 159,
-            "to": 198
+            "to": 5,
+            "value": 1
         },
         {
             "from": 159,
-            "to": 148
-        },
-        {
-            "from": 159,
-            "to": 5
-        },
-        {
-            "from": 159,
-            "to": 82
-        },
-        {
-            "from": 159,
-            "to": 95
+            "to": 82,
+            "value": 1
         },
         {
             "from": 161,
-            "to": 23
-        },
-        {
-            "from": 161,
-            "to": 23
+            "to": 23,
+            "value": 2
         },
         {
             "from": 163,
-            "to": 65
+            "to": 65,
+            "value": 1
         },
         {
             "from": 164,
-            "to": 207
+            "to": 207,
+            "value": 1
         },
         {
             "from": 164,
-            "to": 87
+            "to": 87,
+            "value": 1
         },
         {
             "from": 164,
-            "to": 65
+            "to": 65,
+            "value": 1
         },
         {
             "from": 164,
-            "to": 92
+            "to": 92,
+            "value": 2
         },
         {
             "from": 164,
-            "to": 92
-        },
-        {
-            "from": 164,
-            "to": 165
+            "to": 165,
+            "value": 1
         },
         {
             "from": 166,
-            "to": 131
+            "to": 131,
+            "value": 1
         },
         {
             "from": 166,
-            "to": 215
+            "to": 215,
+            "value": 1
         },
         {
             "from": 167,
-            "to": 7
+            "to": 7,
+            "value": 1
         },
         {
             "from": 167,
-            "to": 50
+            "to": 50,
+            "value": 1
         },
         {
             "from": 168,
-            "to": 122
+            "to": 122,
+            "value": 1
         },
         {
             "from": 168,
-            "to": 169
+            "to": 169,
+            "value": 1
         },
         {
             "from": 168,
-            "to": 207
+            "to": 207,
+            "value": 1
         },
         {
             "from": 168,
-            "to": 134
+            "to": 134,
+            "value": 1
         },
         {
             "from": 169,
-            "to": 3
+            "to": 3,
+            "value": 2
         },
         {
             "from": 169,
-            "to": 94
+            "to": 94,
+            "value": 1
         },
         {
             "from": 169,
-            "to": 93
+            "to": 93,
+            "value": 1
         },
         {
             "from": 169,
-            "to": 108
+            "to": 108,
+            "value": 1
         },
         {
             "from": 169,
-            "to": 65
+            "to": 65,
+            "value": 1
         },
         {
             "from": 169,
-            "to": 1
+            "to": 1,
+            "value": 1
         },
         {
             "from": 169,
-            "to": 194
+            "to": 194,
+            "value": 1
         },
         {
             "from": 169,
-            "to": 185
-        },
-        {
-            "from": 169,
-            "to": 3
+            "to": 185,
+            "value": 1
         },
         {
             "from": 171,
-            "to": 95
+            "to": 95,
+            "value": 1
         },
         {
             "from": 171,
-            "to": 67
+            "to": 67,
+            "value": 1
         },
         {
             "from": 172,
-            "to": 103
+            "to": 103,
+            "value": 2
         },
         {
             "from": 172,
-            "to": 211
+            "to": 211,
+            "value": 2
         },
         {
             "from": 172,
-            "to": 173
-        },
-        {
-            "from": 172,
-            "to": 211
-        },
-        {
-            "from": 172,
-            "to": 103
+            "to": 173,
+            "value": 1
         },
         {
             "from": 173,
-            "to": 176
+            "to": 176,
+            "value": 1
         },
         {
             "from": 173,
-            "to": 116
+            "to": 116,
+            "value": 1
         },
         {
             "from": 173,
-            "to": 175
+            "to": 175,
+            "value": 1
         },
         {
             "from": 173,
-            "to": 211
+            "to": 211,
+            "value": 1
         },
         {
             "from": 174,
-            "to": 116
+            "to": 116,
+            "value": 1
         },
         {
             "from": 175,
-            "to": 64
+            "to": 64,
+            "value": 1
         },
         {
             "from": 176,
-            "to": 173
-        },
-        {
-            "from": 176,
-            "to": 173
+            "to": 173,
+            "value": 2
         },
         {
             "from": 177,
-            "to": 95
+            "to": 95,
+            "value": 1
         },
         {
             "from": 177,
-            "to": 147
+            "to": 147,
+            "value": 1
         },
         {
             "from": 179,
-            "to": 121
-        },
-        {
-            "from": 179,
-            "to": 121
+            "to": 121,
+            "value": 2
         },
         {
             "from": 180,
-            "to": 121
+            "to": 121,
+            "value": 1
         },
         {
             "from": 181,
-            "to": 94
+            "to": 94,
+            "value": 1
         },
         {
             "from": 182,
-            "to": 93
+            "to": 93,
+            "value": 1
         },
         {
             "from": 186,
-            "to": 197
+            "to": 197,
+            "value": 1
         },
         {
             "from": 187,
-            "to": 3
+            "to": 3,
+            "value": 1
         },
         {
             "from": 188,
-            "to": 156
+            "to": 156,
+            "value": 1
         },
         {
             "from": 189,
-            "to": 95
-        },
-        {
-            "from": 189,
-            "to": 95
+            "to": 95,
+            "value": 2
         },
         {
             "from": 190,
-            "to": 164
+            "to": 164,
+            "value": 1
         },
         {
             "from": 190,
-            "to": 207
+            "to": 207,
+            "value": 1
         },
         {
             "from": 190,
-            "to": 103
+            "to": 103,
+            "value": 1
         },
         {
             "from": 192,
-            "to": 164
+            "to": 164,
+            "value": 2
         },
         {
             "from": 192,
-            "to": 65
-        },
-        {
-            "from": 192,
-            "to": 164
+            "to": 65,
+            "value": 1
         },
         {
             "from": 194,
-            "to": 122
+            "to": 122,
+            "value": 1
         },
         {
             "from": 194,
-            "to": 17
+            "to": 17,
+            "value": 1
         },
         {
             "from": 194,
-            "to": 169
+            "to": 169,
+            "value": 1
         },
         {
             "from": 194,
-            "to": 3
+            "to": 3,
+            "value": 1
         },
         {
             "from": 195,
-            "to": 88
+            "to": 88,
+            "value": 2
         },
         {
             "from": 195,
-            "to": 88
+            "to": 207,
+            "value": 2
         },
         {
             "from": 195,
-            "to": 207
+            "to": 108,
+            "value": 1
         },
         {
             "from": 195,
-            "to": 108
+            "to": 28,
+            "value": 1
         },
         {
             "from": 195,
-            "to": 28
+            "to": 84,
+            "value": 1
         },
         {
             "from": 195,
-            "to": 84
-        },
-        {
-            "from": 195,
-            "to": 207
-        },
-        {
-            "from": 195,
-            "to": 30
-        },
-        {
-            "from": 195,
-            "to": 30
-        },
-        {
-            "from": 195,
-            "to": 30
+            "to": 30,
+            "value": 3
         },
         {
             "from": 196,
-            "to": 32
+            "to": 32,
+            "value": 1
         },
         {
             "from": 197,
-            "to": 3
+            "to": 3,
+            "value": 1
         },
         {
             "from": 197,
-            "to": 186
+            "to": 186,
+            "value": 1
         },
         {
             "from": 197,
-            "to": 113
+            "to": 113,
+            "value": 1
         },
         {
             "from": 197,
-            "to": 90
-        },
-        {
-            "from": 197,
-            "to": 90
+            "to": 90,
+            "value": 2
         },
         {
             "from": 199,
-            "to": 144
+            "to": 144,
+            "value": 1
         },
         {
             "from": 199,
-            "to": 151
+            "to": 151,
+            "value": 1
         },
         {
             "from": 200,
-            "to": 197
+            "to": 197,
+            "value": 1
         },
         {
             "from": 200,
-            "to": 164
+            "to": 164,
+            "value": 1
         },
         {
             "from": 200,
-            "to": 65
+            "to": 65,
+            "value": 1
         },
         {
             "from": 201,
-            "to": 200
+            "to": 200,
+            "value": 1
         },
         {
             "from": 202,
-            "to": 50
+            "to": 50,
+            "value": 2
         },
         {
             "from": 202,
-            "to": 151
-        },
-        {
-            "from": 202,
-            "to": 50
+            "to": 151,
+            "value": 1
         },
         {
             "from": 205,
-            "to": 207
+            "to": 207,
+            "value": 1
         },
         {
             "from": 205,
-            "to": 164
+            "to": 164,
+            "value": 1
         },
         {
             "from": 205,
-            "to": 65
+            "to": 65,
+            "value": 1
         },
         {
             "from": 207,
-            "to": 127
+            "to": 127,
+            "value": 1
         },
         {
             "from": 207,
-            "to": 164
+            "to": 164,
+            "value": 1
         },
         {
             "from": 207,
-            "to": 52
+            "to": 52,
+            "value": 1
         },
         {
             "from": 207,
-            "to": 65
-        },
-        {
-            "from": 207,
-            "to": 65
+            "to": 65,
+            "value": 2
         },
         {
             "from": 208,
-            "to": 7
+            "to": 7,
+            "value": 1
         },
         {
             "from": 209,
-            "to": 11
+            "to": 11,
+            "value": 1
         },
         {
             "from": 210,
-            "to": 164
+            "to": 164,
+            "value": 1
         },
         {
             "from": 210,
-            "to": 65
+            "to": 65,
+            "value": 1
         },
         {
             "from": 212,
-            "to": 85
+            "to": 85,
+            "value": 3
         },
         {
             "from": 212,
-            "to": 69
+            "to": 69,
+            "value": 1
         },
         {
             "from": 212,
-            "to": 85
-        },
-        {
-            "from": 212,
-            "to": 85
-        },
-        {
-            "from": 212,
-            "to": 65
+            "to": 65,
+            "value": 1
         },
         {
             "from": 215,
-            "to": 8
+            "to": 8,
+            "value": 1
         },
         {
             "from": 215,
-            "to": 66
+            "to": 66,
+            "value": 1
         },
         {
             "from": 215,
-            "to": 198
+            "to": 198,
+            "value": 2
         },
         {
             "from": 215,
-            "to": 5
-        },
-        {
-            "from": 215,
-            "to": 5
-        },
-        {
-            "from": 215,
-            "to": 198
+            "to": 5,
+            "value": 2
         },
         {
             "from": 221,
-            "to": 95
+            "to": 95,
+            "value": 1
         },
         {
             "from": 222,
-            "to": 65
+            "to": 65,
+            "value": 1
         },
         {
             "from": 222,
-            "to": 223
-        },
-        {
-            "from": 222,
-            "to": 223
+            "to": 223,
+            "value": 2
         },
         {
             "from": 224,
-            "to": 121
+            "to": 121,
+            "value": 1
         },
         {
             "from": 227,
-            "to": 65
+            "to": 65,
+            "value": 1
         }
     ]
 }
