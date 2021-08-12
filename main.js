@@ -65,8 +65,8 @@ function createDataSets(refs) {
     edges.forEach(edge => void nodes.find(node => nodes[edge.to - 1].value += edge.value))
 
     return {
-        nodes: nodes,//new vis.DataSet(nodes),
-        edges: edges//new vis.DataSet(edges)
+        nodes: nodes,
+        edges: edges
     }
 }
 
