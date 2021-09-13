@@ -20,7 +20,8 @@ async function fetchRefData(page) {
     for (let language in titles) {
         for (let title of titles[language]) {
             const url = wikiurl.getUrl(language, title)
-            titleCombinations[title] = await getLinkedTitles(url, page)
+            const key = getDisplayTitle(language, title)
+            titleCombinations[key] = await getLinkedTitles(url, page)
         }
     }
     return titleCombinations
@@ -35,9 +36,43 @@ async function getLinkedTitles(url, page) {
         return res
     })
 
-    return hrefs
-            .map(wikiurl.getTitle) // Parse url to title of the Wikipedia page
-            .filter(t => !t.includes(':')) // Filter out Wikipedia:, Datei:, Benutzer:, Hilfe:, and similar Links
+    return (hrefs 
+            // Parse url to title of the Wikipedia page
+            .map(url => getDisplayTitle(
+                wikiurl.getLang(url),
+                wikiurl.getTitle(url)
+            )) 
+            // Filter out Wikipedia:, Datei:, Benutzer:, Hilfe:, and similar Links
+            .filter(t => !t.includes(':'))
+    )
+}
+
+function getDisplayTitle(language, title) {
+    return `${title} [${language}]`
+}
+
+function getWrappedTitle(displayTitle, characterWrap = 10) {
+    const words = displayTitle.split(/\s+/)
+    const lines = []
+    let currentLine = ''
+
+    for (let word of words) {
+        const wordParts = word.split('-')
+        const lastIndex = wordParts.length - 1
+        for (let i in wordParts) {
+            currentLine += wordParts[i] + (i < lastIndex ? '-' : '')
+            if (currentLine.length >= characterWrap) {
+                lines.push(currentLine)
+                currentLine = ''
+            } 
+        }
+        currentLine += currentLine ? ' ' : ''
+    }
+
+    currentLine = currentLine.trim()
+    if (currentLine) lines.push(currentLine)
+
+    return lines.join('\n')
 }
 
 function createDataSets(refs) {
@@ -55,8 +90,8 @@ function createDataSets(refs) {
     for (const [title, reflist] of Object.entries(refs)) {
         const from = nodes.find(n => n.label === title)?.id
         reflist
-            .map(to => nodes.find(n => n.label === to)?.id)
-            .filter(to => !!to)
+            .map(to => nodes.find(n => n.label === to)?.id || false)
+            .filter(to => to !== false)
             .forEach(to => {
                 const edge = edges.find(e => e.from === from && e.to === to)
                 if (edge) {
@@ -68,7 +103,10 @@ function createDataSets(refs) {
     }
 
     // set node values:
-    edges.forEach(edge => void nodes.find(node => nodes[edge.to - 1].value += edge.value))
+    edges.forEach(edge => nodes[edge.to - 1].value += edge.value)
+
+    // Wrap labels:
+    nodes.forEach(node => node.label = getWrappedTitle(node.label))
 
     return {
         nodes: nodes,
