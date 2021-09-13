@@ -20,7 +20,9 @@ async function fetchRefData(page) {
     for (let language in titles) {
         for (let title of titles[language]) {
             const url = wikiurl.getUrl(language, title)
-            titleCombinations[title] = await getLinkedTitles(url, page)
+            const key = getWrappedTitle(getDisplayTitle(language, title))
+            const out = await getLinkedTitles(url, page)
+            titleCombinations[key] = out.map(getWrappedTitle)
         }
     }
     return titleCombinations
@@ -35,9 +37,42 @@ async function getLinkedTitles(url, page) {
         return res
     })
 
-    return hrefs
-            .map(wikiurl.getTitle) // Parse url to title of the Wikipedia page
-            .filter(t => !t.includes(':')) // Filter out Wikipedia:, Datei:, Benutzer:, Hilfe:, and similar Links
+    return (hrefs 
+            // Parse url to title of the Wikipedia page
+            .map(url => getDisplayTitle(
+                wikiurl.getLang(url),
+                wikiurl.getTitle(url)
+            )) 
+            // Filter out Wikipedia:, Datei:, Benutzer:, Hilfe:, and similar Links
+            .filter(t => !t.includes(':'))
+    )
+}
+
+function getDisplayTitle(language, title) {
+    return `${title} [${language}]`
+}
+
+function getWrappedTitle(displayTitle, characterWrap = 10) {
+    const words = displayTitle.split(/\s+/)
+    const lines = []
+    let currentLine = ''
+
+    for (let word of words) {
+        const wordParts = word.split('-')
+        const lastIndex = wordParts.length - 1
+        for (let i in wordParts) {
+            const nextpart = wordParts[i] + (i < lastIndex ? '-' : '')
+            if (currentLine.length + nextpart.length >= characterWrap) {
+                lines.push(currentLine)
+                currentLine = ''
+            } 
+            currentLine += nextpart
+        }
+        currentLine += currentLine ? ' ' : ''
+    }
+
+    if (currentLine) lines.push(currentLine)
+    return lines.join('\n')
 }
 
 function createDataSets(refs) {

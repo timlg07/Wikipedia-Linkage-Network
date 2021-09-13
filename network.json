@@ -2,2011 +2,2016 @@
     "nodes": [
         {
             "id": 1,
-            "label": "Enterprise Application Integration",
-            "value": 16
+            "label": "Enterprise\nApplication\nIntegration\n[de] ",
+            "value": 5
         },
         {
             "id": 2,
-            "label": "Stammdatenpool",
+            "label": "Stammdatenpool\n[de] ",
             "value": 1
         },
         {
             "id": 3,
-            "label": "Workflow-Management",
-            "value": 19
+            "label": "Workflow-Management\n[de] ",
+            "value": 3
         },
         {
             "id": 4,
-            "label": "Katalogmanagement",
-            "value": 3
+            "label": "Katalogmanagement\n[de] ",
+            "value": 1
         },
         {
             "id": 5,
-            "label": "Ereignisgesteuerte Prozesskette",
-            "value": 15
-        },
-        {
-            "id": 6,
-            "label": "Informationslogistik",
-            "value": 4
-        },
-        {
-            "id": 7,
-            "label": "Informationsbedarf",
-            "value": 4
-        },
-        {
-            "id": 8,
-            "label": "Betriebliches Informationssystem",
+            "label": "Ereignisgesteuerte\nProzesskette\n[de] ",
             "value": 3
         },
         {
-            "id": 9,
-            "label": "Straight Through Processing",
+            "id": 6,
+            "label": "Informationslogistik\n[de] ",
+            "value": 1
+        },
+        {
+            "id": 7,
+            "label": "Informationsbedarf\n[de] ",
             "value": 2
+        },
+        {
+            "id": 8,
+            "label": "Betriebliches\nInformationssystem\n[de] ",
+            "value": 2
+        },
+        {
+            "id": 9,
+            "label": "Straight Through\nProcessing\n[de] ",
+            "value": 1
         },
         {
             "id": 10,
-            "label": "Content-Lifecycle",
-            "value": 2
+            "label": "Content-Lifecycle\n[de] ",
+            "value": 1
         },
         {
             "id": 11,
-            "label": "Sharenet",
+            "label": "Sharenet [de]",
             "value": 2
         },
         {
             "id": 12,
-            "label": "Business Bus",
-            "value": 6
+            "label": "Business Bus\n[de] ",
+            "value": 2
         },
         {
             "id": 13,
-            "label": "Metaverzeichnisdienst",
-            "value": 3
+            "label": "Metaverzeichnisdienst\n[de] ",
+            "value": 1
         },
         {
             "id": 14,
-            "label": "Rezentralisierung",
+            "label": "Rezentralisierung\n[de] ",
             "value": 1
         },
         {
             "id": 15,
-            "label": "Mobile Datenerfassung",
+            "label": "Mobile Datenerfassung\n[de] ",
             "value": 1
         },
         {
             "id": 16,
-            "label": "Integrationsplattform",
-            "value": 8
+            "label": "Integrationsplattform\n[de] ",
+            "value": 6
         },
         {
             "id": 17,
-            "label": "Business Process Engine",
-            "value": 5
+            "label": "Business Process\nEngine [de]",
+            "value": 1
         },
         {
             "id": 18,
-            "label": "Management Support System",
+            "label": "Management\nSupport System\n[de] ",
             "value": 1
         },
         {
             "id": 19,
-            "label": "Communications Oriented Production Information and Control System",
-            "value": 2
+            "label": "Communications\nOriented Production\nInformation\nand Control\nSystem [de]",
+            "value": 1
         },
         {
             "id": 20,
-            "label": "Durchlaufterminierung",
+            "label": "Durchlaufterminierung\n[de] ",
             "value": 1
         },
         {
             "id": 21,
-            "label": "International Business Information Technology",
+            "label": "International\nBusiness Information\nTechnology\n[de] ",
             "value": 1
         },
         {
             "id": 22,
-            "label": "Sachmerkmal-Liste",
+            "label": "Sachmerkmal-\nListe [de]",
             "value": 1
         },
         {
             "id": 23,
-            "label": "U-Commerce",
-            "value": 3
+            "label": "U-Commerce\n[de] ",
+            "value": 1
         },
         {
             "id": 24,
-            "label": "Maschinendatenerfassung",
+            "label": "Maschinendatenerfassung\n[de] ",
             "value": 1
         },
         {
             "id": 25,
-            "label": "Integration (Software)",
-            "value": 7
+            "label": "Integration\n(Software)\n[de] ",
+            "value": 1
         },
         {
             "id": 26,
-            "label": "Fehlersammelkarte",
+            "label": "Fehlersammelkarte\n[de] ",
             "value": 1
         },
         {
             "id": 27,
-            "label": "Dokumenten-Technologien",
-            "value": 7
+            "label": "Dokumenten-\nTechnologien\n[de] ",
+            "value": 1
         },
         {
             "id": 28,
-            "label": "Dokumentlebenszyklusmanagement",
-            "value": 9
+            "label": "Dokumentlebenszyklusmanagement\n[de] ",
+            "value": 5
         },
         {
             "id": 29,
-            "label": "Business Process Modeling Language",
+            "label": "Business Process\nModeling Language\n[de] ",
             "value": 1
         },
         {
             "id": 30,
-            "label": "Verband Organisations- und Informationssysteme",
-            "value": 9
+            "label": "Verband Organisations-\nund Informationssysteme\n[de] ",
+            "value": 1
         },
         {
             "id": 31,
-            "label": "Attributzertifikat",
+            "label": "Attributzertifikat\n[de] ",
             "value": 1
         },
         {
             "id": 32,
-            "label": "Produktdatenmanagement",
-            "value": 12
+            "label": "Produktdatenmanagement\n[de] ",
+            "value": 5
         },
         {
             "id": 33,
-            "label": "Demontageplanung und -steuerung",
+            "label": "Demontageplanung\nund -steuerung\n[de] ",
             "value": 1
         },
         {
             "id": 34,
-            "label": "European Research Center for Information Systems",
+            "label": "European Research\nCenter for\nInformation\nSystems [de]",
             "value": 1
         },
         {
             "id": 35,
-            "label": "Workgroup Computing",
-            "value": 3
+            "label": "Workgroup Computing\n[de] ",
+            "value": 1
         },
         {
             "id": 36,
-            "label": "Initiative D21",
+            "label": "Initiative\nD21 [de] ",
             "value": 1
         },
         {
             "id": 37,
-            "label": "Virtueller Marktplatz",
+            "label": "Virtueller\nMarktplatz\n[de] ",
             "value": 1
         },
         {
             "id": 38,
-            "label": "WebEDI",
+            "label": "WebEDI [de]",
             "value": 1
         },
         {
             "id": 39,
-            "label": "Kontextdiagramm",
+            "label": "Kontextdiagramm\n[de] ",
             "value": 1
         },
         {
             "id": 40,
-            "label": "Late-Join",
+            "label": "Late-Join [de]",
             "value": 1
         },
         {
             "id": 41,
-            "label": "Kleinstbetrag",
+            "label": "Kleinstbetrag\n[de] ",
             "value": 2
         },
         {
             "id": 42,
-            "label": "Micropayment",
-            "value": 2
-        },
-        {
-            "id": 43,
-            "label": "PADEM",
-            "value": 2
-        },
-        {
-            "id": 44,
-            "label": "Interorganisationssystem",
+            "label": "Micropayment\n[de] ",
             "value": 1
         },
         {
+            "id": 43,
+            "label": "PADEM [de]",
+            "value": 1
+        },
+        {
+            "id": 44,
+            "label": "Interorganisationssystem\n[de] ",
+            "value": 2
+        },
+        {
             "id": 45,
-            "label": "Rechnungskreis",
+            "label": "Rechnungskreis\n[de] ",
             "value": 1
         },
         {
             "id": 46,
-            "label": "Computer-Aided Facility Management",
+            "label": "Computer-Aided\nFacility Management\n[de] ",
             "value": 1
         },
         {
             "id": 47,
-            "label": "Workflow Management Coalition",
-            "value": 4
+            "label": "Workflow Management\nCoalition [de]",
+            "value": 1
         },
         {
             "id": 48,
-            "label": "Workflow Reference Model",
+            "label": "Workflow Reference\nModel [de]",
             "value": 1
         },
         {
             "id": 49,
-            "label": "Universal Business Language",
-            "value": 2
+            "label": "Universal Business\nLanguage [de]",
+            "value": 1
         },
         {
             "id": 50,
-            "label": "Information Retrieval",
-            "value": 8
+            "label": "Information\nRetrieval [de]",
+            "value": 1
         },
         {
             "id": 51,
-            "label": "Produktinformationsmanagement",
-            "value": 5
-        },
-        {
-            "id": 52,
-            "label": "Online Transaction Processing",
+            "label": "Produktinformationsmanagement\n[de] ",
             "value": 3
         },
         {
+            "id": 52,
+            "label": "Online Transaction\nProcessing\n[de] ",
+            "value": 1
+        },
+        {
             "id": 53,
-            "label": "Information Engineering",
+            "label": "Information\nEngineering\n[de] ",
             "value": 1
         },
         {
             "id": 54,
-            "label": "Individuelle Datenverarbeitung",
+            "label": "Individuelle\nDatenverarbeitung\n[de] ",
             "value": 1
         },
         {
             "id": 55,
-            "label": "Business-Rule-Engine",
+            "label": "Business-Rule-\nEngine [de]",
             "value": 1
         },
         {
             "id": 56,
-            "label": "Conversion-Tracking",
+            "label": "Conversion-\nTracking [de]",
             "value": 1
         },
         {
             "id": 57,
-            "label": "Metamodell",
-            "value": 2
+            "label": "Metamodell\n[de] ",
+            "value": 1
         },
         {
             "id": 58,
-            "label": "Enhanced Telecom Operations Map",
+            "label": "Enhanced Telecom\nOperations\nMap [de] ",
             "value": 1
         },
         {
             "id": 59,
-            "label": "Handelsinformationssystem",
+            "label": "Handelsinformationssystem\n[de] ",
             "value": 2
         },
         {
             "id": 60,
-            "label": "Y-CIM-Modell",
+            "label": "Y-CIM-Modell\n[de] ",
             "value": 4
         },
         {
             "id": 61,
-            "label": "Administrationssystem",
-            "value": 5
+            "label": "Administrationssystem\n[de] ",
+            "value": 4
         },
         {
             "id": 62,
-            "label": "Dispositionssystem",
-            "value": 8
+            "label": "Dispositionssystem\n[de] ",
+            "value": 5
         },
         {
             "id": 63,
-            "label": "Proficlass",
-            "value": 2
+            "label": "Proficlass\n[de] ",
+            "value": 1
         },
         {
             "id": 64,
-            "label": "Produktkonfigurator",
-            "value": 4
+            "label": "Produktkonfigurator\n[de] ",
+            "value": 2
         },
         {
             "id": 65,
-            "label": "Enterprise-Resource-Planning",
-            "value": 28
+            "label": "Enterprise-\nResource-Planning\n[de] ",
+            "value": 3
         },
         {
             "id": 66,
-            "label": "Ordnungsrahmen",
-            "value": 6
+            "label": "Ordnungsrahmen\n[de] ",
+            "value": 5
         },
         {
             "id": 67,
-            "label": "Zachman Framework",
-            "value": 5
+            "label": "Zachman Framework\n[de] ",
+            "value": 2
         },
         {
             "id": 68,
-            "label": "Output Management",
-            "value": 6
+            "label": "Output Management\n[de] ",
+            "value": 2
         },
         {
             "id": 69,
-            "label": "Unternehmensdaten",
-            "value": 5
+            "label": "Unternehmensdaten\n[de] ",
+            "value": 3
         },
         {
             "id": 70,
-            "label": "Modell (Wirtschaftsinformatik)",
-            "value": 5
+            "label": "Modell (Wirtschaftsinformatik)\n[de] ",
+            "value": 1
         },
         {
             "id": 71,
-            "label": "Product-Lifecycle-Management",
-            "value": 4
+            "label": "Product-Lifecycle-\nManagement\n[de] ",
+            "value": 1
         },
         {
             "id": 72,
-            "label": "Very Large Business Applications",
+            "label": "Very Large\nBusiness Applications\n[de] ",
             "value": 1
         },
         {
             "id": 73,
-            "label": "Mobiler Geschäftsprozess",
+            "label": "Mobiler Geschäftsprozess\n[de] ",
             "value": 1
         },
         {
             "id": 74,
-            "label": "Business To Manufacturing Markup Language",
+            "label": "Business To\nManufacturing\nMarkup Language\n[de] ",
             "value": 1
         },
         {
             "id": 75,
-            "label": "MoReq",
-            "value": 5
+            "label": "MoReq [de]",
+            "value": 3
         },
         {
             "id": 76,
-            "label": "Teleservice",
-            "value": 2
+            "label": "Teleservice\n[de] ",
+            "value": 1
         },
         {
             "id": 77,
-            "label": "Remote Service",
+            "label": "Remote Service\n[de] ",
             "value": 1
         },
         {
             "id": 78,
-            "label": "Open Building Information Exchange",
+            "label": "Open Building\nInformation\nExchange [de]",
             "value": 1
         },
         {
             "id": 79,
-            "label": "Semantisches Objektmodell",
-            "value": 6
+            "label": "Semantisches\nObjektmodell\n[de] ",
+            "value": 1
         },
         {
             "id": 80,
-            "label": "Virtual Global University",
-            "value": 4
+            "label": "Virtual Global\nUniversity\n[de] ",
+            "value": 1
         },
         {
             "id": 81,
-            "label": "Business Process Discovery",
+            "label": "Business Process\nDiscovery [de]",
             "value": 1
         },
         {
             "id": 82,
-            "label": "Funktionszuordnungsdiagramm",
-            "value": 8
+            "label": "Funktionszuordnungsdiagramm\n[de] ",
+            "value": 6
         },
         {
             "id": 83,
-            "label": "Vorgangskettendiagramm",
-            "value": 7
+            "label": "Vorgangskettendiagramm\n[de] ",
+            "value": 1
         },
         {
             "id": 84,
-            "label": "Elektronische Archivierung",
-            "value": 21
+            "label": "Elektronische\nArchivierung\n[de] ",
+            "value": 2
         },
         {
             "id": 85,
-            "label": "Führungsinformationssystem (Wirtschaft)",
-            "value": 5
+            "label": "Führungsinformationssystem\n(Wirtschaft)\n[de] ",
+            "value": 2
         },
         {
             "id": 86,
-            "label": "Iteratives Prozess-Prototyping",
+            "label": "Iteratives\nProzess-Prototyping\n[de] ",
             "value": 1
         },
         {
             "id": 87,
-            "label": "Prozesskostenrechnung",
-            "value": 7
+            "label": "Prozesskostenrechnung\n[de] ",
+            "value": 2
         },
         {
             "id": 88,
-            "label": "Enterprise-Content-Management",
-            "value": 12
-        },
-        {
-            "id": 89,
-            "label": "Digital-Asset-Management",
+            "label": "Enterprise-\nContent-Management\n[de] ",
             "value": 3
         },
         {
+            "id": 89,
+            "label": "Digital-Asset-\nManagement\n[de] ",
+            "value": 1
+        },
+        {
             "id": 90,
-            "label": "Intranetportal",
-            "value": 4
+            "label": "Intranetportal\n[de] ",
+            "value": 1
         },
         {
             "id": 91,
-            "label": "Prozessportal",
+            "label": "Prozessportal\n[de] ",
             "value": 1
         },
         {
             "id": 92,
-            "label": "Stammdaten",
-            "value": 8
+            "label": "Stammdaten\n[de] ",
+            "value": 2
         },
         {
             "id": 93,
-            "label": "Computer Supported Cooperative Work",
-            "value": 8
+            "label": "Computer Supported\nCooperative\nWork [de] ",
+            "value": 2
         },
         {
             "id": 94,
-            "label": "Groupware",
-            "value": 19
+            "label": "Groupware [de]",
+            "value": 2
         },
         {
             "id": 95,
-            "label": "Unternehmensarchitektur",
-            "value": 11
+            "label": "Unternehmensarchitektur\n[de] ",
+            "value": 1
         },
         {
             "id": 96,
-            "label": "Earned Value Analysis",
+            "label": "Earned Value\nAnalysis [de]",
             "value": 1
         },
         {
             "id": 97,
-            "label": "Input Management",
+            "label": "Input Management\n[de] ",
             "value": 2
         },
         {
             "id": 98,
-            "label": "CEFACT",
-            "value": 2
+            "label": "CEFACT [de]",
+            "value": 1
         },
         {
             "id": 99,
-            "label": "Industrieminute",
+            "label": "Industrieminute\n[de] ",
             "value": 1
         },
         {
             "id": 100,
-            "label": "Service Engineering",
+            "label": "Service Engineering\n[de] ",
             "value": 1
         },
         {
             "id": 101,
-            "label": "IFTMIN",
+            "label": "IFTMIN [de]",
             "value": 1
         },
         {
             "id": 102,
-            "label": "Informationslebenszyklusmanagement",
-            "value": 7
+            "label": "Informationslebenszyklusmanagement\n[de] ",
+            "value": 3
         },
         {
             "id": 103,
-            "label": "PPS-System",
-            "value": 8
+            "label": "PPS-System\n[de] ",
+            "value": 2
         },
         {
             "id": 104,
-            "label": "Unternehmensweite Datenqualität",
+            "label": "Unternehmensweite\nDatenqualität\n[de] ",
             "value": 1
         },
         {
             "id": 105,
-            "label": "Modifiable off-the-shelf",
-            "value": 2
+            "label": "Modifiable\noff-the-shelf\n[de] ",
+            "value": 1
         },
         {
             "id": 106,
-            "label": "Microsoft Identity Integration Server",
-            "value": 2
+            "label": "Microsoft Identity\nIntegration\nServer [de]",
+            "value": 1
         },
         {
             "id": 107,
-            "label": "Enterprise Search",
+            "label": "Enterprise\nSearch [de]",
             "value": 1
         },
         {
             "id": 108,
-            "label": "Enterprise-Content-Management-System",
-            "value": 18
+            "label": "Enterprise-\nContent-Management-\nSystem [de]",
+            "value": 1
         },
         {
             "id": 109,
-            "label": "Quote to order",
+            "label": "Quote to order\n[de] ",
             "value": 1
         },
         {
             "id": 110,
-            "label": "Boundary object",
+            "label": "Boundary object\n[de] ",
             "value": 1
         },
         {
             "id": 111,
-            "label": "Pegging (Wirtschaftsinformatik)",
+            "label": "Pegging (Wirtschaftsinformatik)\n[de] ",
             "value": 1
         },
         {
             "id": 112,
-            "label": "Commercial off-the-shelf",
-            "value": 4
+            "label": "Commercial\noff-the-shelf\n[de] ",
+            "value": 1
         },
         {
             "id": 113,
-            "label": "Verzeichnisdienst",
-            "value": 5
+            "label": "Verzeichnisdienst\n[de] ",
+            "value": 2
         },
         {
             "id": 114,
-            "label": "Datenträgeraustauschverfahren",
+            "label": "Datenträgeraustauschverfahren\n[de] ",
             "value": 1
         },
         {
             "id": 115,
-            "label": "Business Process Reengineering",
-            "value": 6
+            "label": "Business Process\nReengineering\n[de] ",
+            "value": 2
         },
         {
             "id": 116,
-            "label": "Stückliste",
-            "value": 13
+            "label": "Stückliste\n[de] ",
+            "value": 4
         },
         {
             "id": 117,
-            "label": "Electronic Markets",
+            "label": "Electronic\nMarkets [de]",
             "value": 1
         },
         {
             "id": 118,
-            "label": "Business & Information Systems Engineering",
-            "value": 3
+            "label": "Business &\nInformation\nSystems Engineering\n[de] ",
+            "value": 1
         },
         {
             "id": 119,
-            "label": "IBOLT",
+            "label": "IBOLT [de]",
             "value": 1
         },
         {
             "id": 120,
-            "label": "Portal (Informatik)",
-            "value": 11
-        },
-        {
-            "id": 121,
-            "label": "Geschäftsprozessmodellierung",
-            "value": 15
-        },
-        {
-            "id": 122,
-            "label": "Prozessmanagement",
-            "value": 14
-        },
-        {
-            "id": 123,
-            "label": "Vorgangsbearbeitung",
+            "label": "Portal (Informatik)\n[de] ",
             "value": 3
         },
         {
+            "id": 121,
+            "label": "Geschäftsprozessmodellierung\n[de] ",
+            "value": 9
+        },
+        {
+            "id": 122,
+            "label": "Prozessmanagement\n[de] ",
+            "value": 7
+        },
+        {
+            "id": 123,
+            "label": "Vorgangsbearbeitung\n[de] ",
+            "value": 1
+        },
+        {
             "id": 124,
-            "label": "Project Scorecard",
+            "label": "Project Scorecard\n[de] ",
             "value": 1
         },
         {
             "id": 125,
-            "label": "Mobiler Kundendienst",
+            "label": "Mobiler Kundendienst\n[de] ",
             "value": 1
         },
         {
             "id": 126,
-            "label": "Office Excellence",
+            "label": "Office Excellence\n[de] ",
             "value": 1
         },
         {
             "id": 127,
-            "label": "Analyst",
-            "value": 3
+            "label": "Analyst [de]",
+            "value": 2
         },
         {
             "id": 128,
-            "label": "Dateneigner",
+            "label": "Dateneigner\n[de] ",
             "value": 1
         },
         {
             "id": 129,
-            "label": "Flottenmanagement",
+            "label": "Flottenmanagement\n[de] ",
             "value": 1
         },
         {
             "id": 130,
-            "label": "Verband der Wirtschaftsinformatik",
+            "label": "Verband der\nWirtschaftsinformatik\n[de] ",
             "value": 1
         },
         {
             "id": 131,
-            "label": "Business Engineering",
-            "value": 2
+            "label": "Business Engineering\n[de] ",
+            "value": 1
         },
         {
             "id": 132,
-            "label": "Online-Brief",
+            "label": "Online-Brief\n[de] ",
             "value": 1
         },
         {
             "id": 133,
-            "label": "Supply Chain Event Management",
+            "label": "Supply Chain\nEvent Management\n[de] ",
             "value": 1
         },
         {
             "id": 134,
-            "label": "Total-Quality-Management",
-            "value": 5
+            "label": "Total-Quality-\nManagement\n[de] ",
+            "value": 2
         },
         {
             "id": 135,
-            "label": "Unstrukturierte Daten",
-            "value": 4
+            "label": "Unstrukturierte\nDaten [de]",
+            "value": 2
         },
         {
             "id": 136,
-            "label": "IS link",
+            "label": "IS link [de]",
             "value": 1
         },
         {
             "id": 137,
-            "label": "Planungssystem",
-            "value": 7
+            "label": "Planungssystem\n[de] ",
+            "value": 6
         },
         {
             "id": 138,
-            "label": "Kontrollsystem",
+            "label": "Kontrollsystem\n[de] ",
             "value": 6
         },
         {
             "id": 139,
-            "label": "Operatives System",
-            "value": 4
+            "label": "Operatives\nSystem [de]",
+            "value": 1
         },
         {
             "id": 140,
-            "label": "Themenentdeckung und -verfolgung",
+            "label": "Themenentdeckung\nund -verfolgung\n[de] ",
             "value": 1
         },
         {
             "id": 141,
-            "label": "Software-Industrie",
-            "value": 3
+            "label": "Software-Industrie\n[de] ",
+            "value": 1
         },
         {
             "id": 142,
-            "label": "BMEcat",
-            "value": 4
+            "label": "BMEcat [de]",
+            "value": 2
         },
         {
             "id": 143,
-            "label": "Engpasskonzentrierte Strategie",
+            "label": "Engpasskonzentrierte\nStrategie [de]",
             "value": 1
         },
         {
             "id": 144,
-            "label": "Standardisierungsproblem",
-            "value": 2
+            "label": "Standardisierungsproblem\n[de] ",
+            "value": 1
         },
         {
             "id": 145,
-            "label": "Simulationsdatenmanagement",
+            "label": "Simulationsdatenmanagement\n[de] ",
             "value": 1
         },
         {
             "id": 146,
-            "label": "Produktivitätsparadoxon",
+            "label": "Produktivitätsparadoxon\n[de] ",
             "value": 1
         },
         {
             "id": 147,
-            "label": "Enterprise Architecture Management Maturity Framework",
-            "value": 3
+            "label": "Enterprise\nArchitecture\nManagement\nMaturity Framework\n[de] ",
+            "value": 1
         },
         {
             "id": 148,
-            "label": "Wertschöpfungskettendiagramm",
-            "value": 10
+            "label": "Wertschöpfungskettendiagramm\n[de] ",
+            "value": 4
         },
         {
             "id": 149,
-            "label": "Mandantenfähigkeit",
-            "value": 2
+            "label": "Mandantenfähigkeit\n[de] ",
+            "value": 1
         },
         {
             "id": 150,
-            "label": "Internet Business Cluster",
+            "label": "Internet Business\nCluster [de]",
             "value": 1
         },
         {
             "id": 151,
-            "label": "Internetökonomie",
-            "value": 4
+            "label": "Internetökonomie\n[de] ",
+            "value": 1
         },
         {
             "id": 152,
-            "label": "Tradex Technologies",
+            "label": "Tradex Technologies\n[de] ",
             "value": 1
         },
         {
             "id": 153,
-            "label": "HMD Praxis der Wirtschaftsinformatik",
+            "label": "HMD Praxis\nder Wirtschaftsinformatik\n[de] ",
             "value": 1
         },
         {
             "id": 154,
-            "label": "NetIQ eDirectory",
+            "label": "NetIQ eDirectory\n[de] ",
             "value": 1
         },
         {
             "id": 155,
-            "label": "Kollaboratives Filtern",
+            "label": "Kollaboratives\nFiltern [de]",
             "value": 1
         },
         {
             "id": 156,
-            "label": "De-Mail",
-            "value": 3
+            "label": "De-Mail [de]",
+            "value": 1
         },
         {
             "id": 157,
-            "label": "Metadaten",
-            "value": 16
+            "label": "Metadaten [de]",
+            "value": 3
         },
         {
             "id": 158,
-            "label": "Gesellschaft für Organisation",
-            "value": 2
+            "label": "Gesellschaft\nfür Organisation\n[de] ",
+            "value": 1
         },
         {
             "id": 159,
-            "label": "Unternehmensabbildung",
-            "value": 6
+            "label": "Unternehmensabbildung\n[de] ",
+            "value": 2
         },
         {
             "id": 160,
-            "label": "Betriebswirtschaftliches Institut für Organisation und Automation",
+            "label": "Betriebswirtschaftliches\nInstitut für\nOrganisation\nund Automation\n[de] ",
             "value": 1
         },
         {
             "id": 161,
-            "label": "T-Commerce",
-            "value": 3
+            "label": "T-Commerce\n[de] ",
+            "value": 2
         },
         {
             "id": 162,
-            "label": "Technology Acceptance Model",
+            "label": "Technology\nAcceptance\nModel [de]",
             "value": 1
         },
         {
             "id": 163,
-            "label": "Enterprise Manufacturing Intelligence",
+            "label": "Enterprise\nManufacturing\nIntelligence\n[de] ",
             "value": 1
         },
         {
             "id": 164,
-            "label": "Customer-Relationship-Management",
-            "value": 18
+            "label": "Customer-Relationship-\nManagement\n[de] ",
+            "value": 3
         },
         {
             "id": 165,
-            "label": "Social CRM",
-            "value": 2
+            "label": "Social CRM\n[de] ",
+            "value": 1
         },
         {
             "id": 166,
-            "label": "ProMet",
-            "value": 3
+            "label": "ProMet [de]",
+            "value": 1
         },
         {
             "id": 167,
-            "label": "Dokumentenretrieval",
-            "value": 2
+            "label": "Dokumentenretrieval\n[de] ",
+            "value": 1
         },
         {
             "id": 168,
-            "label": "Process-Mining",
-            "value": 3
+            "label": "Process-Mining\n[de] ",
+            "value": 1
         },
         {
             "id": 169,
-            "label": "Workflow-Management-System",
-            "value": 9
+            "label": "Workflow-Management-\nSystem [de]",
+            "value": 1
         },
         {
             "id": 170,
-            "label": "Department of Defense Joint Technical Architecture",
-            "value": 2
+            "label": "Department\nof Defense\nJoint Technical\nArchitecture\n[de] ",
+            "value": 1
         },
         {
             "id": 171,
-            "label": "US Federal Enterprise Architecture Framework",
+            "label": "US Federal\nEnterprise\nArchitecture\nFramework [de]",
             "value": 1
         },
         {
             "id": 172,
-            "label": "Zählpunkt (Logistik)",
+            "label": "Zählpunkt (Logistik)\n[de] ",
             "value": 1
         },
         {
             "id": 173,
-            "label": "Produktionsprogramm",
-            "value": 6
+            "label": "Produktionsprogramm\n[de] ",
+            "value": 3
         },
         {
             "id": 174,
-            "label": "Variantenbaum",
+            "label": "Variantenbaum\n[de] ",
             "value": 1
         },
         {
             "id": 175,
-            "label": "Mass Customization",
-            "value": 5
+            "label": "Mass Customization\n[de] ",
+            "value": 1
         },
         {
             "id": 176,
-            "label": "Produktionsplan",
-            "value": 2
+            "label": "Produktionsplan\n[de] ",
+            "value": 1
         },
         {
             "id": 177,
-            "label": "OMB Enterprise Architecture Assessment Framework",
-            "value": 2
+            "label": "OMB Enterprise\nArchitecture\nAssessment\nFramework [de]",
+            "value": 1
         },
         {
             "id": 178,
-            "label": "Media@Komm",
+            "label": "Media@Komm\n[de] ",
             "value": 1
         },
         {
             "id": 179,
-            "label": "Visuelle Sprache",
+            "label": "Visuelle Sprache\n[de] ",
             "value": 1
         },
         {
             "id": 180,
-            "label": "Unternehmensinformatik",
+            "label": "Unternehmensinformatik\n[de] ",
             "value": 1
         },
         {
             "id": 181,
-            "label": "Integrierte Organisations- und Technikentwicklung",
+            "label": "Integrierte\nOrganisations-\nund Technikentwicklung\n[de] ",
             "value": 1
         },
         {
             "id": 182,
-            "label": "Collaboration Engineering",
-            "value": 2
+            "label": "Collaboration\nEngineering\n[de] ",
+            "value": 1
         },
         {
             "id": 183,
-            "label": "Web Dynpro",
+            "label": "Web Dynpro\n[de] ",
             "value": 1
         },
         {
             "id": 184,
-            "label": "Datenmapping",
+            "label": "Datenmapping\n[de] ",
             "value": 1
         },
         {
             "id": 185,
-            "label": "Comindware Tracker",
-            "value": 4
+            "label": "Comindware\nTracker [de]",
+            "value": 1
         },
         {
             "id": 186,
-            "label": "Extranet",
-            "value": 5
+            "label": "Extranet [de]",
+            "value": 1
         },
         {
             "id": 187,
-            "label": "Dokumenterzeugung",
+            "label": "Dokumenterzeugung\n[de] ",
             "value": 1
         },
         {
             "id": 188,
-            "label": "Elektronische Zustellung",
-            "value": 2
+            "label": "Elektronische\nZustellung\n[de] ",
+            "value": 1
         },
         {
             "id": 189,
-            "label": "Quality Engineering",
+            "label": "Quality Engineering\n[de] ",
             "value": 1
         },
         {
             "id": 190,
-            "label": "Supply-Chain-Management-Software",
-            "value": 2
+            "label": "Supply-Chain-\nManagement-\nSoftware [de]",
+            "value": 1
         },
         {
             "id": 191,
-            "label": "Certified Financial Engineer",
+            "label": "Certified Financial\nEngineer [de]",
             "value": 1
         },
         {
             "id": 192,
-            "label": "Trade Relationship Management",
+            "label": "Trade Relationship\nManagement\n[de] ",
             "value": 1
         },
         {
             "id": 193,
-            "label": "ISO/IEC 27002",
+            "label": "ISO/IEC 27002\n[de] ",
             "value": 1
         },
         {
             "id": 194,
-            "label": "AristaFlow",
-            "value": 3
+            "label": "AristaFlow\n[de] ",
+            "value": 1
         },
         {
             "id": 195,
-            "label": "Enterprise Information Management",
+            "label": "Enterprise\nInformation\nManagement\n[de] ",
             "value": 2
         },
         {
             "id": 196,
-            "label": "Standard for the exchange of product model data",
-            "value": 3
+            "label": "Standard for\nthe exchange\nof product\nmodel data\n[de] ",
+            "value": 1
         },
         {
             "id": 197,
-            "label": "Intranet",
-            "value": 13
+            "label": "Intranet [de]",
+            "value": 1
         },
         {
             "id": 198,
-            "label": "Organigramm",
-            "value": 6
+            "label": "Organigramm\n[de] ",
+            "value": 2
         },
         {
             "id": 199,
-            "label": "Informationskosten",
-            "value": 3
+            "label": "Informationskosten\n[de] ",
+            "value": 2
         },
         {
             "id": 200,
-            "label": "Digital Workplace",
+            "label": "Digital Workplace\n[de] ",
             "value": 2
         },
         {
             "id": 201,
-            "label": "Social Intranet",
+            "label": "Social Intranet\n[de] ",
             "value": 1
         },
         {
             "id": 202,
-            "label": "Informationswirtschaft (Studiengang)",
+            "label": "Informationswirtschaft\n(Studiengang)\n[de] ",
             "value": 1
         },
         {
             "id": 203,
-            "label": "Digitaler Finanzbericht",
+            "label": "Digitaler Finanzbericht\n[de] ",
             "value": 1
         },
         {
             "id": 204,
-            "label": "E-Pricing",
+            "label": "E-Pricing [de]",
             "value": 1
         },
         {
             "id": 205,
-            "label": "Database Marketing",
+            "label": "Database Marketing\n[de] ",
             "value": 1
         },
         {
             "id": 206,
-            "label": "Computer Aided Selling",
+            "label": "Computer Aided\nSelling [de]",
             "value": 1
         },
         {
             "id": 207,
-            "label": "Business Intelligence",
-            "value": 15
+            "label": "Business Intelligence\n[de] ",
+            "value": 5
         },
         {
             "id": 208,
-            "label": "Informationsdefizit",
+            "label": "Informationsdefizit\n[de] ",
             "value": 1
         },
         {
             "id": 209,
-            "label": "Wissensmanagementsystem",
+            "label": "Wissensmanagementsystem\n[de] ",
             "value": 1
         },
         {
             "id": 210,
-            "label": "Technology Business Management",
+            "label": "Technology\nBusiness Management\n[de] ",
             "value": 1
         },
         {
             "id": 211,
-            "label": "Montagelinie",
-            "value": 4
+            "label": "Montagelinie\n[de] ",
+            "value": 1
         },
         {
             "id": 212,
-            "label": "Management-Informationssystem",
-            "value": 2
+            "label": "Management-\nInformationssystem\n[de] ",
+            "value": 1
         },
         {
             "id": 213,
-            "label": "E-Logistik",
+            "label": "E-Logistik\n[de] ",
             "value": 1
         },
         {
             "id": 214,
-            "label": "ISO 8583",
+            "label": "ISO 8583 [de]",
             "value": 1
         },
         {
             "id": 215,
-            "label": "ARIS",
-            "value": 12
+            "label": "ARIS [de] ",
+            "value": 7
         },
         {
             "id": 216,
-            "label": "Data Lake",
+            "label": "Data Lake [de]",
             "value": 1
         },
         {
             "id": 217,
-            "label": "Infrastruktur-Daten-Management für Verkehrsunternehmen",
+            "label": "Infrastruktur-\nDaten-Management\nfür Verkehrsunternehmen\n[de] ",
             "value": 1
         },
         {
             "id": 218,
-            "label": "COBOL",
-            "value": 2
+            "label": "COBOL [de]",
+            "value": 1
         },
         {
             "id": 219,
-            "label": "Verbraucherinformatik",
+            "label": "Verbraucherinformatik\n[de] ",
             "value": 1
         },
         {
             "id": 220,
-            "label": "WISS Schulen für Wirtschaft Informatik Immobilien",
+            "label": "WISS Schulen\nfür Wirtschaft\nInformatik\nImmobilien\n[de] ",
             "value": 1
         },
         {
             "id": 221,
-            "label": "ArchiMate",
-            "value": 2
+            "label": "ArchiMate [de]",
+            "value": 1
         },
         {
             "id": 222,
-            "label": "ECLASS",
+            "label": "ECLASS [de]",
             "value": 1
         },
         {
             "id": 223,
-            "label": "UNSPSC",
-            "value": 5
+            "label": "UNSPSC [de]",
+            "value": 1
         },
         {
             "id": 224,
-            "label": "Case Management Model and Notation",
+            "label": "Case Management\nModel and Notation\n[de] ",
             "value": 1
         },
         {
             "id": 225,
-            "label": "Electronic Mobility",
+            "label": "Electronic\nMobility [de]",
             "value": 1
         },
         {
             "id": 226,
-            "label": "Consumerization",
-            "value": 3
+            "label": "Consumerization\n[de] ",
+            "value": 2
         },
         {
             "id": 227,
-            "label": "ERP Management",
+            "label": "ERP Management\n[de] ",
             "value": 1
         },
         {
             "id": 228,
-            "label": "Connectionist expert system",
+            "label": "European Research\nCenter for\nInformation\nSystems [en]",
             "value": 1
         },
         {
             "id": 229,
-            "label": "Policy appliances",
+            "label": "Connectionist\nexpert system\n[en] ",
             "value": 1
         },
         {
             "id": 230,
-            "label": "Preference elicitation",
-            "value": 8
-        },
-        {
-            "id": 231,
-            "label": "Risk management information systems",
+            "label": "Policy appliances\n[en] ",
             "value": 1
         },
         {
+            "id": 231,
+            "label": "Preference\nelicitation\n[en] ",
+            "value": 2
+        },
+        {
             "id": 232,
-            "label": "Event stream processing",
-            "value": 3
+            "label": "Risk management\ninformation\nsystems [en]",
+            "value": 1
         },
         {
             "id": 233,
-            "label": "Formative context",
-            "value": 3
+            "label": "Event stream\nprocessing\n[en] ",
+            "value": 1
         },
         {
             "id": 234,
-            "label": "Joint application design",
+            "label": "Formative context\n[en] ",
             "value": 1
         },
         {
             "id": 235,
-            "label": "Modeling perspective",
+            "label": "Joint application\ndesign [en]",
             "value": 1
         },
         {
             "id": 236,
-            "label": "Master of Business Informatics",
-            "value": 2
+            "label": "Modeling perspective\n[en] ",
+            "value": 1
         },
         {
             "id": 237,
-            "label": "Accounting information system",
-            "value": 2
+            "label": "Master of Business\nInformatics\n[en] ",
+            "value": 1
         },
         {
             "id": 238,
-            "label": "System of record",
+            "label": "Accounting\ninformation\nsystem [en]",
             "value": 1
         },
         {
             "id": 239,
-            "label": "Information filtering system",
-            "value": 2
+            "label": "System of record\n[en] ",
+            "value": 1
         },
         {
             "id": 240,
-            "label": "Big bang adoption",
-            "value": 2
+            "label": "Information\nfiltering system\n[en] ",
+            "value": 1
         },
         {
             "id": 241,
-            "label": "Phased adoption",
-            "value": 6
+            "label": "Big bang adoption\n[en] ",
+            "value": 1
         },
         {
             "id": 242,
-            "label": "Parallel adoption",
-            "value": 5
+            "label": "Phased adoption\n[en] ",
+            "value": 1
         },
         {
             "id": 243,
-            "label": "Complex event processing",
-            "value": 5
+            "label": "Parallel adoption\n[en] ",
+            "value": 1
         },
         {
             "id": 244,
-            "label": "Information engineering",
+            "label": "Complex event\nprocessing\n[en] ",
             "value": 2
         },
         {
             "id": 245,
-            "label": "OSCAR railway costing",
+            "label": "Information\nengineering\n[en] ",
             "value": 1
         },
         {
             "id": 246,
-            "label": "Railway costing",
-            "value": 2
+            "label": "OSCAR railway\ncosting [en]",
+            "value": 1
         },
         {
             "id": 247,
-            "label": "Enterprise information access",
+            "label": "Railway costing\n[en] ",
             "value": 1
         },
         {
             "id": 248,
-            "label": "Electronic Case Filing System",
+            "label": "Enterprise\ninformation\naccess [en]",
             "value": 1
         },
         {
             "id": 249,
-            "label": "Vehicle Information and Communication System",
-            "value": 6
-        },
-        {
-            "id": 250,
-            "label": "Information Systems Security Association",
+            "label": "Electronic\nCase Filing\nSystem [en]",
             "value": 1
         },
         {
+            "id": 250,
+            "label": "Vehicle Information\nand Communication\nSystem [en]",
+            "value": 2
+        },
+        {
             "id": 251,
-            "label": "Transaction processing system",
-            "value": 3
+            "label": "Information\nSystems Security\nAssociation\n[en] ",
+            "value": 1
         },
         {
             "id": 252,
-            "label": "Transport standards organisations",
+            "label": "Transaction\nprocessing\nsystem [en]",
             "value": 1
         },
         {
             "id": 253,
-            "label": "Joint Interface Control Officer",
+            "label": "Transport standards\norganisations\n[en] ",
             "value": 1
         },
         {
             "id": 254,
-            "label": "Cold start (recommender systems)",
-            "value": 9
+            "label": "Joint Interface\nControl Officer\n[en] ",
+            "value": 1
         },
         {
             "id": 255,
-            "label": "Joint Regional Information Exchange System",
-            "value": 2
+            "label": "Cold start\n(recommender\nsystems) [en]",
+            "value": 1
         },
         {
             "id": 256,
-            "label": "NESI",
+            "label": "Joint Regional\nInformation\nExchange System\n[en] ",
             "value": 1
         },
         {
             "id": 257,
-            "label": "Document engineering",
+            "label": "NESI [en] ",
             "value": 1
         },
         {
             "id": 258,
-            "label": "Spatial decision support system",
-            "value": 2
+            "label": "Document engineering\n[en] ",
+            "value": 1
         },
         {
             "id": 259,
-            "label": "Geographical Operations System",
+            "label": "Spatial decision\nsupport system\n[en] ",
             "value": 1
         },
         {
             "id": 260,
-            "label": "Integrated criminal justice information system",
+            "label": "Geographical\nOperations\nSystem [en]",
             "value": 1
         },
         {
             "id": 261,
-            "label": "Identity correlation",
+            "label": "Integrated\ncriminal justice\ninformation\nsystem [en]",
             "value": 1
         },
         {
             "id": 262,
-            "label": "Information Processes and Technology",
+            "label": "Identity correlation\n[en] ",
             "value": 1
         },
         {
             "id": 263,
-            "label": "Issue-based information system",
+            "label": "Information\nProcesses and\nTechnology\n[en] ",
             "value": 1
         },
         {
             "id": 264,
-            "label": "Xcon",
-            "value": 2
+            "label": "Issue-based\ninformation\nsystem [en]",
+            "value": 1
         },
         {
             "id": 265,
-            "label": "Adoption (software implementation)",
-            "value": 7
-        },
-        {
-            "id": 266,
-            "label": "Process development execution system",
-            "value": 4
-        },
-        {
-            "id": 267,
-            "label": "Manufacturing execution system",
+            "label": "Xcon [en] ",
             "value": 2
         },
         {
+            "id": 266,
+            "label": "Adoption (software\nimplementation)\n[en] ",
+            "value": 3
+        },
+        {
+            "id": 267,
+            "label": "Process development\nexecution system\n[en] ",
+            "value": 1
+        },
+        {
             "id": 268,
-            "label": "Laws of information systems",
+            "label": "Manufacturing\nexecution system\n[en] ",
             "value": 1
         },
         {
             "id": 269,
-            "label": "Marine Life Information Network",
+            "label": "Laws of information\nsystems [en]",
             "value": 1
         },
         {
             "id": 270,
-            "label": "Information silo",
-            "value": 5
+            "label": "Marine Life\nInformation\nNetwork [en]",
+            "value": 1
         },
         {
             "id": 271,
-            "label": "Shadow IT",
+            "label": "Information\nsilo [en] ",
             "value": 1
         },
         {
             "id": 272,
-            "label": "Control-flow diagram",
-            "value": 2
+            "label": "Shadow IT [en]",
+            "value": 1
         },
         {
             "id": 273,
-            "label": "Personal knowledge management",
-            "value": 4
+            "label": "Control-flow\ndiagram [en]",
+            "value": 1
         },
         {
             "id": 274,
-            "label": "Information processor",
-            "value": 5
+            "label": "Personal knowledge\nmanagement\n[en] ",
+            "value": 1
         },
         {
             "id": 275,
-            "label": "Digital ecosystem",
+            "label": "Information\nprocessor [en]",
             "value": 1
         },
         {
             "id": 276,
-            "label": "Local information systems",
+            "label": "Digital ecosystem\n[en] ",
             "value": 1
         },
         {
             "id": 277,
-            "label": "Reason maintenance",
+            "label": "Local information\nsystems [en]",
             "value": 1
         },
         {
             "id": 278,
-            "label": "Data system",
-            "value": 2
+            "label": "Reason maintenance\n[en] ",
+            "value": 1
         },
         {
             "id": 279,
-            "label": "Business activity monitoring",
-            "value": 3
+            "label": "Data system\n[en] ",
+            "value": 2
         },
         {
             "id": 280,
-            "label": "Laboratory information management system",
-            "value": 9
+            "label": "Business activity\nmonitoring\n[en] ",
+            "value": 1
         },
         {
             "id": 281,
-            "label": "Semantic broker",
-            "value": 4
+            "label": "Laboratory\ninformation\nmanagement\nsystem [en]",
+            "value": 2
         },
         {
             "id": 282,
-            "label": "System Wide Information Management",
+            "label": "Semantic broker\n[en] ",
             "value": 1
         },
         {
             "id": 283,
-            "label": "Virtual USA",
+            "label": "System Wide\nInformation\nManagement\n[en] ",
             "value": 1
         },
         {
             "id": 284,
-            "label": "MIS Quarterly Executive",
-            "value": 2
+            "label": "Virtual USA\n[en] ",
+            "value": 1
         },
         {
             "id": 285,
-            "label": "Intelligent decision support system",
-            "value": 2
+            "label": "MIS Quarterly\nExecutive [en]",
+            "value": 1
         },
         {
             "id": 286,
-            "label": "Dynamic Business Modeling",
+            "label": "Intelligent\ndecision support\nsystem [en]",
             "value": 1
         },
         {
             "id": 287,
-            "label": "EuResist",
-            "value": 4
+            "label": "Dynamic Business\nModeling [en]",
+            "value": 1
         },
         {
             "id": 288,
-            "label": "Clinical decision support system",
-            "value": 4
+            "label": "EuResist [en]",
+            "value": 1
         },
         {
             "id": 289,
-            "label": "VAT Information Exchange System",
+            "label": "Clinical decision\nsupport system\n[en] ",
             "value": 1
         },
         {
             "id": 290,
-            "label": "Global information system",
-            "value": 3
+            "label": "VAT Information\nExchange System\n[en] ",
+            "value": 1
         },
         {
             "id": 291,
-            "label": "Diablo Data Systems",
+            "label": "Global information\nsystem [en]",
             "value": 1
         },
         {
             "id": 292,
-            "label": "Field force automation",
-            "value": 2
+            "label": "Diablo Data\nSystems [en]",
+            "value": 1
         },
         {
             "id": 293,
-            "label": "Social Study of Information Systems",
-            "value": 2
+            "label": "Field force\nautomation\n[en] ",
+            "value": 1
         },
         {
             "id": 294,
-            "label": "FAO Country Profiles",
+            "label": "Business &\nInformation\nSystems Engineering\n[en] ",
             "value": 1
         },
         {
             "id": 295,
-            "label": "Proactive information delivery",
+            "label": "Social Study\nof Information\nSystems [en]",
             "value": 1
         },
         {
             "id": 296,
-            "label": "Expert systems for mortgages",
-            "value": 2
+            "label": "FAO Country\nProfiles [en]",
+            "value": 1
         },
         {
             "id": 297,
-            "label": "ISCRAM",
+            "label": "Proactive information\ndelivery [en]",
             "value": 1
         },
         {
             "id": 298,
-            "label": "UK Academy for Information Systems",
+            "label": "Expert systems\nfor mortgages\n[en] ",
             "value": 1
         },
         {
             "id": 299,
-            "label": "Bridge management system",
+            "label": "ISCRAM [en]",
             "value": 1
         },
         {
             "id": 300,
-            "label": "CIMACT",
-            "value": 4
+            "label": "UK Academy\nfor Information\nSystems [en]",
+            "value": 1
         },
         {
             "id": 301,
-            "label": "Information Systems Journal",
-            "value": 2
+            "label": "Bridge management\nsystem [en]",
+            "value": 1
         },
         {
             "id": 302,
-            "label": "Trust management (information system)",
+            "label": "CIMACT [en]",
             "value": 1
         },
         {
             "id": 303,
-            "label": "Structured systems analysis and design method",
+            "label": "Information\nSystems Journal\n[en] ",
             "value": 1
         },
         {
             "id": 304,
-            "label": "G-Book",
-            "value": 6
+            "label": "Trust management\n(information\nsystem) [en]",
+            "value": 1
         },
         {
             "id": 305,
-            "label": "TOPS",
+            "label": "Structured\nsystems analysis\nand design\nmethod [en]",
             "value": 1
         },
         {
             "id": 306,
-            "label": "Earthquake Early Warning (Japan)",
+            "label": "G-Book [en]",
             "value": 1
         },
         {
             "id": 307,
-            "label": "ADMAR",
-            "value": 2
+            "label": "TOPS [en] ",
+            "value": 1
         },
         {
             "id": 308,
-            "label": "DIKW pyramid",
+            "label": "Earthquake\nEarly Warning\n(Japan) [en]",
             "value": 1
         },
         {
             "id": 309,
-            "label": "Semantic desktop",
-            "value": 2
+            "label": "ADMAR [en]",
+            "value": 1
         },
         {
             "id": 310,
-            "label": "Dataspaces",
-            "value": 4
+            "label": "DIKW pyramid\n[en] ",
+            "value": 1
         },
         {
             "id": 311,
-            "label": "DAD-IS",
+            "label": "Semantic desktop\n[en] ",
             "value": 1
         },
         {
             "id": 312,
-            "label": "International Institute for Advanced Studies in Systems Research and Cybernetics",
+            "label": "Dataspaces\n[en] ",
             "value": 1
         },
         {
             "id": 313,
-            "label": "Master of Business Systems",
+            "label": "DAD-IS [en]",
             "value": 1
         },
         {
             "id": 314,
-            "label": "Sticky information",
+            "label": "International\nInstitute for\nAdvanced Studies\nin Systems\nResearch and\nCybernetics\n[en] ",
             "value": 1
         },
         {
             "id": 315,
-            "label": "Executive information system",
-            "value": 3
+            "label": "Master of Business\nSystems [en]",
+            "value": 1
         },
         {
             "id": 316,
-            "label": "LabLynx",
+            "label": "Sticky information\n[en] ",
             "value": 1
         },
         {
             "id": 317,
-            "label": "Electronic markets",
+            "label": "Executive information\nsystem [en]",
             "value": 1
         },
         {
             "id": 318,
-            "label": "EUCARIS",
+            "label": "LabLynx [en]",
             "value": 1
         },
         {
             "id": 319,
-            "label": "Data infrastructure",
+            "label": "Electronic\nmarkets [en]",
             "value": 1
         },
         {
             "id": 320,
-            "label": "Internavi",
-            "value": 8
+            "label": "EUCARIS [en]",
+            "value": 1
         },
         {
             "id": 321,
-            "label": "Ucode system",
+            "label": "Data infrastructure\n[en] ",
             "value": 1
         },
         {
             "id": 322,
-            "label": "Digital marketing system",
+            "label": "Internavi [en]",
             "value": 1
         },
         {
             "id": 323,
-            "label": "Feral information systems",
+            "label": "Ucode system\n[en] ",
             "value": 1
         },
         {
             "id": 324,
-            "label": "Disparate system",
-            "value": 2
+            "label": "Digital marketing\nsystem [en]",
+            "value": 1
         },
         {
             "id": 325,
-            "label": "Urban and Regional Information Systems Association",
+            "label": "Feral information\nsystems [en]",
             "value": 1
         },
         {
             "id": 326,
-            "label": "Legal expert system",
+            "label": "Disparate system\n[en] ",
             "value": 1
         },
         {
             "id": 327,
-            "label": "Data-flow diagram",
-            "value": 2
+            "label": "Urban and Regional\nInformation\nSystems Association\n[en] ",
+            "value": 1
         },
         {
             "id": 328,
-            "label": "Chief information officer (higher education)",
+            "label": "Legal expert\nsystem [en]",
             "value": 1
         },
         {
             "id": 329,
-            "label": "Automated information system",
+            "label": "Data-flow diagram\n[en] ",
             "value": 1
         },
         {
             "id": 330,
-            "label": "Internal Market Information System",
+            "label": "Chief information\nofficer (higher\neducation)\n[en] ",
             "value": 1
         },
         {
             "id": 331,
-            "label": "Physical Internet",
+            "label": "Automated information\nsystem [en]",
             "value": 1
         },
         {
             "id": 332,
-            "label": "Sales force management system",
+            "label": "Internal Market\nInformation\nSystem [en]",
             "value": 1
         },
         {
             "id": 333,
-            "label": "Eclipse (software suite)",
+            "label": "Physical Internet\n[en] ",
             "value": 1
         },
         {
             "id": 334,
-            "label": "Payroll automation",
-            "value": 2
+            "label": "Sales force\nmanagement\nsystem [en]",
+            "value": 1
         },
         {
             "id": 335,
-            "label": "Website Meta Language",
+            "label": "Eclipse (software\nsuite) [en]",
             "value": 1
         },
         {
             "id": 336,
-            "label": "Ignorance management",
-            "value": 2
+            "label": "Payroll automation\n[en] ",
+            "value": 1
         },
         {
             "id": 337,
-            "label": "Value sensitive design",
+            "label": "Website Meta\nLanguage [en]",
             "value": 1
         },
         {
             "id": 338,
-            "label": "CarWings",
-            "value": 6
+            "label": "Ignorance management\n[en] ",
+            "value": 1
         },
         {
             "id": 339,
-            "label": "Association for Information Systems",
-            "value": 5
+            "label": "Value sensitive\ndesign [en]",
+            "value": 1
         },
         {
             "id": 340,
-            "label": "Work systems",
+            "label": "CarWings [en]",
             "value": 1
         },
         {
             "id": 341,
-            "label": "Strategic information system",
+            "label": "Association\nfor Information\nSystems [en]",
             "value": 1
         },
         {
             "id": 342,
-            "label": "Censhare",
-            "value": 3
+            "label": "Work systems\n[en] ",
+            "value": 1
         },
         {
             "id": 343,
-            "label": "Enhanced publication",
-            "value": 2
+            "label": "Strategic information\nsystem [en]",
+            "value": 1
         },
         {
             "id": 344,
-            "label": "Heritage Operations Processing System",
+            "label": "Censhare [en]",
             "value": 1
         },
         {
             "id": 345,
-            "label": "Research Object",
+            "label": "Enhanced publication\n[en] ",
             "value": 1
         },
         {
             "id": 346,
-            "label": "KarTrak",
+            "label": "Heritage Operations\nProcessing\nSystem [en]",
             "value": 1
         },
         {
             "id": 347,
-            "label": "CreditorWatch",
-            "value": 2
+            "label": "Research Object\n[en] ",
+            "value": 1
         },
         {
             "id": 348,
-            "label": "Digital firm",
+            "label": "KarTrak [en]",
             "value": 1
         },
         {
             "id": 349,
-            "label": "CDIS (computer-based system)",
+            "label": "CreditorWatch\n[en] ",
             "value": 1
         },
         {
             "id": 350,
-            "label": "Field service management",
-            "value": 2
+            "label": "Digital firm\n[en] ",
+            "value": 1
         },
         {
             "id": 351,
-            "label": "FAO GM Foods Platform",
+            "label": "CDIS (computer-\nbased system)\n[en] ",
             "value": 1
         },
         {
             "id": 352,
-            "label": "Information systems success model",
-            "value": 1
+            "label": "Field service\nmanagement\n[en] ",
+            "value": 2
         },
         {
             "id": 353,
-            "label": "Wayfinding software",
+            "label": "FAO GM Foods\nPlatform [en]",
             "value": 1
         },
         {
             "id": 354,
-            "label": "Organizing vision",
+            "label": "Information\nsystems success\nmodel [en]",
             "value": 1
         },
         {
             "id": 355,
-            "label": "Customer knowledge",
-            "value": 2
+            "label": "Wayfinding\nsoftware [en]",
+            "value": 1
         },
         {
             "id": 356,
-            "label": "Information culture",
+            "label": "Organizing\nvision [en]",
             "value": 1
         },
         {
             "id": 357,
-            "label": "Information Management Body of Knowledge",
-            "value": 3
+            "label": "Customer knowledge\n[en] ",
+            "value": 1
         },
         {
             "id": 358,
-            "label": "Information management",
-            "value": 15
+            "label": "Information\nculture [en]",
+            "value": 1
         },
         {
             "id": 359,
-            "label": "Notification system",
-            "value": 2
+            "label": "Information\nManagement\nBody of Knowledge\n[en] ",
+            "value": 1
         },
         {
             "id": 360,
-            "label": "Journal of Strategic Information Systems",
-            "value": 1
+            "label": "Information\nmanagement\n[en] ",
+            "value": 3
         },
         {
             "id": 361,
-            "label": "Warehouse execution system",
-            "value": 1
+            "label": "Notification\nsystem [en]",
+            "value": 2
         },
         {
             "id": 362,
-            "label": "Chief information officer",
-            "value": 6
+            "label": "Journal of\nStrategic Information\nSystems [en]",
+            "value": 1
         },
         {
             "id": 363,
-            "label": "Local Government Category List",
+            "label": "Warehouse execution\nsystem [en]",
             "value": 1
         },
         {
             "id": 364,
-            "label": "AISINDO",
-            "value": 1
+            "label": "Chief information\nofficer [en]",
+            "value": 2
         },
         {
             "id": 365,
-            "label": "Global Change Information System",
+            "label": "Local Government\nCategory List\n[en] ",
             "value": 1
         },
         {
             "id": 366,
-            "label": "Meva",
+            "label": "AISINDO [en]",
             "value": 1
         },
         {
             "id": 367,
-            "label": "Linklog",
+            "label": "Global Change\nInformation\nSystem [en]",
             "value": 1
         },
         {
             "id": 368,
-            "label": "IPO model",
+            "label": "Meva [en] ",
             "value": 1
         },
         {
             "id": 369,
-            "label": "Intelligence engine",
-            "value": 2
+            "label": "Linklog [en]",
+            "value": 1
         },
         {
             "id": 370,
-            "label": "Animal genetic resources for food and agriculture",
+            "label": "IPO model [en]",
             "value": 1
         },
         {
             "id": 371,
-            "label": "Sociomateriality",
+            "label": "Intelligence\nengine [en]",
             "value": 1
         },
         {
             "id": 372,
-            "label": "Aptum Technologies",
+            "label": "Animal genetic\nresources for\nfood and agriculture\n[en] ",
             "value": 1
         },
         {
             "id": 373,
-            "label": "Computer-mediated communication",
+            "label": "Sociomateriality\n[en] ",
             "value": 1
         },
         {
             "id": 374,
-            "label": "Student information system",
-            "value": 2
+            "label": "Aptum Technologies\n[en] ",
+            "value": 1
         },
         {
             "id": 375,
-            "label": "Plant Information Management System",
+            "label": "Computer-mediated\ncommunication\n[en] ",
             "value": 1
         },
         {
             "id": 376,
-            "label": "Credit bureau",
-            "value": 1
+            "label": "Student information\nsystem [en]",
+            "value": 2
         },
         {
             "id": 377,
-            "label": "CSPro",
+            "label": "Plant Information\nManagement\nSystem [en]",
             "value": 1
         },
         {
             "id": 378,
-            "label": "Blockchain",
+            "label": "Credit bureau\n[en] ",
             "value": 1
         },
         {
             "id": 379,
-            "label": "German Emigrants Database",
+            "label": "CSPro [en]",
             "value": 1
         },
         {
             "id": 380,
-            "label": "Expert system",
-            "value": 9
+            "label": "Blockchain\n[en] ",
+            "value": 1
         },
         {
             "id": 381,
-            "label": "Archives management",
-            "value": 2
+            "label": "German Emigrants\nDatabase [en]",
+            "value": 1
         },
         {
             "id": 382,
-            "label": "Content management system",
-            "value": 5
+            "label": "Expert system\n[en] ",
+            "value": 1
         },
         {
             "id": 383,
-            "label": "Matrix factorization (recommender systems)",
-            "value": 5
+            "label": "Archives management\n[en] ",
+            "value": 1
         },
         {
             "id": 384,
-            "label": "Information system",
-            "value": 27
+            "label": "Content management\nsystem [en]",
+            "value": 2
         },
         {
             "id": 385,
-            "label": "Dashboard (business)",
+            "label": "Matrix factorization\n(recommender\nsystems) [en]",
             "value": 4
         },
         {
             "id": 386,
-            "label": "Abbott Informatics",
-            "value": 1
+            "label": "Information\nsystem [en]",
+            "value": 2
         },
         {
             "id": 387,
-            "label": "Decision support system",
-            "value": 21
+            "label": "Dashboard (business)\n[en] ",
+            "value": 3
         },
         {
             "id": 388,
-            "label": "Neuro-Information-Systems",
+            "label": "Abbott Informatics\n[en] ",
             "value": 1
         },
         {
             "id": 389,
-            "label": "Management information system",
-            "value": 13
+            "label": "Decision support\nsystem [en]",
+            "value": 2
         },
         {
             "id": 390,
-            "label": "LabVantage",
+            "label": "Neuro-Information-\nSystems [en]",
             "value": 1
         },
         {
             "id": 391,
-            "label": "Recommender system",
-            "value": 13
+            "label": "Management\ninformation\nsystem [en]",
+            "value": 1
         },
         {
             "id": 392,
-            "label": "Notification LED",
-            "value": 2
+            "label": "LabVantage\n[en] ",
+            "value": 1
         },
         {
             "id": 393,
-            "label": "Cold start (computing)",
-            "value": 5
+            "label": "Recommender\nsystem [en]",
+            "value": 2
         },
         {
             "id": 394,
-            "label": "Business informatics",
-            "value": 5
+            "label": "Notification\nLED [en] ",
+            "value": 2
         },
         {
             "id": 395,
-            "label": "Ocean Biodiversity Information System",
+            "label": "Cold start\n(computing)\n[en] ",
             "value": 1
         },
         {
             "id": 396,
-            "label": "Coverage (information systems)",
+            "label": "Business informatics\n[en] ",
             "value": 1
         },
         {
             "id": 397,
-            "label": "Self-service",
+            "label": "Ocean Biodiversity\nInformation\nSystem [en]",
             "value": 1
         },
         {
             "id": 398,
-            "label": "Human resource management system",
-            "value": 2
+            "label": "Coverage (information\nsystems) [en]",
+            "value": 1
         },
         {
             "id": 399,
-            "label": "Technology–organization–environment framework",
+            "label": "Self-service\n[en] ",
             "value": 1
         },
         {
             "id": 400,
-            "label": "Knowledge management",
-            "value": 28
+            "label": "Human resource\nmanagement\nsystem [en]",
+            "value": 1
+        },
+        {
+            "id": 401,
+            "label": "Technology–organization–environment\nframework [en]",
+            "value": 1
+        },
+        {
+            "id": 402,
+            "label": "Knowledge management\n[en] ",
+            "value": 6
         }
     ],
     "edges": [
-        {
-            "from": 1,
-            "to": 25,
-            "value": 4
-        },
         {
             "from": 1,
             "to": 122,
@@ -2014,77 +2019,7 @@
         },
         {
             "from": 1,
-            "to": 12,
-            "value": 3
-        },
-        {
-            "from": 1,
             "to": 16,
-            "value": 1
-        },
-        {
-            "from": 1,
-            "to": 17,
-            "value": 1
-        },
-        {
-            "from": 1,
-            "to": 120,
-            "value": 1
-        },
-        {
-            "from": 1,
-            "to": 9,
-            "value": 1
-        },
-        {
-            "from": 1,
-            "to": 88,
-            "value": 1
-        },
-        {
-            "from": 1,
-            "to": 3,
-            "value": 1
-        },
-        {
-            "from": 2,
-            "to": 92,
-            "value": 1
-        },
-        {
-            "from": 3,
-            "to": 93,
-            "value": 1
-        },
-        {
-            "from": 3,
-            "to": 169,
-            "value": 2
-        },
-        {
-            "from": 3,
-            "to": 94,
-            "value": 1
-        },
-        {
-            "from": 3,
-            "to": 6,
-            "value": 1
-        },
-        {
-            "from": 3,
-            "to": 65,
-            "value": 1
-        },
-        {
-            "from": 3,
-            "to": 123,
-            "value": 1
-        },
-        {
-            "from": 4,
-            "to": 65,
             "value": 1
         },
         {
@@ -2094,62 +2029,12 @@
         },
         {
             "from": 5,
-            "to": 121,
-            "value": 2
-        },
-        {
-            "from": 5,
-            "to": 159,
-            "value": 1
-        },
-        {
-            "from": 5,
             "to": 215,
-            "value": 2
-        },
-        {
-            "from": 5,
-            "to": 115,
             "value": 1
-        },
-        {
-            "from": 5,
-            "to": 87,
-            "value": 1
-        },
-        {
-            "from": 5,
-            "to": 83,
-            "value": 2
         },
         {
             "from": 6,
             "to": 7,
-            "value": 1
-        },
-        {
-            "from": 6,
-            "to": 157,
-            "value": 1
-        },
-        {
-            "from": 7,
-            "to": 199,
-            "value": 1
-        },
-        {
-            "from": 7,
-            "to": 69,
-            "value": 1
-        },
-        {
-            "from": 7,
-            "to": 6,
-            "value": 1
-        },
-        {
-            "from": 8,
-            "to": 65,
             "value": 1
         },
         {
@@ -2163,134 +2048,29 @@
             "value": 1
         },
         {
-            "from": 9,
-            "to": 52,
-            "value": 1
-        },
-        {
-            "from": 10,
-            "to": 108,
-            "value": 1
-        },
-        {
-            "from": 10,
-            "to": 84,
-            "value": 2
-        },
-        {
-            "from": 10,
-            "to": 71,
-            "value": 1
-        },
-        {
-            "from": 12,
-            "to": 1,
-            "value": 1
-        },
-        {
-            "from": 12,
-            "to": 25,
-            "value": 1
-        },
-        {
             "from": 12,
             "to": 16,
             "value": 1
         },
         {
-            "from": 12,
-            "to": 98,
-            "value": 1
-        },
-        {
-            "from": 13,
-            "to": 113,
-            "value": 1
-        },
-        {
-            "from": 13,
-            "to": 106,
-            "value": 1
-        },
-        {
-            "from": 15,
-            "to": 164,
-            "value": 1
-        },
-        {
-            "from": 16,
-            "to": 1,
-            "value": 1
-        },
-        {
-            "from": 16,
-            "to": 12,
-            "value": 1
-        },
-        {
-            "from": 16,
-            "to": 17,
-            "value": 1
-        },
-        {
             "from": 17,
             "to": 1,
-            "value": 2
-        },
-        {
-            "from": 17,
-            "to": 169,
-            "value": 1
-        },
-        {
-            "from": 17,
-            "to": 194,
-            "value": 1
-        },
-        {
-            "from": 17,
-            "to": 185,
-            "value": 1
-        },
-        {
-            "from": 18,
-            "to": 212,
-            "value": 1
-        },
-        {
-            "from": 18,
-            "to": 85,
-            "value": 1
-        },
-        {
-            "from": 19,
-            "to": 116,
-            "value": 1
-        },
-        {
-            "from": 19,
-            "to": 173,
-            "value": 1
-        },
-        {
-            "from": 22,
-            "to": 92,
             "value": 1
         },
         {
             "from": 22,
             "to": 103,
-            "value": 2
+            "value": 1
         },
         {
             "from": 22,
             "to": 116,
-            "value": 2
+            "value": 1
         },
         {
             "from": 23,
             "to": 161,
-            "value": 2
+            "value": 1
         },
         {
             "from": 25,
@@ -2300,11 +2080,6 @@
         {
             "from": 25,
             "to": 12,
-            "value": 1
-        },
-        {
-            "from": 25,
-            "to": 1,
             "value": 1
         },
         {
@@ -2315,46 +2090,11 @@
         {
             "from": 27,
             "to": 88,
-            "value": 3
+            "value": 1
         },
         {
             "from": 27,
             "to": 68,
-            "value": 2
-        },
-        {
-            "from": 27,
-            "to": 197,
-            "value": 1
-        },
-        {
-            "from": 27,
-            "to": 120,
-            "value": 1
-        },
-        {
-            "from": 27,
-            "to": 94,
-            "value": 1
-        },
-        {
-            "from": 27,
-            "to": 84,
-            "value": 1
-        },
-        {
-            "from": 27,
-            "to": 28,
-            "value": 1
-        },
-        {
-            "from": 27,
-            "to": 30,
-            "value": 1
-        },
-        {
-            "from": 28,
-            "to": 102,
             "value": 1
         },
         {
@@ -2369,52 +2109,27 @@
         },
         {
             "from": 30,
-            "to": 84,
-            "value": 2
-        },
-        {
-            "from": 30,
             "to": 195,
             "value": 1
         },
         {
             "from": 32,
-            "to": 51,
+            "to": 65,
             "value": 1
         },
         {
-            "from": 32,
-            "to": 65,
-            "value": 2
-        },
-        {
-            "from": 32,
-            "to": 196,
+            "from": 34,
+            "to": 44,
             "value": 1
         },
         {
             "from": 35,
-            "to": 93,
+            "to": 3,
             "value": 1
         },
         {
             "from": 35,
             "to": 94,
-            "value": 2
-        },
-        {
-            "from": 35,
-            "to": 3,
-            "value": 2
-        },
-        {
-            "from": 37,
-            "to": 4,
-            "value": 1
-        },
-        {
-            "from": 37,
-            "to": 142,
             "value": 1
         },
         {
@@ -2423,48 +2138,8 @@
             "value": 1
         },
         {
-            "from": 40,
-            "to": 94,
-            "value": 1
-        },
-        {
-            "from": 40,
-            "to": 93,
-            "value": 1
-        },
-        {
-            "from": 41,
-            "to": 42,
-            "value": 1
-        },
-        {
             "from": 42,
             "to": 41,
-            "value": 1
-        },
-        {
-            "from": 43,
-            "to": 120,
-            "value": 1
-        },
-        {
-            "from": 46,
-            "to": 197,
-            "value": 1
-        },
-        {
-            "from": 47,
-            "to": 3,
-            "value": 1
-        },
-        {
-            "from": 47,
-            "to": 169,
-            "value": 1
-        },
-        {
-            "from": 47,
-            "to": 207,
             "value": 1
         },
         {
@@ -2473,49 +2148,9 @@
             "value": 2
         },
         {
-            "from": 48,
-            "to": 47,
-            "value": 1
-        },
-        {
-            "from": 48,
-            "to": 169,
-            "value": 1
-        },
-        {
             "from": 51,
             "to": 32,
             "value": 2
-        },
-        {
-            "from": 51,
-            "to": 89,
-            "value": 1
-        },
-        {
-            "from": 51,
-            "to": 157,
-            "value": 1
-        },
-        {
-            "from": 51,
-            "to": 88,
-            "value": 1
-        },
-        {
-            "from": 51,
-            "to": 84,
-            "value": 1
-        },
-        {
-            "from": 51,
-            "to": 68,
-            "value": 1
-        },
-        {
-            "from": 51,
-            "to": 142,
-            "value": 1
         },
         {
             "from": 54,
@@ -2529,47 +2164,12 @@
         },
         {
             "from": 57,
-            "to": 70,
-            "value": 1
-        },
-        {
-            "from": 57,
             "to": 215,
             "value": 2
         },
         {
-            "from": 57,
-            "to": 5,
-            "value": 1
-        },
-        {
-            "from": 57,
-            "to": 79,
-            "value": 1
-        },
-        {
-            "from": 57,
-            "to": 157,
-            "value": 1
-        },
-        {
-            "from": 59,
-            "to": 8,
-            "value": 1
-        },
-        {
-            "from": 59,
-            "to": 215,
-            "value": 1
-        },
-        {
             "from": 59,
             "to": 66,
-            "value": 1
-        },
-        {
-            "from": 60,
-            "to": 103,
             "value": 1
         },
         {
@@ -2580,11 +2180,6 @@
         {
             "from": 61,
             "to": 62,
-            "value": 2
-        },
-        {
-            "from": 61,
-            "to": 139,
             "value": 1
         },
         {
@@ -2613,109 +2208,9 @@
             "value": 1
         },
         {
-            "from": 63,
-            "to": 223,
-            "value": 1
-        },
-        {
             "from": 64,
             "to": 116,
-            "value": 4
-        },
-        {
-            "from": 64,
-            "to": 175,
-            "value": 2
-        },
-        {
-            "from": 64,
-            "to": 164,
-            "value": 3
-        },
-        {
-            "from": 64,
-            "to": 65,
-            "value": 4
-        },
-        {
-            "from": 64,
-            "to": 71,
             "value": 1
-        },
-        {
-            "from": 64,
-            "to": 32,
-            "value": 1
-        },
-        {
-            "from": 64,
-            "to": 196,
-            "value": 1
-        },
-        {
-            "from": 65,
-            "to": 149,
-            "value": 1
-        },
-        {
-            "from": 65,
-            "to": 92,
-            "value": 1
-        },
-        {
-            "from": 65,
-            "to": 116,
-            "value": 2
-        },
-        {
-            "from": 65,
-            "to": 32,
-            "value": 2
-        },
-        {
-            "from": 65,
-            "to": 103,
-            "value": 1
-        },
-        {
-            "from": 65,
-            "to": 164,
-            "value": 1
-        },
-        {
-            "from": 65,
-            "to": 173,
-            "value": 1
-        },
-        {
-            "from": 65,
-            "to": 1,
-            "value": 1
-        },
-        {
-            "from": 65,
-            "to": 175,
-            "value": 1
-        },
-        {
-            "from": 65,
-            "to": 19,
-            "value": 1
-        },
-        {
-            "from": 65,
-            "to": 3,
-            "value": 1
-        },
-        {
-            "from": 66,
-            "to": 115,
-            "value": 2
-        },
-        {
-            "from": 66,
-            "to": 215,
-            "value": 2
         },
         {
             "from": 66,
@@ -2729,42 +2224,7 @@
         },
         {
             "from": 66,
-            "to": 164,
-            "value": 1
-        },
-        {
-            "from": 67,
-            "to": 66,
-            "value": 1
-        },
-        {
-            "from": 67,
-            "to": 95,
-            "value": 1
-        },
-        {
-            "from": 68,
-            "to": 27,
-            "value": 1
-        },
-        {
-            "from": 69,
-            "to": 92,
-            "value": 1
-        },
-        {
-            "from": 69,
-            "to": 135,
-            "value": 1
-        },
-        {
-            "from": 69,
-            "to": 157,
-            "value": 1
-        },
-        {
-            "from": 70,
-            "to": 198,
+            "to": 115,
             "value": 1
         },
         {
@@ -2778,33 +2238,13 @@
             "value": 1
         },
         {
-            "from": 70,
-            "to": 5,
-            "value": 1
-        },
-        {
             "from": 71,
             "to": 32,
-            "value": 3
-        },
-        {
-            "from": 71,
-            "to": 141,
             "value": 1
-        },
-        {
-            "from": 71,
-            "to": 65,
-            "value": 2
         },
         {
             "from": 71,
             "to": 102,
-            "value": 1
-        },
-        {
-            "from": 72,
-            "to": 164,
             "value": 1
         },
         {
@@ -2815,31 +2255,11 @@
         {
             "from": 75,
             "to": 28,
-            "value": 3
-        },
-        {
-            "from": 75,
-            "to": 84,
             "value": 2
         },
         {
             "from": 75,
             "to": 102,
-            "value": 1
-        },
-        {
-            "from": 75,
-            "to": 157,
-            "value": 1
-        },
-        {
-            "from": 77,
-            "to": 76,
-            "value": 1
-        },
-        {
-            "from": 79,
-            "to": 57,
             "value": 1
         },
         {
@@ -2849,58 +2269,23 @@
         },
         {
             "from": 81,
-            "to": 207,
-            "value": 1
-        },
-        {
-            "from": 81,
             "to": 122,
             "value": 1
         },
         {
             "from": 82,
-            "to": 70,
-            "value": 1
-        },
-        {
-            "from": 82,
             "to": 121,
-            "value": 2
-        },
-        {
-            "from": 82,
-            "to": 115,
             "value": 1
         },
         {
             "from": 82,
             "to": 148,
-            "value": 2
-        },
-        {
-            "from": 82,
-            "to": 5,
-            "value": 2
-        },
-        {
-            "from": 82,
-            "to": 83,
-            "value": 2
-        },
-        {
-            "from": 83,
-            "to": 70,
-            "value": 1
-        },
-        {
-            "from": 83,
-            "to": 121,
             "value": 1
         },
         {
             "from": 83,
             "to": 5,
-            "value": 2
+            "value": 1
         },
         {
             "from": 83,
@@ -2913,239 +2298,29 @@
             "value": 1
         },
         {
-            "from": 84,
-            "to": 108,
-            "value": 4
-        },
-        {
-            "from": 84,
-            "to": 27,
-            "value": 1
-        },
-        {
-            "from": 84,
-            "to": 30,
-            "value": 3
-        },
-        {
-            "from": 84,
-            "to": 157,
-            "value": 2
-        },
-        {
-            "from": 84,
-            "to": 102,
-            "value": 1
-        },
-        {
-            "from": 84,
-            "to": 88,
-            "value": 1
-        },
-        {
-            "from": 84,
-            "to": 75,
-            "value": 1
-        },
-        {
             "from": 86,
             "to": 215,
             "value": 1
         },
         {
-            "from": 87,
-            "to": 65,
-            "value": 1
-        },
-        {
-            "from": 87,
-            "to": 122,
-            "value": 1
-        },
-        {
-            "from": 88,
-            "to": 84,
-            "value": 4
-        },
-        {
-            "from": 88,
-            "to": 157,
-            "value": 1
-        },
-        {
-            "from": 88,
-            "to": 108,
-            "value": 8
-        },
-        {
-            "from": 88,
-            "to": 27,
-            "value": 3
-        },
-        {
             "from": 88,
             "to": 28,
-            "value": 2
-        },
-        {
-            "from": 88,
-            "to": 3,
-            "value": 2
-        },
-        {
-            "from": 88,
-            "to": 120,
-            "value": 3
-        },
-        {
-            "from": 88,
-            "to": 186,
-            "value": 1
-        },
-        {
-            "from": 88,
-            "to": 197,
-            "value": 1
-        },
-        {
-            "from": 88,
-            "to": 94,
-            "value": 4
-        },
-        {
-            "from": 88,
-            "to": 1,
-            "value": 2
-        },
-        {
-            "from": 88,
-            "to": 122,
-            "value": 2
-        },
-        {
-            "from": 88,
-            "to": 102,
-            "value": 2
-        },
-        {
-            "from": 88,
-            "to": 89,
-            "value": 1
-        },
-        {
-            "from": 88,
-            "to": 6,
-            "value": 1
-        },
-        {
-            "from": 88,
-            "to": 68,
-            "value": 1
-        },
-        {
-            "from": 88,
-            "to": 30,
             "value": 1
         },
         {
             "from": 89,
             "to": 51,
-            "value": 2
-        },
-        {
-            "from": 89,
-            "to": 65,
-            "value": 1
-        },
-        {
-            "from": 89,
-            "to": 32,
-            "value": 1
-        },
-        {
-            "from": 89,
-            "to": 167,
-            "value": 1
-        },
-        {
-            "from": 89,
-            "to": 342,
             "value": 1
         },
         {
             "from": 90,
             "to": 120,
-            "value": 2
-        },
-        {
-            "from": 90,
-            "to": 197,
-            "value": 1
-        },
-        {
-            "from": 90,
-            "to": 186,
-            "value": 1
-        },
-        {
-            "from": 92,
-            "to": 116,
-            "value": 1
-        },
-        {
-            "from": 92,
-            "to": 64,
-            "value": 1
-        },
-        {
-            "from": 93,
-            "to": 94,
-            "value": 2
-        },
-        {
-            "from": 93,
-            "to": 3,
-            "value": 2
-        },
-        {
-            "from": 93,
-            "to": 35,
-            "value": 2
-        },
-        {
-            "from": 93,
-            "to": 182,
-            "value": 1
-        },
-        {
-            "from": 94,
-            "to": 93,
-            "value": 2
-        },
-        {
-            "from": 94,
-            "to": 169,
-            "value": 1
-        },
-        {
-            "from": 94,
-            "to": 108,
-            "value": 1
-        },
-        {
-            "from": 94,
-            "to": 88,
-            "value": 1
-        },
-        {
-            "from": 94,
-            "to": 185,
             "value": 1
         },
         {
             "from": 95,
             "to": 67,
-            "value": 2
+            "value": 1
         },
         {
             "from": 95,
@@ -3153,58 +2328,8 @@
             "value": 1
         },
         {
-            "from": 95,
-            "to": 159,
-            "value": 1
-        },
-        {
-            "from": 95,
-            "to": 170,
-            "value": 1
-        },
-        {
-            "from": 95,
-            "to": 177,
-            "value": 1
-        },
-        {
-            "from": 95,
-            "to": 147,
-            "value": 1
-        },
-        {
-            "from": 95,
-            "to": 221,
-            "value": 1
-        },
-        {
-            "from": 95,
-            "to": 94,
-            "value": 1
-        },
-        {
-            "from": 97,
-            "to": 135,
-            "value": 1
-        },
-        {
-            "from": 97,
-            "to": 108,
-            "value": 1
-        },
-        {
-            "from": 102,
-            "to": 157,
-            "value": 1
-        },
-        {
             "from": 102,
             "to": 3,
-            "value": 1
-        },
-        {
-            "from": 102,
-            "to": 84,
             "value": 1
         },
         {
@@ -3213,168 +2338,18 @@
             "value": 1
         },
         {
-            "from": 103,
-            "to": 65,
-            "value": 1
-        },
-        {
-            "from": 103,
-            "to": 190,
-            "value": 1
-        },
-        {
             "from": 104,
             "to": 92,
             "value": 1
         },
         {
-            "from": 105,
-            "to": 112,
-            "value": 1
-        },
-        {
-            "from": 106,
-            "to": 13,
-            "value": 1
-        },
-        {
-            "from": 107,
-            "to": 50,
-            "value": 1
-        },
-        {
             "from": 107,
             "to": 157,
-            "value": 1
-        },
-        {
-            "from": 108,
-            "to": 88,
-            "value": 1
-        },
-        {
-            "from": 108,
-            "to": 94,
-            "value": 2
-        },
-        {
-            "from": 108,
-            "to": 120,
             "value": 1
         },
         {
             "from": 108,
             "to": 97,
-            "value": 1
-        },
-        {
-            "from": 108,
-            "to": 65,
-            "value": 1
-        },
-        {
-            "from": 108,
-            "to": 50,
-            "value": 2
-        },
-        {
-            "from": 108,
-            "to": 28,
-            "value": 1
-        },
-        {
-            "from": 108,
-            "to": 27,
-            "value": 1
-        },
-        {
-            "from": 108,
-            "to": 10,
-            "value": 1
-        },
-        {
-            "from": 108,
-            "to": 84,
-            "value": 5
-        },
-        {
-            "from": 108,
-            "to": 75,
-            "value": 1
-        },
-        {
-            "from": 108,
-            "to": 157,
-            "value": 2
-        },
-        {
-            "from": 108,
-            "to": 123,
-            "value": 1
-        },
-        {
-            "from": 108,
-            "to": 3,
-            "value": 1
-        },
-        {
-            "from": 108,
-            "to": 121,
-            "value": 1
-        },
-        {
-            "from": 108,
-            "to": 207,
-            "value": 1
-        },
-        {
-            "from": 108,
-            "to": 1,
-            "value": 1
-        },
-        {
-            "from": 108,
-            "to": 68,
-            "value": 1
-        },
-        {
-            "from": 108,
-            "to": 186,
-            "value": 1
-        },
-        {
-            "from": 108,
-            "to": 197,
-            "value": 1
-        },
-        {
-            "from": 108,
-            "to": 342,
-            "value": 1
-        },
-        {
-            "from": 108,
-            "to": 122,
-            "value": 1
-        },
-        {
-            "from": 109,
-            "to": 164,
-            "value": 1
-        },
-        {
-            "from": 112,
-            "to": 105,
-            "value": 1
-        },
-        {
-            "from": 113,
-            "to": 197,
-            "value": 1
-        },
-        {
-            "from": 113,
-            "to": 13,
             "value": 1
         },
         {
@@ -3388,19 +2363,9 @@
             "value": 1
         },
         {
-            "from": 116,
-            "to": 64,
-            "value": 1
-        },
-        {
-            "from": 118,
-            "to": 358,
-            "value": 1
-        },
-        {
             "from": 119,
             "to": 16,
-            "value": 2
+            "value": 1
         },
         {
             "from": 119,
@@ -3413,153 +2378,8 @@
             "value": 1
         },
         {
-            "from": 120,
-            "to": 1,
-            "value": 1
-        },
-        {
-            "from": 120,
-            "to": 88,
-            "value": 1
-        },
-        {
-            "from": 120,
-            "to": 25,
-            "value": 1
-        },
-        {
-            "from": 120,
-            "to": 90,
-            "value": 1
-        },
-        {
-            "from": 120,
-            "to": 43,
-            "value": 1
-        },
-        {
-            "from": 121,
-            "to": 159,
-            "value": 1
-        },
-        {
-            "from": 121,
-            "to": 122,
-            "value": 2
-        },
-        {
-            "from": 121,
-            "to": 3,
-            "value": 1
-        },
-        {
-            "from": 121,
-            "to": 164,
-            "value": 1
-        },
-        {
-            "from": 121,
-            "to": 71,
-            "value": 1
-        },
-        {
-            "from": 121,
-            "to": 148,
-            "value": 4
-        },
-        {
-            "from": 121,
-            "to": 82,
-            "value": 1
-        },
-        {
-            "from": 121,
-            "to": 87,
-            "value": 1
-        },
-        {
-            "from": 121,
-            "to": 5,
-            "value": 1
-        },
-        {
-            "from": 121,
-            "to": 79,
-            "value": 2
-        },
-        {
-            "from": 121,
-            "to": 166,
-            "value": 1
-        },
-        {
-            "from": 121,
-            "to": 1,
-            "value": 1
-        },
-        {
-            "from": 121,
-            "to": 17,
-            "value": 1
-        },
-        {
-            "from": 121,
-            "to": 16,
-            "value": 1
-        },
-        {
             "from": 122,
             "to": 121,
-            "value": 1
-        },
-        {
-            "from": 122,
-            "to": 5,
-            "value": 1
-        },
-        {
-            "from": 122,
-            "to": 168,
-            "value": 2
-        },
-        {
-            "from": 122,
-            "to": 87,
-            "value": 2
-        },
-        {
-            "from": 122,
-            "to": 134,
-            "value": 2
-        },
-        {
-            "from": 122,
-            "to": 158,
-            "value": 1
-        },
-        {
-            "from": 122,
-            "to": 47,
-            "value": 2
-        },
-        {
-            "from": 122,
-            "to": 115,
-            "value": 1
-        },
-        {
-            "from": 123,
-            "to": 3,
-            "value": 1
-        },
-        {
-            "from": 125,
-            "to": 164,
-            "value": 1
-        },
-        {
-            "from": 128,
-            "to": 69,
             "value": 1
         },
         {
@@ -3570,26 +2390,11 @@
         {
             "from": 131,
             "to": 226,
-            "value": 2
+            "value": 1
         },
         {
             "from": 131,
             "to": 215,
-            "value": 1
-        },
-        {
-            "from": 131,
-            "to": 79,
-            "value": 1
-        },
-        {
-            "from": 132,
-            "to": 156,
-            "value": 1
-        },
-        {
-            "from": 135,
-            "to": 157,
             "value": 1
         },
         {
@@ -3599,11 +2404,6 @@
         },
         {
             "from": 137,
-            "to": 139,
-            "value": 1
-        },
-        {
-            "from": 137,
             "to": 61,
             "value": 1
         },
@@ -3620,27 +2420,7 @@
         {
             "from": 138,
             "to": 137,
-            "value": 2
-        },
-        {
-            "from": 138,
-            "to": 139,
             "value": 1
-        },
-        {
-            "from": 138,
-            "to": 61,
-            "value": 1
-        },
-        {
-            "from": 138,
-            "to": 62,
-            "value": 1
-        },
-        {
-            "from": 139,
-            "to": 62,
-            "value": 2
         },
         {
             "from": 139,
@@ -3658,23 +2438,8 @@
             "value": 1
         },
         {
-            "from": 140,
-            "to": 50,
-            "value": 1
-        },
-        {
-            "from": 142,
-            "to": 4,
-            "value": 1
-        },
-        {
-            "from": 142,
-            "to": 63,
-            "value": 1
-        },
-        {
-            "from": 142,
-            "to": 223,
+            "from": 139,
+            "to": 62,
             "value": 1
         },
         {
@@ -3688,34 +2453,9 @@
             "value": 1
         },
         {
-            "from": 145,
-            "to": 32,
-            "value": 1
-        },
-        {
-            "from": 147,
-            "to": 95,
-            "value": 1
-        },
-        {
-            "from": 148,
-            "to": 70,
-            "value": 1
-        },
-        {
-            "from": 148,
-            "to": 121,
-            "value": 1
-        },
-        {
-            "from": 148,
-            "to": 159,
-            "value": 1
-        },
-        {
             "from": 148,
             "to": 5,
-            "value": 3
+            "value": 1
         },
         {
             "from": 148,
@@ -3723,43 +2463,8 @@
             "value": 2
         },
         {
-            "from": 148,
-            "to": 83,
-            "value": 2
-        },
-        {
-            "from": 150,
-            "to": 151,
-            "value": 1
-        },
-        {
-            "from": 152,
-            "to": 141,
-            "value": 1
-        },
-        {
             "from": 154,
             "to": 113,
-            "value": 2
-        },
-        {
-            "from": 154,
-            "to": 157,
-            "value": 1
-        },
-        {
-            "from": 154,
-            "to": 94,
-            "value": 1
-        },
-        {
-            "from": 156,
-            "to": 188,
-            "value": 1
-        },
-        {
-            "from": 157,
-            "to": 207,
             "value": 1
         },
         {
@@ -3774,11 +2479,6 @@
         },
         {
             "from": 159,
-            "to": 95,
-            "value": 3
-        },
-        {
-            "from": 159,
             "to": 121,
             "value": 1
         },
@@ -3788,123 +2488,8 @@
             "value": 1
         },
         {
-            "from": 159,
-            "to": 79,
-            "value": 1
-        },
-        {
-            "from": 159,
-            "to": 166,
-            "value": 1
-        },
-        {
-            "from": 159,
-            "to": 67,
-            "value": 1
-        },
-        {
-            "from": 159,
-            "to": 198,
-            "value": 2
-        },
-        {
-            "from": 159,
-            "to": 148,
-            "value": 1
-        },
-        {
-            "from": 159,
-            "to": 5,
-            "value": 1
-        },
-        {
-            "from": 159,
-            "to": 82,
-            "value": 1
-        },
-        {
-            "from": 161,
-            "to": 23,
-            "value": 2
-        },
-        {
-            "from": 163,
-            "to": 65,
-            "value": 1
-        },
-        {
-            "from": 164,
-            "to": 207,
-            "value": 1
-        },
-        {
-            "from": 164,
-            "to": 87,
-            "value": 1
-        },
-        {
-            "from": 164,
-            "to": 65,
-            "value": 1
-        },
-        {
-            "from": 164,
-            "to": 92,
-            "value": 2
-        },
-        {
-            "from": 164,
-            "to": 165,
-            "value": 1
-        },
-        {
-            "from": 166,
-            "to": 131,
-            "value": 1
-        },
-        {
-            "from": 166,
-            "to": 215,
-            "value": 1
-        },
-        {
-            "from": 167,
-            "to": 7,
-            "value": 1
-        },
-        {
-            "from": 167,
-            "to": 50,
-            "value": 1
-        },
-        {
-            "from": 168,
-            "to": 122,
-            "value": 1
-        },
-        {
-            "from": 168,
-            "to": 169,
-            "value": 1
-        },
-        {
             "from": 168,
             "to": 207,
-            "value": 1
-        },
-        {
-            "from": 168,
-            "to": 134,
-            "value": 1
-        },
-        {
-            "from": 169,
-            "to": 3,
-            "value": 2
-        },
-        {
-            "from": 169,
-            "to": 94,
             "value": 1
         },
         {
@@ -3913,77 +2498,7 @@
             "value": 1
         },
         {
-            "from": 169,
-            "to": 108,
-            "value": 1
-        },
-        {
-            "from": 169,
-            "to": 65,
-            "value": 1
-        },
-        {
-            "from": 169,
-            "to": 1,
-            "value": 1
-        },
-        {
-            "from": 169,
-            "to": 194,
-            "value": 1
-        },
-        {
-            "from": 169,
-            "to": 185,
-            "value": 1
-        },
-        {
-            "from": 171,
-            "to": 95,
-            "value": 1
-        },
-        {
-            "from": 171,
-            "to": 67,
-            "value": 1
-        },
-        {
-            "from": 172,
-            "to": 103,
-            "value": 2
-        },
-        {
-            "from": 172,
-            "to": 211,
-            "value": 2
-        },
-        {
-            "from": 172,
-            "to": 173,
-            "value": 1
-        },
-        {
             "from": 173,
-            "to": 176,
-            "value": 1
-        },
-        {
-            "from": 173,
-            "to": 116,
-            "value": 1
-        },
-        {
-            "from": 173,
-            "to": 175,
-            "value": 1
-        },
-        {
-            "from": 173,
-            "to": 211,
-            "value": 1
-        },
-        {
-            "from": 174,
             "to": 116,
             "value": 1
         },
@@ -3998,16 +2513,6 @@
             "value": 2
         },
         {
-            "from": 177,
-            "to": 95,
-            "value": 1
-        },
-        {
-            "from": 177,
-            "to": 147,
-            "value": 1
-        },
-        {
             "from": 179,
             "to": 121,
             "value": 2
@@ -4018,93 +2523,18 @@
             "value": 1
         },
         {
-            "from": 181,
-            "to": 94,
-            "value": 1
-        },
-        {
-            "from": 182,
-            "to": 93,
-            "value": 1
-        },
-        {
-            "from": 186,
-            "to": 197,
-            "value": 1
-        },
-        {
-            "from": 187,
-            "to": 3,
-            "value": 1
-        },
-        {
-            "from": 188,
-            "to": 156,
-            "value": 1
-        },
-        {
-            "from": 189,
-            "to": 95,
-            "value": 2
-        },
-        {
-            "from": 190,
-            "to": 164,
-            "value": 1
-        },
-        {
-            "from": 190,
-            "to": 207,
-            "value": 1
-        },
-        {
-            "from": 190,
-            "to": 103,
-            "value": 1
-        },
-        {
-            "from": 192,
-            "to": 164,
-            "value": 2
-        },
-        {
-            "from": 192,
-            "to": 65,
-            "value": 1
-        },
-        {
             "from": 194,
             "to": 122,
             "value": 1
         },
         {
-            "from": 194,
-            "to": 17,
-            "value": 1
-        },
-        {
-            "from": 194,
-            "to": 169,
-            "value": 1
-        },
-        {
-            "from": 194,
-            "to": 3,
-            "value": 1
-        },
-        {
             "from": 195,
             "to": 88,
-            "value": 2
+            "value": 1
         },
         {
             "from": 195,
             "to": 207,
-            "value": 2
-        },
-        {
-            "from": 195,
-            "to": 108,
             "value": 1
         },
         {
@@ -4113,53 +2543,8 @@
             "value": 1
         },
         {
-            "from": 195,
-            "to": 84,
-            "value": 1
-        },
-        {
-            "from": 195,
-            "to": 30,
-            "value": 3
-        },
-        {
             "from": 196,
             "to": 32,
-            "value": 1
-        },
-        {
-            "from": 197,
-            "to": 3,
-            "value": 1
-        },
-        {
-            "from": 197,
-            "to": 186,
-            "value": 1
-        },
-        {
-            "from": 197,
-            "to": 113,
-            "value": 1
-        },
-        {
-            "from": 197,
-            "to": 90,
-            "value": 2
-        },
-        {
-            "from": 199,
-            "to": 144,
-            "value": 1
-        },
-        {
-            "from": 199,
-            "to": 151,
-            "value": 1
-        },
-        {
-            "from": 200,
-            "to": 197,
             "value": 1
         },
         {
@@ -4178,53 +2563,8 @@
             "value": 1
         },
         {
-            "from": 202,
-            "to": 50,
-            "value": 2
-        },
-        {
-            "from": 202,
-            "to": 151,
-            "value": 1
-        },
-        {
-            "from": 205,
-            "to": 207,
-            "value": 1
-        },
-        {
-            "from": 205,
-            "to": 164,
-            "value": 1
-        },
-        {
-            "from": 205,
-            "to": 65,
-            "value": 1
-        },
-        {
-            "from": 207,
-            "to": 127,
-            "value": 1
-        },
-        {
             "from": 207,
             "to": 164,
-            "value": 1
-        },
-        {
-            "from": 207,
-            "to": 52,
-            "value": 1
-        },
-        {
-            "from": 207,
-            "to": 65,
-            "value": 2
-        },
-        {
-            "from": 208,
-            "to": 7,
             "value": 1
         },
         {
@@ -4233,28 +2573,13 @@
             "value": 1
         },
         {
-            "from": 210,
-            "to": 164,
-            "value": 1
-        },
-        {
-            "from": 210,
-            "to": 65,
-            "value": 1
-        },
-        {
             "from": 212,
             "to": 85,
-            "value": 3
+            "value": 1
         },
         {
             "from": 212,
             "to": 69,
-            "value": 1
-        },
-        {
-            "from": 212,
-            "to": 65,
             "value": 1
         },
         {
@@ -4270,27 +2595,7 @@
         {
             "from": 215,
             "to": 198,
-            "value": 2
-        },
-        {
-            "from": 215,
-            "to": 5,
-            "value": 2
-        },
-        {
-            "from": 221,
-            "to": 95,
             "value": 1
-        },
-        {
-            "from": 222,
-            "to": 65,
-            "value": 1
-        },
-        {
-            "from": 222,
-            "to": 223,
-            "value": 2
         },
         {
             "from": 224,
@@ -4298,1143 +2603,148 @@
             "value": 1
         },
         {
-            "from": 227,
-            "to": 65,
-            "value": 1
-        },
-        {
-            "from": 228,
-            "to": 380,
-            "value": 2
-        },
-        {
-            "from": 228,
-            "to": 288,
-            "value": 1
-        },
-        {
-            "from": 230,
-            "to": 387,
-            "value": 2
-        },
-        {
-            "from": 230,
-            "to": 391,
-            "value": 2
-        },
-        {
-            "from": 230,
+            "from": 231,
             "to": 393,
-            "value": 1
-        },
-        {
-            "from": 230,
-            "to": 254,
-            "value": 1
-        },
-        {
-            "from": 230,
-            "to": 383,
-            "value": 1
-        },
-        {
-            "from": 231,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 231,
-            "to": 400,
             "value": 1
         },
         {
             "from": 232,
-            "to": 243,
-            "value": 2
+            "to": 402,
+            "value": 1
         },
         {
             "from": 233,
-            "to": 293,
-            "value": 1
-        },
-        {
-            "from": 235,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 236,
-            "to": 394,
-            "value": 1
-        },
-        {
-            "from": 236,
-            "to": 80,
-            "value": 3
-        },
-        {
-            "from": 238,
-            "to": 389,
-            "value": 1
-        },
-        {
-            "from": 239,
-            "to": 391,
-            "value": 1
-        },
-        {
-            "from": 240,
-            "to": 265,
-            "value": 2
-        },
-        {
-            "from": 240,
-            "to": 241,
-            "value": 2
-        },
-        {
-            "from": 240,
-            "to": 242,
-            "value": 2
-        },
-        {
-            "from": 241,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 241,
-            "to": 265,
-            "value": 1
-        },
-        {
-            "from": 241,
-            "to": 242,
-            "value": 1
-        },
-        {
-            "from": 242,
-            "to": 265,
-            "value": 3
-        },
-        {
-            "from": 242,
-            "to": 241,
-            "value": 2
-        },
-        {
-            "from": 243,
-            "to": 279,
-            "value": 1
-        },
-        {
-            "from": 243,
-            "to": 232,
-            "value": 1
-        },
-        {
-            "from": 244,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 245,
-            "to": 246,
-            "value": 1
-        },
-        {
-            "from": 247,
-            "to": 197,
-            "value": 1
-        },
-        {
-            "from": 249,
-            "to": 304,
-            "value": 1
-        },
-        {
-            "from": 249,
-            "to": 320,
-            "value": 1
-        },
-        {
-            "from": 249,
-            "to": 338,
-            "value": 1
-        },
-        {
-            "from": 254,
-            "to": 391,
-            "value": 4
-        },
-        {
-            "from": 254,
-            "to": 383,
-            "value": 1
-        },
-        {
-            "from": 254,
-            "to": 230,
-            "value": 3
-        },
-        {
-            "from": 254,
-            "to": 387,
-            "value": 1
-        },
-        {
-            "from": 256,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 257,
-            "to": 394,
-            "value": 1
-        },
-        {
-            "from": 257,
-            "to": 49,
-            "value": 1
-        },
-        {
-            "from": 258,
-            "to": 387,
-            "value": 1
-        },
-        {
-            "from": 262,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 265,
-            "to": 240,
-            "value": 1
-        },
-        {
-            "from": 265,
-            "to": 242,
-            "value": 1
-        },
-        {
-            "from": 265,
-            "to": 241,
-            "value": 1
-        },
-        {
-            "from": 266,
-            "to": 280,
-            "value": 1
-        },
-        {
-            "from": 267,
-            "to": 280,
-            "value": 1
-        },
-        {
-            "from": 267,
-            "to": 266,
-            "value": 2
-        },
-        {
-            "from": 268,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 270,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 270,
-            "to": 278,
-            "value": 1
-        },
-        {
-            "from": 270,
-            "to": 324,
-            "value": 1
-        },
-        {
-            "from": 271,
-            "to": 394,
-            "value": 1
-        },
-        {
-            "from": 271,
-            "to": 362,
-            "value": 1
-        },
-        {
-            "from": 272,
-            "to": 327,
-            "value": 1
-        },
-        {
-            "from": 273,
-            "to": 400,
-            "value": 4
-        },
-        {
-            "from": 273,
-            "to": 387,
-            "value": 1
-        },
-        {
-            "from": 273,
-            "to": 309,
-            "value": 1
-        },
-        {
-            "from": 274,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 276,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 276,
-            "to": 400,
-            "value": 2
-        },
-        {
-            "from": 278,
-            "to": 374,
-            "value": 1
-        },
-        {
-            "from": 279,
-            "to": 243,
-            "value": 1
-        },
-        {
-            "from": 280,
-            "to": 266,
-            "value": 1
-        },
-        {
-            "from": 280,
-            "to": 287,
-            "value": 1
-        },
-        {
-            "from": 281,
-            "to": 310,
-            "value": 1
-        },
-        {
-            "from": 281,
-            "to": 400,
-            "value": 1
-        },
-        {
-            "from": 283,
-            "to": 255,
-            "value": 1
-        },
-        {
-            "from": 284,
-            "to": 339,
-            "value": 1
-        },
-        {
-            "from": 285,
-            "to": 387,
-            "value": 1
-        },
-        {
-            "from": 287,
-            "to": 280,
-            "value": 1
-        },
-        {
-            "from": 288,
-            "to": 387,
-            "value": 1
-        },
-        {
-            "from": 288,
-            "to": 400,
-            "value": 1
-        },
-        {
-            "from": 290,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 292,
-            "to": 350,
-            "value": 1
-        },
-        {
-            "from": 293,
-            "to": 233,
-            "value": 1
-        },
-        {
-            "from": 294,
-            "to": 270,
-            "value": 1
-        },
-        {
-            "from": 294,
-            "to": 358,
-            "value": 1
-        },
-        {
-            "from": 296,
-            "to": 380,
-            "value": 1
-        },
-        {
-            "from": 296,
-            "to": 207,
-            "value": 1
-        },
-        {
-            "from": 300,
-            "to": 112,
-            "value": 1
-        },
-        {
-            "from": 300,
-            "to": 307,
-            "value": 1
-        },
-        {
-            "from": 302,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 304,
-            "to": 249,
-            "value": 1
-        },
-        {
-            "from": 304,
-            "to": 320,
-            "value": 3
-        },
-        {
-            "from": 304,
-            "to": 338,
-            "value": 2
-        },
-        {
-            "from": 307,
-            "to": 300,
-            "value": 3
-        },
-        {
-            "from": 307,
-            "to": 112,
-            "value": 1
-        },
-        {
-            "from": 308,
-            "to": 400,
-            "value": 2
-        },
-        {
-            "from": 308,
-            "to": 358,
-            "value": 1
-        },
-        {
-            "from": 310,
-            "to": 281,
-            "value": 1
-        },
-        {
-            "from": 310,
-            "to": 400,
-            "value": 1
-        },
-        {
-            "from": 315,
-            "to": 389,
-            "value": 3
-        },
-        {
-            "from": 315,
-            "to": 387,
-            "value": 1
-        },
-        {
-            "from": 315,
-            "to": 385,
-            "value": 1
-        },
-        {
-            "from": 316,
-            "to": 280,
-            "value": 2
-        },
-        {
-            "from": 316,
-            "to": 287,
-            "value": 1
-        },
-        {
-            "from": 320,
-            "to": 249,
-            "value": 2
-        },
-        {
-            "from": 320,
-            "to": 304,
-            "value": 2
-        },
-        {
-            "from": 320,
-            "to": 338,
-            "value": 2
-        },
-        {
-            "from": 322,
-            "to": 382,
-            "value": 1
-        },
-        {
-            "from": 323,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 324,
-            "to": 270,
-            "value": 2
-        },
-        {
-            "from": 326,
-            "to": 380,
-            "value": 1
-        },
-        {
-            "from": 326,
-            "to": 288,
-            "value": 1
-        },
-        {
-            "from": 327,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 327,
-            "to": 272,
-            "value": 1
-        },
-        {
-            "from": 328,
-            "to": 362,
-            "value": 1
-        },
-        {
-            "from": 331,
-            "to": 358,
-            "value": 1
-        },
-        {
-            "from": 331,
-            "to": 400,
-            "value": 1
-        },
-        {
-            "from": 332,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 333,
-            "to": 385,
-            "value": 1
-        },
-        {
-            "from": 333,
-            "to": 400,
-            "value": 1
-        },
-        {
-            "from": 335,
-            "to": 382,
-            "value": 1
-        },
-        {
-            "from": 336,
-            "to": 400,
-            "value": 1
-        },
-        {
-            "from": 338,
-            "to": 249,
-            "value": 2
-        },
-        {
-            "from": 338,
-            "to": 320,
-            "value": 3
-        },
-        {
-            "from": 338,
-            "to": 304,
-            "value": 2
-        },
-        {
-            "from": 339,
-            "to": 118,
-            "value": 1
-        },
-        {
-            "from": 339,
-            "to": 284,
-            "value": 1
-        },
-        {
-            "from": 340,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 341,
-            "to": 384,
-            "value": 2
-        },
-        {
-            "from": 341,
-            "to": 358,
-            "value": 1
-        },
-        {
-            "from": 341,
-            "to": 389,
-            "value": 1
-        },
-        {
-            "from": 342,
-            "to": 382,
-            "value": 1
-        },
-        {
-            "from": 345,
-            "to": 343,
-            "value": 1
-        },
-        {
-            "from": 348,
-            "to": 400,
-            "value": 2
-        },
-        {
-            "from": 348,
-            "to": 389,
-            "value": 2
-        },
-        {
-            "from": 350,
-            "to": 292,
-            "value": 1
-        },
-        {
-            "from": 355,
-            "to": 400,
-            "value": 1
-        },
-        {
-            "from": 356,
-            "to": 358,
-            "value": 1
-        },
-        {
-            "from": 357,
-            "to": 358,
-            "value": 1
-        },
-        {
-            "from": 358,
-            "to": 400,
-            "value": 5
-        },
-        {
-            "from": 358,
-            "to": 357,
-            "value": 2
-        },
-        {
-            "from": 358,
-            "to": 384,
-            "value": 3
-        },
-        {
-            "from": 358,
-            "to": 274,
-            "value": 1
-        },
-        {
-            "from": 359,
-            "to": 392,
-            "value": 1
-        },
-        {
-            "from": 360,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 361,
-            "to": 369,
-            "value": 1
-        },
-        {
-            "from": 361,
-            "to": 267,
-            "value": 1
-        },
-        {
-            "from": 364,
-            "to": 339,
-            "value": 2
-        },
-        {
-            "from": 369,
-            "to": 387,
-            "value": 1
-        },
-        {
-            "from": 374,
-            "to": 389,
-            "value": 1
-        },
-        {
-            "from": 375,
-            "to": 197,
-            "value": 1
-        },
-        {
-            "from": 376,
-            "to": 347,
-            "value": 1
-        },
-        {
-            "from": 378,
-            "to": 362,
-            "value": 1
-        },
-        {
-            "from": 378,
-            "to": 310,
-            "value": 1
-        },
-        {
-            "from": 378,
-            "to": 281,
-            "value": 1
-        },
-        {
-            "from": 378,
-            "to": 400,
-            "value": 1
-        },
-        {
-            "from": 380,
-            "to": 218,
-            "value": 1
-        },
-        {
-            "from": 380,
-            "to": 296,
-            "value": 1
-        },
-        {
-            "from": 380,
-            "to": 264,
-            "value": 1
-        },
-        {
-            "from": 382,
-            "to": 358,
-            "value": 1
-        },
-        {
-            "from": 382,
-            "to": 400,
-            "value": 1
-        },
-        {
-            "from": 383,
-            "to": 391,
-            "value": 3
-        },
-        {
-            "from": 383,
-            "to": 254,
-            "value": 4
-        },
-        {
-            "from": 383,
-            "to": 230,
-            "value": 1
-        },
-        {
-            "from": 383,
-            "to": 387,
-            "value": 1
-        },
-        {
-            "from": 384,
-            "to": 251,
-            "value": 2
-        },
-        {
-            "from": 384,
-            "to": 387,
-            "value": 4
-        },
-        {
-            "from": 384,
-            "to": 362,
-            "value": 1
-        },
-        {
-            "from": 384,
-            "to": 389,
-            "value": 4
-        },
-        {
-            "from": 384,
-            "to": 290,
-            "value": 2
-        },
-        {
-            "from": 384,
-            "to": 380,
-            "value": 1
-        },
-        {
-            "from": 384,
             "to": 244,
             "value": 1
         },
         {
-            "from": 384,
-            "to": 358,
-            "value": 3
-        },
-        {
-            "from": 384,
-            "to": 339,
+            "from": 242,
+            "to": 266,
             "value": 1
         },
         {
-            "from": 384,
-            "to": 301,
+            "from": 243,
+            "to": 266,
             "value": 1
         },
         {
-            "from": 384,
-            "to": 394,
-            "value": 1
-        },
-        {
-            "from": 384,
-            "to": 233,
-            "value": 1
-        },
-        {
-            "from": 384,
-            "to": 274,
-            "value": 2
-        },
-        {
-            "from": 385,
-            "to": 387,
-            "value": 2
-        },
-        {
-            "from": 385,
-            "to": 382,
-            "value": 1
-        },
-        {
-            "from": 385,
-            "to": 279,
-            "value": 1
-        },
-        {
-            "from": 385,
-            "to": 243,
-            "value": 1
-        },
-        {
-            "from": 385,
-            "to": 232,
-            "value": 1
-        },
-        {
-            "from": 386,
-            "to": 280,
-            "value": 2
-        },
-        {
-            "from": 386,
-            "to": 287,
-            "value": 1
-        },
-        {
-            "from": 387,
-            "to": 391,
-            "value": 1
-        },
-        {
-            "from": 387,
-            "to": 254,
-            "value": 1
-        },
-        {
-            "from": 387,
-            "to": 383,
-            "value": 1
-        },
-        {
-            "from": 387,
-            "to": 230,
-            "value": 1
-        },
-        {
-            "from": 387,
-            "to": 315,
-            "value": 1
-        },
-        {
-            "from": 387,
-            "to": 288,
-            "value": 1
-        },
-        {
-            "from": 387,
-            "to": 285,
-            "value": 1
-        },
-        {
-            "from": 387,
-            "to": 380,
-            "value": 1
-        },
-        {
-            "from": 387,
-            "to": 258,
-            "value": 1
-        },
-        {
-            "from": 387,
+            "from": 255,
             "to": 385,
             "value": 1
         },
         {
+            "from": 271,
+            "to": 279,
+            "value": 1
+        },
+        {
+            "from": 272,
+            "to": 364,
+            "value": 1
+        },
+        {
+            "from": 274,
+            "to": 402,
+            "value": 1
+        },
+        {
+            "from": 277,
+            "to": 402,
+            "value": 1
+        },
+        {
+            "from": 279,
+            "to": 376,
+            "value": 1
+        },
+        {
+            "from": 293,
+            "to": 352,
+            "value": 1
+        },
+        {
+            "from": 294,
+            "to": 360,
+            "value": 1
+        },
+        {
+            "from": 306,
+            "to": 250,
+            "value": 1
+        },
+        {
+            "from": 310,
+            "to": 402,
+            "value": 1
+        },
+        {
+            "from": 317,
+            "to": 387,
+            "value": 1
+        },
+        {
+            "from": 335,
+            "to": 387,
+            "value": 1
+        },
+        {
+            "from": 343,
+            "to": 386,
+            "value": 1
+        },
+        {
+            "from": 344,
+            "to": 384,
+            "value": 1
+        },
+        {
+            "from": 350,
+            "to": 402,
+            "value": 1
+        },
+        {
+            "from": 358,
+            "to": 360,
+            "value": 1
+        },
+        {
+            "from": 361,
+            "to": 394,
+            "value": 1
+        },
+        {
+            "from": 371,
+            "to": 389,
+            "value": 1
+        },
+        {
+            "from": 382,
+            "to": 265,
+            "value": 1
+        },
+        {
             "from": 388,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 389,
-            "to": 384,
-            "value": 2
-        },
-        {
-            "from": 389,
-            "to": 197,
-            "value": 1
-        },
-        {
-            "from": 389,
-            "to": 362,
-            "value": 1
-        },
-        {
-            "from": 389,
-            "to": 387,
-            "value": 1
-        },
-        {
-            "from": 389,
-            "to": 315,
-            "value": 1
-        },
-        {
-            "from": 389,
-            "to": 237,
-            "value": 1
-        },
-        {
-            "from": 389,
-            "to": 398,
-            "value": 1
-        },
-        {
-            "from": 389,
-            "to": 400,
-            "value": 1
-        },
-        {
-            "from": 390,
-            "to": 280,
-            "value": 1
-        },
-        {
-            "from": 391,
-            "to": 254,
-            "value": 1
-        },
-        {
-            "from": 391,
-            "to": 383,
-            "value": 1
-        },
-        {
-            "from": 391,
-            "to": 230,
-            "value": 2
-        },
-        {
-            "from": 391,
-            "to": 387,
-            "value": 1
-        },
-        {
-            "from": 391,
-            "to": 239,
-            "value": 1
-        },
-        {
-            "from": 391,
-            "to": 393,
-            "value": 3
-        },
-        {
-            "from": 392,
-            "to": 359,
-            "value": 1
-        },
-        {
-            "from": 393,
-            "to": 391,
-            "value": 1
-        },
-        {
-            "from": 393,
-            "to": 254,
-            "value": 1
-        },
-        {
-            "from": 394,
-            "to": 118,
-            "value": 1
-        },
-        {
-            "from": 394,
-            "to": 236,
-            "value": 1
-        },
-        {
-            "from": 394,
-            "to": 274,
-            "value": 1
-        },
-        {
-            "from": 396,
-            "to": 384,
-            "value": 1
-        },
-        {
-            "from": 397,
-            "to": 270,
-            "value": 1
-        },
-        {
-            "from": 397,
-            "to": 207,
-            "value": 1
-        },
-        {
-            "from": 397,
-            "to": 400,
-            "value": 1
-        },
-        {
-            "from": 397,
-            "to": 387,
-            "value": 1
-        },
-        {
-            "from": 397,
-            "to": 380,
-            "value": 1
-        },
-        {
-            "from": 398,
-            "to": 334,
-            "value": 1
-        },
-        {
-            "from": 400,
-            "to": 358,
-            "value": 3
-        },
-        {
-            "from": 400,
-            "to": 380,
-            "value": 1
-        },
-        {
-            "from": 400,
-            "to": 387,
-            "value": 1
-        },
-        {
-            "from": 400,
-            "to": 197,
-            "value": 1
-        },
-        {
-            "from": 400,
-            "to": 273,
-            "value": 3
-        },
-        {
-            "from": 400,
-            "to": 94,
-            "value": 1
-        },
-        {
-            "from": 400,
-            "to": 381,
-            "value": 1
-        },
-        {
-            "from": 400,
-            "to": 355,
-            "value": 1
-        },
-        {
-            "from": 400,
-            "to": 336,
-            "value": 1
-        },
-        {
-            "from": 400,
-            "to": 310,
-            "value": 1
-        },
-        {
-            "from": 400,
             "to": 281,
+            "value": 1
+        },
+        {
+            "from": 389,
+            "to": 385,
+            "value": 1
+        },
+        {
+            "from": 393,
+            "to": 385,
+            "value": 1
+        },
+        {
+            "from": 393,
+            "to": 231,
+            "value": 1
+        },
+        {
+            "from": 394,
+            "to": 361,
             "value": 1
         }
     ]

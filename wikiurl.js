@@ -12,7 +12,12 @@ function getWikipediaTitle(url) {
     )
 }
 
+function getWikipediaLanguage(url) {
+    return /https?:\/\/(..)\.wikipedia.*/.exec(url)[1]
+}
+
 module.exports = {
     getUrl: getWikipediaUrl,
-    getTitle: getWikipediaTitle
+    getTitle: getWikipediaTitle,
+    getLang: getWikipediaLanguage
 }
