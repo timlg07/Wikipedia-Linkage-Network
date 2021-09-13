@@ -15,16 +15,7 @@
 <body>
     <div id="mynetwork"></div>
     <script type="text/javascript">
-        const req = new XMLHttpRequest()
-        req.overrideMimeType('application/json')
-        req.open('GET', './network.json', true)
-        req.onreadystatechange = () => {
-            if (req.readyState === 4 && req.status === 200) {
-                const data = JSON.parse(req.responseText)
-                render(data)
-            }
-        }
-        req.send(null)
+        fetch('./network.json').then(res => res.json().then(render))
 
         function render(data) {
             const nodes = new vis.DataSet(data.nodes)
