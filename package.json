@@ -5,12 +5,15 @@
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ."
+    "start": "node . && serve -s ."
   },
   "author": "Tim L. Greller",
   "license": "MIT",
   "dependencies": {
     "puppeteer": "^10.2.0",
     "vis": "^4.21.0-EOL"
+  },
+  "devDependencies": {
+    "serve": "^12.0.1"
   }
 }
