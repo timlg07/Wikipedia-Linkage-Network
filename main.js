@@ -20,9 +20,8 @@ async function fetchRefData(page) {
     for (let language in titles) {
         for (let title of titles[language]) {
             const url = wikiurl.getUrl(language, title)
-            const key = getWrappedTitle(getDisplayTitle(language, title))
-            const out = await getLinkedTitles(url, page)
-            titleCombinations[key] = out.map(getWrappedTitle)
+            const key = getDisplayTitle(language, title)
+            titleCombinations[key] = await getLinkedTitles(url, page)
         }
     }
     return titleCombinations
@@ -53,7 +52,6 @@ function getDisplayTitle(language, title) {
 }
 
 function getWrappedTitle(displayTitle, characterWrap = 10) {
-    return displayTitle
     const words = displayTitle.split(/\s+/)
     const lines = []
     let currentLine = ''
@@ -92,8 +90,8 @@ function createDataSets(refs) {
     for (const [title, reflist] of Object.entries(refs)) {
         const from = nodes.find(n => n.label === title)?.id
         reflist
-            .map(to => nodes.find(n => n.label === to)?.id)
-            .filter(to => !!to)
+            .map(to => nodes.find(n => n.label === to)?.id || false)
+            .filter(to => to !== false)
             .forEach(to => {
                 const edge = edges.find(e => e.from === from && e.to === to)
                 if (edge) {
@@ -106,6 +104,9 @@ function createDataSets(refs) {
 
     // set node values:
     edges.forEach(edge => nodes[edge.to - 1].value += edge.value)
+
+    // Wrap labels:
+    nodes.forEach(node => node.label = getWrappedTitle(node.label))
 
     return {
         nodes: nodes,

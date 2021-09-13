@@ -2,52 +2,52 @@
     "nodes": [
         {
             "id": 1,
-            "label": "Enterprise Application Integration [de]",
+            "label": "Enterprise\nApplication\nIntegration\n[de]",
             "value": 16
         },
         {
             "id": 2,
-            "label": "Stammdatenpool [de]",
+            "label": "Stammdatenpool\n[de]",
             "value": 1
         },
         {
             "id": 3,
-            "label": "Workflow-Management [de]",
+            "label": "Workflow-Management\n[de]",
             "value": 19
         },
         {
             "id": 4,
-            "label": "Katalogmanagement [de]",
+            "label": "Katalogmanagement\n[de]",
             "value": 3
         },
         {
             "id": 5,
-            "label": "Ereignisgesteuerte Prozesskette [de]",
+            "label": "Ereignisgesteuerte\nProzesskette\n[de]",
             "value": 15
         },
         {
             "id": 6,
-            "label": "Informationslogistik [de]",
+            "label": "Informationslogistik\n[de]",
             "value": 4
         },
         {
             "id": 7,
-            "label": "Informationsbedarf [de]",
+            "label": "Informationsbedarf\n[de]",
             "value": 4
         },
         {
             "id": 8,
-            "label": "Betriebliches Informationssystem [de]",
+            "label": "Betriebliches\nInformationssystem\n[de]",
             "value": 3
         },
         {
             "id": 9,
-            "label": "Straight Through Processing [de]",
+            "label": "Straight Through\nProcessing\n[de]",
             "value": 2
         },
         {
             "id": 10,
-            "label": "Content-Lifecycle [de]",
+            "label": "Content-Lifecycle\n[de]",
             "value": 2
         },
         {
@@ -57,132 +57,132 @@
         },
         {
             "id": 12,
-            "label": "Business Bus [de]",
+            "label": "Business Bus\n[de]",
             "value": 6
         },
         {
             "id": 13,
-            "label": "Metaverzeichnisdienst [de]",
+            "label": "Metaverzeichnisdienst\n[de]",
             "value": 3
         },
         {
             "id": 14,
-            "label": "Rezentralisierung [de]",
+            "label": "Rezentralisierung\n[de]",
             "value": 1
         },
         {
             "id": 15,
-            "label": "Mobile Datenerfassung [de]",
+            "label": "Mobile Datenerfassung\n[de]",
             "value": 1
         },
         {
             "id": 16,
-            "label": "Integrationsplattform [de]",
+            "label": "Integrationsplattform\n[de]",
             "value": 8
         },
         {
             "id": 17,
-            "label": "Business Process Engine [de]",
+            "label": "Business Process\nEngine [de]",
             "value": 5
         },
         {
             "id": 18,
-            "label": "Management Support System [de]",
+            "label": "Management\nSupport System\n[de]",
             "value": 1
         },
         {
             "id": 19,
-            "label": "Communications Oriented Production Information and Control System [de]",
+            "label": "Communications\nOriented Production\nInformation\nand Control\nSystem [de]",
             "value": 2
         },
         {
             "id": 20,
-            "label": "Durchlaufterminierung [de]",
+            "label": "Durchlaufterminierung\n[de]",
             "value": 1
         },
         {
             "id": 21,
-            "label": "International Business Information Technology [de]",
+            "label": "International\nBusiness Information\nTechnology\n[de]",
             "value": 1
         },
         {
             "id": 22,
-            "label": "Sachmerkmal-Liste [de]",
+            "label": "Sachmerkmal-\nListe [de]",
             "value": 1
         },
         {
             "id": 23,
-            "label": "U-Commerce [de]",
+            "label": "U-Commerce\n[de]",
             "value": 3
         },
         {
             "id": 24,
-            "label": "Maschinendatenerfassung [de]",
+            "label": "Maschinendatenerfassung\n[de]",
             "value": 1
         },
         {
             "id": 25,
-            "label": "Integration (Software) [de]",
+            "label": "Integration\n(Software)\n[de]",
             "value": 7
         },
         {
             "id": 26,
-            "label": "Fehlersammelkarte [de]",
+            "label": "Fehlersammelkarte\n[de]",
             "value": 1
         },
         {
             "id": 27,
-            "label": "Dokumenten-Technologien [de]",
+            "label": "Dokumenten-\nTechnologien\n[de]",
             "value": 7
         },
         {
             "id": 28,
-            "label": "Dokumentlebenszyklusmanagement [de]",
+            "label": "Dokumentlebenszyklusmanagement\n[de]",
             "value": 9
         },
         {
             "id": 29,
-            "label": "Business Process Modeling Language [de]",
+            "label": "Business Process\nModeling Language\n[de]",
             "value": 1
         },
         {
             "id": 30,
-            "label": "Verband Organisations- und Informationssysteme [de]",
+            "label": "Verband Organisations-\nund Informationssysteme\n[de]",
             "value": 9
         },
         {
             "id": 31,
-            "label": "Attributzertifikat [de]",
+            "label": "Attributzertifikat\n[de]",
             "value": 1
         },
         {
             "id": 32,
-            "label": "Produktdatenmanagement [de]",
+            "label": "Produktdatenmanagement\n[de]",
             "value": 12
         },
         {
             "id": 33,
-            "label": "Demontageplanung und -steuerung [de]",
+            "label": "Demontageplanung\nund -steuerung\n[de]",
             "value": 1
         },
         {
             "id": 34,
-            "label": "European Research Center for Information Systems [de]",
+            "label": "European Research\nCenter for\nInformation\nSystems [de]",
             "value": 1
         },
         {
             "id": 35,
-            "label": "Workgroup Computing [de]",
+            "label": "Workgroup Computing\n[de]",
             "value": 3
         },
         {
             "id": 36,
-            "label": "Initiative D21 [de]",
+            "label": "Initiative\nD21 [de]",
             "value": 1
         },
         {
             "id": 37,
-            "label": "Virtueller Marktplatz [de]",
+            "label": "Virtueller\nMarktplatz\n[de]",
             "value": 1
         },
         {
@@ -192,7 +192,7 @@
         },
         {
             "id": 39,
-            "label": "Kontextdiagramm [de]",
+            "label": "Kontextdiagramm\n[de]",
             "value": 1
         },
         {
@@ -202,12 +202,12 @@
         },
         {
             "id": 41,
-            "label": "Kleinstbetrag [de]",
+            "label": "Kleinstbetrag\n[de]",
             "value": 2
         },
         {
             "id": 42,
-            "label": "Micropayment [de]",
+            "label": "Micropayment\n[de]",
             "value": 2
         },
         {
@@ -217,157 +217,157 @@
         },
         {
             "id": 44,
-            "label": "Interorganisationssystem [de]",
+            "label": "Interorganisationssystem\n[de]",
             "value": 2
         },
         {
             "id": 45,
-            "label": "Rechnungskreis [de]",
+            "label": "Rechnungskreis\n[de]",
             "value": 1
         },
         {
             "id": 46,
-            "label": "Computer-Aided Facility Management [de]",
+            "label": "Computer-Aided\nFacility Management\n[de]",
             "value": 1
         },
         {
             "id": 47,
-            "label": "Workflow Management Coalition [de]",
+            "label": "Workflow Management\nCoalition [de]",
             "value": 4
         },
         {
             "id": 48,
-            "label": "Workflow Reference Model [de]",
+            "label": "Workflow Reference\nModel [de]",
             "value": 1
         },
         {
             "id": 49,
-            "label": "Universal Business Language [de]",
+            "label": "Universal Business\nLanguage [de]",
             "value": 1
         },
         {
             "id": 50,
-            "label": "Information Retrieval [de]",
+            "label": "Information\nRetrieval [de]",
             "value": 8
         },
         {
             "id": 51,
-            "label": "Produktinformationsmanagement [de]",
+            "label": "Produktinformationsmanagement\n[de]",
             "value": 5
         },
         {
             "id": 52,
-            "label": "Online Transaction Processing [de]",
+            "label": "Online Transaction\nProcessing\n[de]",
             "value": 3
         },
         {
             "id": 53,
-            "label": "Information Engineering [de]",
+            "label": "Information\nEngineering\n[de]",
             "value": 1
         },
         {
             "id": 54,
-            "label": "Individuelle Datenverarbeitung [de]",
+            "label": "Individuelle\nDatenverarbeitung\n[de]",
             "value": 1
         },
         {
             "id": 55,
-            "label": "Business-Rule-Engine [de]",
+            "label": "Business-Rule-\nEngine [de]",
             "value": 1
         },
         {
             "id": 56,
-            "label": "Conversion-Tracking [de]",
+            "label": "Conversion-\nTracking [de]",
             "value": 1
         },
         {
             "id": 57,
-            "label": "Metamodell [de]",
+            "label": "Metamodell\n[de]",
             "value": 2
         },
         {
             "id": 58,
-            "label": "Enhanced Telecom Operations Map [de]",
+            "label": "Enhanced Telecom\nOperations\nMap [de]",
             "value": 1
         },
         {
             "id": 59,
-            "label": "Handelsinformationssystem [de]",
+            "label": "Handelsinformationssystem\n[de]",
             "value": 2
         },
         {
             "id": 60,
-            "label": "Y-CIM-Modell [de]",
+            "label": "Y-CIM-Modell\n[de]",
             "value": 4
         },
         {
             "id": 61,
-            "label": "Administrationssystem [de]",
+            "label": "Administrationssystem\n[de]",
             "value": 5
         },
         {
             "id": 62,
-            "label": "Dispositionssystem [de]",
+            "label": "Dispositionssystem\n[de]",
             "value": 8
         },
         {
             "id": 63,
-            "label": "Proficlass [de]",
+            "label": "Proficlass\n[de]",
             "value": 2
         },
         {
             "id": 64,
-            "label": "Produktkonfigurator [de]",
+            "label": "Produktkonfigurator\n[de]",
             "value": 4
         },
         {
             "id": 65,
-            "label": "Enterprise-Resource-Planning [de]",
+            "label": "Enterprise-\nResource-Planning\n[de]",
             "value": 28
         },
         {
             "id": 66,
-            "label": "Ordnungsrahmen [de]",
+            "label": "Ordnungsrahmen\n[de]",
             "value": 6
         },
         {
             "id": 67,
-            "label": "Zachman Framework [de]",
+            "label": "Zachman Framework\n[de]",
             "value": 5
         },
         {
             "id": 68,
-            "label": "Output Management [de]",
+            "label": "Output Management\n[de]",
             "value": 6
         },
         {
             "id": 69,
-            "label": "Unternehmensdaten [de]",
+            "label": "Unternehmensdaten\n[de]",
             "value": 5
         },
         {
             "id": 70,
-            "label": "Modell (Wirtschaftsinformatik) [de]",
+            "label": "Modell (Wirtschaftsinformatik)\n[de]",
             "value": 5
         },
         {
             "id": 71,
-            "label": "Product-Lifecycle-Management [de]",
+            "label": "Product-Lifecycle-\nManagement\n[de]",
             "value": 4
         },
         {
             "id": 72,
-            "label": "Very Large Business Applications [de]",
+            "label": "Very Large\nBusiness Applications\n[de]",
             "value": 1
         },
         {
             "id": 73,
-            "label": "Mobiler Geschäftsprozess [de]",
+            "label": "Mobiler Geschäftsprozess\n[de]",
             "value": 1
         },
         {
             "id": 74,
-            "label": "Business To Manufacturing Markup Language [de]",
+            "label": "Business To\nManufacturing\nMarkup Language\n[de]",
             "value": 1
         },
         {
@@ -377,92 +377,92 @@
         },
         {
             "id": 76,
-            "label": "Teleservice [de]",
+            "label": "Teleservice\n[de]",
             "value": 2
         },
         {
             "id": 77,
-            "label": "Remote Service [de]",
+            "label": "Remote Service\n[de]",
             "value": 1
         },
         {
             "id": 78,
-            "label": "Open Building Information Exchange [de]",
+            "label": "Open Building\nInformation\nExchange [de]",
             "value": 1
         },
         {
             "id": 79,
-            "label": "Semantisches Objektmodell [de]",
+            "label": "Semantisches\nObjektmodell\n[de]",
             "value": 6
         },
         {
             "id": 80,
-            "label": "Virtual Global University [de]",
+            "label": "Virtual Global\nUniversity\n[de]",
             "value": 1
         },
         {
             "id": 81,
-            "label": "Business Process Discovery [de]",
+            "label": "Business Process\nDiscovery [de]",
             "value": 1
         },
         {
             "id": 82,
-            "label": "Funktionszuordnungsdiagramm [de]",
+            "label": "Funktionszuordnungsdiagramm\n[de]",
             "value": 8
         },
         {
             "id": 83,
-            "label": "Vorgangskettendiagramm [de]",
+            "label": "Vorgangskettendiagramm\n[de]",
             "value": 7
         },
         {
             "id": 84,
-            "label": "Elektronische Archivierung [de]",
+            "label": "Elektronische\nArchivierung\n[de]",
             "value": 21
         },
         {
             "id": 85,
-            "label": "Führungsinformationssystem (Wirtschaft) [de]",
+            "label": "Führungsinformationssystem\n(Wirtschaft)\n[de]",
             "value": 5
         },
         {
             "id": 86,
-            "label": "Iteratives Prozess-Prototyping [de]",
+            "label": "Iteratives\nProzess-Prototyping\n[de]",
             "value": 1
         },
         {
             "id": 87,
-            "label": "Prozesskostenrechnung [de]",
+            "label": "Prozesskostenrechnung\n[de]",
             "value": 7
         },
         {
             "id": 88,
-            "label": "Enterprise-Content-Management [de]",
+            "label": "Enterprise-\nContent-Management\n[de]",
             "value": 12
         },
         {
             "id": 89,
-            "label": "Digital-Asset-Management [de]",
+            "label": "Digital-Asset-\nManagement\n[de]",
             "value": 3
         },
         {
             "id": 90,
-            "label": "Intranetportal [de]",
+            "label": "Intranetportal\n[de]",
             "value": 4
         },
         {
             "id": 91,
-            "label": "Prozessportal [de]",
+            "label": "Prozessportal\n[de]",
             "value": 1
         },
         {
             "id": 92,
-            "label": "Stammdaten [de]",
+            "label": "Stammdaten\n[de]",
             "value": 8
         },
         {
             "id": 93,
-            "label": "Computer Supported Cooperative Work [de]",
+            "label": "Computer Supported\nCooperative\nWork [de]",
             "value": 9
         },
         {
@@ -472,17 +472,17 @@
         },
         {
             "id": 95,
-            "label": "Unternehmensarchitektur [de]",
+            "label": "Unternehmensarchitektur\n[de]",
             "value": 11
         },
         {
             "id": 96,
-            "label": "Earned Value Analysis [de]",
+            "label": "Earned Value\nAnalysis [de]",
             "value": 1
         },
         {
             "id": 97,
-            "label": "Input Management [de]",
+            "label": "Input Management\n[de]",
             "value": 2
         },
         {
@@ -492,12 +492,12 @@
         },
         {
             "id": 99,
-            "label": "Industrieminute [de]",
+            "label": "Industrieminute\n[de]",
             "value": 1
         },
         {
             "id": 100,
-            "label": "Service Engineering [de]",
+            "label": "Service Engineering\n[de]",
             "value": 1
         },
         {
@@ -507,87 +507,87 @@
         },
         {
             "id": 102,
-            "label": "Informationslebenszyklusmanagement [de]",
+            "label": "Informationslebenszyklusmanagement\n[de]",
             "value": 7
         },
         {
             "id": 103,
-            "label": "PPS-System [de]",
+            "label": "PPS-System\n[de]",
             "value": 8
         },
         {
             "id": 104,
-            "label": "Unternehmensweite Datenqualität [de]",
+            "label": "Unternehmensweite\nDatenqualität\n[de]",
             "value": 1
         },
         {
             "id": 105,
-            "label": "Modifiable off-the-shelf [de]",
+            "label": "Modifiable\noff-the-shelf\n[de]",
             "value": 2
         },
         {
             "id": 106,
-            "label": "Microsoft Identity Integration Server [de]",
+            "label": "Microsoft Identity\nIntegration\nServer [de]",
             "value": 2
         },
         {
             "id": 107,
-            "label": "Enterprise Search [de]",
+            "label": "Enterprise\nSearch [de]",
             "value": 1
         },
         {
             "id": 108,
-            "label": "Enterprise-Content-Management-System [de]",
+            "label": "Enterprise-\nContent-Management-\nSystem [de]",
             "value": 18
         },
         {
             "id": 109,
-            "label": "Quote to order [de]",
+            "label": "Quote to order\n[de]",
             "value": 1
         },
         {
             "id": 110,
-            "label": "Boundary object [de]",
+            "label": "Boundary object\n[de]",
             "value": 1
         },
         {
             "id": 111,
-            "label": "Pegging (Wirtschaftsinformatik) [de]",
+            "label": "Pegging (Wirtschaftsinformatik)\n[de]",
             "value": 1
         },
         {
             "id": 112,
-            "label": "Commercial off-the-shelf [de]",
+            "label": "Commercial\noff-the-shelf\n[de]",
             "value": 2
         },
         {
             "id": 113,
-            "label": "Verzeichnisdienst [de]",
+            "label": "Verzeichnisdienst\n[de]",
             "value": 5
         },
         {
             "id": 114,
-            "label": "Datenträgeraustauschverfahren [de]",
+            "label": "Datenträgeraustauschverfahren\n[de]",
             "value": 1
         },
         {
             "id": 115,
-            "label": "Business Process Reengineering [de]",
+            "label": "Business Process\nReengineering\n[de]",
             "value": 6
         },
         {
             "id": 116,
-            "label": "Stückliste [de]",
+            "label": "Stückliste\n[de]",
             "value": 13
         },
         {
             "id": 117,
-            "label": "Electronic Markets [de]",
+            "label": "Electronic\nMarkets [de]",
             "value": 1
         },
         {
             "id": 118,
-            "label": "Business & Information Systems Engineering [de]",
+            "label": "Business &\nInformation\nSystems Engineering\n[de]",
             "value": 1
         },
         {
@@ -597,37 +597,37 @@
         },
         {
             "id": 120,
-            "label": "Portal (Informatik) [de]",
+            "label": "Portal (Informatik)\n[de]",
             "value": 11
         },
         {
             "id": 121,
-            "label": "Geschäftsprozessmodellierung [de]",
+            "label": "Geschäftsprozessmodellierung\n[de]",
             "value": 15
         },
         {
             "id": 122,
-            "label": "Prozessmanagement [de]",
+            "label": "Prozessmanagement\n[de]",
             "value": 14
         },
         {
             "id": 123,
-            "label": "Vorgangsbearbeitung [de]",
+            "label": "Vorgangsbearbeitung\n[de]",
             "value": 3
         },
         {
             "id": 124,
-            "label": "Project Scorecard [de]",
+            "label": "Project Scorecard\n[de]",
             "value": 1
         },
         {
             "id": 125,
-            "label": "Mobiler Kundendienst [de]",
+            "label": "Mobiler Kundendienst\n[de]",
             "value": 1
         },
         {
             "id": 126,
-            "label": "Office Excellence [de]",
+            "label": "Office Excellence\n[de]",
             "value": 1
         },
         {
@@ -637,42 +637,42 @@
         },
         {
             "id": 128,
-            "label": "Dateneigner [de]",
+            "label": "Dateneigner\n[de]",
             "value": 1
         },
         {
             "id": 129,
-            "label": "Flottenmanagement [de]",
+            "label": "Flottenmanagement\n[de]",
             "value": 1
         },
         {
             "id": 130,
-            "label": "Verband der Wirtschaftsinformatik [de]",
+            "label": "Verband der\nWirtschaftsinformatik\n[de]",
             "value": 1
         },
         {
             "id": 131,
-            "label": "Business Engineering [de]",
+            "label": "Business Engineering\n[de]",
             "value": 2
         },
         {
             "id": 132,
-            "label": "Online-Brief [de]",
+            "label": "Online-Brief\n[de]",
             "value": 1
         },
         {
             "id": 133,
-            "label": "Supply Chain Event Management [de]",
+            "label": "Supply Chain\nEvent Management\n[de]",
             "value": 1
         },
         {
             "id": 134,
-            "label": "Total-Quality-Management [de]",
+            "label": "Total-Quality-\nManagement\n[de]",
             "value": 5
         },
         {
             "id": 135,
-            "label": "Unstrukturierte Daten [de]",
+            "label": "Unstrukturierte\nDaten [de]",
             "value": 4
         },
         {
@@ -682,27 +682,27 @@
         },
         {
             "id": 137,
-            "label": "Planungssystem [de]",
+            "label": "Planungssystem\n[de]",
             "value": 7
         },
         {
             "id": 138,
-            "label": "Kontrollsystem [de]",
+            "label": "Kontrollsystem\n[de]",
             "value": 6
         },
         {
             "id": 139,
-            "label": "Operatives System [de]",
+            "label": "Operatives\nSystem [de]",
             "value": 4
         },
         {
             "id": 140,
-            "label": "Themenentdeckung und -verfolgung [de]",
+            "label": "Themenentdeckung\nund -verfolgung\n[de]",
             "value": 1
         },
         {
             "id": 141,
-            "label": "Software-Industrie [de]",
+            "label": "Software-Industrie\n[de]",
             "value": 3
         },
         {
@@ -712,67 +712,67 @@
         },
         {
             "id": 143,
-            "label": "Engpasskonzentrierte Strategie [de]",
+            "label": "Engpasskonzentrierte\nStrategie [de]",
             "value": 1
         },
         {
             "id": 144,
-            "label": "Standardisierungsproblem [de]",
+            "label": "Standardisierungsproblem\n[de]",
             "value": 2
         },
         {
             "id": 145,
-            "label": "Simulationsdatenmanagement [de]",
+            "label": "Simulationsdatenmanagement\n[de]",
             "value": 1
         },
         {
             "id": 146,
-            "label": "Produktivitätsparadoxon [de]",
+            "label": "Produktivitätsparadoxon\n[de]",
             "value": 1
         },
         {
             "id": 147,
-            "label": "Enterprise Architecture Management Maturity Framework [de]",
+            "label": "Enterprise\nArchitecture\nManagement\nMaturity Framework\n[de]",
             "value": 3
         },
         {
             "id": 148,
-            "label": "Wertschöpfungskettendiagramm [de]",
+            "label": "Wertschöpfungskettendiagramm\n[de]",
             "value": 10
         },
         {
             "id": 149,
-            "label": "Mandantenfähigkeit [de]",
+            "label": "Mandantenfähigkeit\n[de]",
             "value": 2
         },
         {
             "id": 150,
-            "label": "Internet Business Cluster [de]",
+            "label": "Internet Business\nCluster [de]",
             "value": 1
         },
         {
             "id": 151,
-            "label": "Internetökonomie [de]",
+            "label": "Internetökonomie\n[de]",
             "value": 4
         },
         {
             "id": 152,
-            "label": "Tradex Technologies [de]",
+            "label": "Tradex Technologies\n[de]",
             "value": 1
         },
         {
             "id": 153,
-            "label": "HMD Praxis der Wirtschaftsinformatik [de]",
+            "label": "HMD Praxis\nder Wirtschaftsinformatik\n[de]",
             "value": 1
         },
         {
             "id": 154,
-            "label": "NetIQ eDirectory [de]",
+            "label": "NetIQ eDirectory\n[de]",
             "value": 1
         },
         {
             "id": 155,
-            "label": "Kollaboratives Filtern [de]",
+            "label": "Kollaboratives\nFiltern [de]",
             "value": 1
         },
         {
@@ -787,42 +787,42 @@
         },
         {
             "id": 158,
-            "label": "Gesellschaft für Organisation [de]",
+            "label": "Gesellschaft\nfür Organisation\n[de]",
             "value": 2
         },
         {
             "id": 159,
-            "label": "Unternehmensabbildung [de]",
+            "label": "Unternehmensabbildung\n[de]",
             "value": 6
         },
         {
             "id": 160,
-            "label": "Betriebswirtschaftliches Institut für Organisation und Automation [de]",
+            "label": "Betriebswirtschaftliches\nInstitut für\nOrganisation\nund Automation\n[de]",
             "value": 1
         },
         {
             "id": 161,
-            "label": "T-Commerce [de]",
+            "label": "T-Commerce\n[de]",
             "value": 3
         },
         {
             "id": 162,
-            "label": "Technology Acceptance Model [de]",
+            "label": "Technology\nAcceptance\nModel [de]",
             "value": 1
         },
         {
             "id": 163,
-            "label": "Enterprise Manufacturing Intelligence [de]",
+            "label": "Enterprise\nManufacturing\nIntelligence\n[de]",
             "value": 1
         },
         {
             "id": 164,
-            "label": "Customer-Relationship-Management [de]",
+            "label": "Customer-Relationship-\nManagement\n[de]",
             "value": 18
         },
         {
             "id": 165,
-            "label": "Social CRM [de]",
+            "label": "Social CRM\n[de]",
             "value": 2
         },
         {
@@ -832,97 +832,97 @@
         },
         {
             "id": 167,
-            "label": "Dokumentenretrieval [de]",
+            "label": "Dokumentenretrieval\n[de]",
             "value": 2
         },
         {
             "id": 168,
-            "label": "Process-Mining [de]",
+            "label": "Process-Mining\n[de]",
             "value": 3
         },
         {
             "id": 169,
-            "label": "Workflow-Management-System [de]",
+            "label": "Workflow-Management-\nSystem [de]",
             "value": 10
         },
         {
             "id": 170,
-            "label": "Department of Defense Joint Technical Architecture [de]",
+            "label": "Department\nof Defense\nJoint Technical\nArchitecture\n[de]",
             "value": 2
         },
         {
             "id": 171,
-            "label": "US Federal Enterprise Architecture Framework [de]",
+            "label": "US Federal\nEnterprise\nArchitecture\nFramework [de]",
             "value": 1
         },
         {
             "id": 172,
-            "label": "Zählpunkt (Logistik) [de]",
+            "label": "Zählpunkt (Logistik)\n[de]",
             "value": 1
         },
         {
             "id": 173,
-            "label": "Produktionsprogramm [de]",
+            "label": "Produktionsprogramm\n[de]",
             "value": 6
         },
         {
             "id": 174,
-            "label": "Variantenbaum [de]",
+            "label": "Variantenbaum\n[de]",
             "value": 1
         },
         {
             "id": 175,
-            "label": "Mass Customization [de]",
+            "label": "Mass Customization\n[de]",
             "value": 5
         },
         {
             "id": 176,
-            "label": "Produktionsplan [de]",
+            "label": "Produktionsplan\n[de]",
             "value": 2
         },
         {
             "id": 177,
-            "label": "OMB Enterprise Architecture Assessment Framework [de]",
+            "label": "OMB Enterprise\nArchitecture\nAssessment\nFramework [de]",
             "value": 2
         },
         {
             "id": 178,
-            "label": "Media@Komm [de]",
+            "label": "Media@Komm\n[de]",
             "value": 1
         },
         {
             "id": 179,
-            "label": "Visuelle Sprache [de]",
+            "label": "Visuelle Sprache\n[de]",
             "value": 1
         },
         {
             "id": 180,
-            "label": "Unternehmensinformatik [de]",
+            "label": "Unternehmensinformatik\n[de]",
             "value": 1
         },
         {
             "id": 181,
-            "label": "Integrierte Organisations- und Technikentwicklung [de]",
+            "label": "Integrierte\nOrganisations-\nund Technikentwicklung\n[de]",
             "value": 1
         },
         {
             "id": 182,
-            "label": "Collaboration Engineering [de]",
+            "label": "Collaboration\nEngineering\n[de]",
             "value": 2
         },
         {
             "id": 183,
-            "label": "Web Dynpro [de]",
+            "label": "Web Dynpro\n[de]",
             "value": 1
         },
         {
             "id": 184,
-            "label": "Datenmapping [de]",
+            "label": "Datenmapping\n[de]",
             "value": 1
         },
         {
             "id": 185,
-            "label": "Comindware Tracker [de]",
+            "label": "Comindware\nTracker [de]",
             "value": 4
         },
         {
@@ -932,52 +932,52 @@
         },
         {
             "id": 187,
-            "label": "Dokumenterzeugung [de]",
+            "label": "Dokumenterzeugung\n[de]",
             "value": 1
         },
         {
             "id": 188,
-            "label": "Elektronische Zustellung [de]",
+            "label": "Elektronische\nZustellung\n[de]",
             "value": 2
         },
         {
             "id": 189,
-            "label": "Quality Engineering [de]",
+            "label": "Quality Engineering\n[de]",
             "value": 1
         },
         {
             "id": 190,
-            "label": "Supply-Chain-Management-Software [de]",
+            "label": "Supply-Chain-\nManagement-\nSoftware [de]",
             "value": 2
         },
         {
             "id": 191,
-            "label": "Certified Financial Engineer [de]",
+            "label": "Certified Financial\nEngineer [de]",
             "value": 1
         },
         {
             "id": 192,
-            "label": "Trade Relationship Management [de]",
+            "label": "Trade Relationship\nManagement\n[de]",
             "value": 1
         },
         {
             "id": 193,
-            "label": "ISO/IEC 27002 [de]",
+            "label": "ISO/IEC 27002\n[de]",
             "value": 1
         },
         {
             "id": 194,
-            "label": "AristaFlow [de]",
+            "label": "AristaFlow\n[de]",
             "value": 3
         },
         {
             "id": 195,
-            "label": "Enterprise Information Management [de]",
+            "label": "Enterprise\nInformation\nManagement\n[de]",
             "value": 2
         },
         {
             "id": 196,
-            "label": "Standard for the exchange of product model data [de]",
+            "label": "Standard for\nthe exchange\nof product\nmodel data\n[de]",
             "value": 3
         },
         {
@@ -987,32 +987,32 @@
         },
         {
             "id": 198,
-            "label": "Organigramm [de]",
+            "label": "Organigramm\n[de]",
             "value": 6
         },
         {
             "id": 199,
-            "label": "Informationskosten [de]",
+            "label": "Informationskosten\n[de]",
             "value": 3
         },
         {
             "id": 200,
-            "label": "Digital Workplace [de]",
+            "label": "Digital Workplace\n[de]",
             "value": 2
         },
         {
             "id": 201,
-            "label": "Social Intranet [de]",
+            "label": "Social Intranet\n[de]",
             "value": 1
         },
         {
             "id": 202,
-            "label": "Informationswirtschaft (Studiengang) [de]",
+            "label": "Informationswirtschaft\n(Studiengang)\n[de]",
             "value": 1
         },
         {
             "id": 203,
-            "label": "Digitaler Finanzbericht [de]",
+            "label": "Digitaler Finanzbericht\n[de]",
             "value": 1
         },
         {
@@ -1022,47 +1022,47 @@
         },
         {
             "id": 205,
-            "label": "Database Marketing [de]",
+            "label": "Database Marketing\n[de]",
             "value": 1
         },
         {
             "id": 206,
-            "label": "Computer Aided Selling [de]",
+            "label": "Computer Aided\nSelling [de]",
             "value": 1
         },
         {
             "id": 207,
-            "label": "Business Intelligence [de]",
+            "label": "Business Intelligence\n[de]",
             "value": 13
         },
         {
             "id": 208,
-            "label": "Informationsdefizit [de]",
+            "label": "Informationsdefizit\n[de]",
             "value": 1
         },
         {
             "id": 209,
-            "label": "Wissensmanagementsystem [de]",
+            "label": "Wissensmanagementsystem\n[de]",
             "value": 1
         },
         {
             "id": 210,
-            "label": "Technology Business Management [de]",
+            "label": "Technology\nBusiness Management\n[de]",
             "value": 1
         },
         {
             "id": 211,
-            "label": "Montagelinie [de]",
+            "label": "Montagelinie\n[de]",
             "value": 4
         },
         {
             "id": 212,
-            "label": "Management-Informationssystem [de]",
+            "label": "Management-\nInformationssystem\n[de]",
             "value": 2
         },
         {
             "id": 213,
-            "label": "E-Logistik [de]",
+            "label": "E-Logistik\n[de]",
             "value": 1
         },
         {
@@ -1082,7 +1082,7 @@
         },
         {
             "id": 217,
-            "label": "Infrastruktur-Daten-Management für Verkehrsunternehmen [de]",
+            "label": "Infrastruktur-\nDaten-Management\nfür Verkehrsunternehmen\n[de]",
             "value": 1
         },
         {
@@ -1092,12 +1092,12 @@
         },
         {
             "id": 219,
-            "label": "Verbraucherinformatik [de]",
+            "label": "Verbraucherinformatik\n[de]",
             "value": 1
         },
         {
             "id": 220,
-            "label": "WISS Schulen für Wirtschaft Informatik Immobilien [de]",
+            "label": "WISS Schulen\nfür Wirtschaft\nInformatik\nImmobilien\n[de]",
             "value": 1
         },
         {
@@ -1117,167 +1117,167 @@
         },
         {
             "id": 224,
-            "label": "Case Management Model and Notation [de]",
+            "label": "Case Management\nModel and Notation\n[de]",
             "value": 1
         },
         {
             "id": 225,
-            "label": "Electronic Mobility [de]",
+            "label": "Electronic\nMobility [de]",
             "value": 1
         },
         {
             "id": 226,
-            "label": "Consumerization [de]",
+            "label": "Consumerization\n[de]",
             "value": 3
         },
         {
             "id": 227,
-            "label": "ERP Management [de]",
+            "label": "ERP Management\n[de]",
             "value": 1
         },
         {
             "id": 228,
-            "label": "European Research Center for Information Systems [en]",
+            "label": "European Research\nCenter for\nInformation\nSystems [en]",
             "value": 1
         },
         {
             "id": 229,
-            "label": "Connectionist expert system [en]",
+            "label": "Connectionist\nexpert system\n[en]",
             "value": 1
         },
         {
             "id": 230,
-            "label": "Policy appliances [en]",
+            "label": "Policy appliances\n[en]",
             "value": 1
         },
         {
             "id": 231,
-            "label": "Preference elicitation [en]",
+            "label": "Preference\nelicitation\n[en]",
             "value": 8
         },
         {
             "id": 232,
-            "label": "Risk management information systems [en]",
+            "label": "Risk management\ninformation\nsystems [en]",
             "value": 1
         },
         {
             "id": 233,
-            "label": "Event stream processing [en]",
+            "label": "Event stream\nprocessing\n[en]",
             "value": 3
         },
         {
             "id": 234,
-            "label": "Formative context [en]",
+            "label": "Formative context\n[en]",
             "value": 3
         },
         {
             "id": 235,
-            "label": "Joint application design [en]",
+            "label": "Joint application\ndesign [en]",
             "value": 1
         },
         {
             "id": 236,
-            "label": "Modeling perspective [en]",
+            "label": "Modeling perspective\n[en]",
             "value": 1
         },
         {
             "id": 237,
-            "label": "Master of Business Informatics [en]",
+            "label": "Master of Business\nInformatics\n[en]",
             "value": 2
         },
         {
             "id": 238,
-            "label": "Accounting information system [en]",
+            "label": "Accounting\ninformation\nsystem [en]",
             "value": 2
         },
         {
             "id": 239,
-            "label": "System of record [en]",
+            "label": "System of record\n[en]",
             "value": 1
         },
         {
             "id": 240,
-            "label": "Information filtering system [en]",
+            "label": "Information\nfiltering system\n[en]",
             "value": 2
         },
         {
             "id": 241,
-            "label": "Big bang adoption [en]",
+            "label": "Big bang adoption\n[en]",
             "value": 2
         },
         {
             "id": 242,
-            "label": "Phased adoption [en]",
+            "label": "Phased adoption\n[en]",
             "value": 6
         },
         {
             "id": 243,
-            "label": "Parallel adoption [en]",
+            "label": "Parallel adoption\n[en]",
             "value": 5
         },
         {
             "id": 244,
-            "label": "Complex event processing [en]",
+            "label": "Complex event\nprocessing\n[en]",
             "value": 5
         },
         {
             "id": 245,
-            "label": "Information engineering [en]",
+            "label": "Information\nengineering\n[en]",
             "value": 2
         },
         {
             "id": 246,
-            "label": "OSCAR railway costing [en]",
+            "label": "OSCAR railway\ncosting [en]",
             "value": 1
         },
         {
             "id": 247,
-            "label": "Railway costing [en]",
+            "label": "Railway costing\n[en]",
             "value": 2
         },
         {
             "id": 248,
-            "label": "Enterprise information access [en]",
+            "label": "Enterprise\ninformation\naccess [en]",
             "value": 1
         },
         {
             "id": 249,
-            "label": "Electronic Case Filing System [en]",
+            "label": "Electronic\nCase Filing\nSystem [en]",
             "value": 1
         },
         {
             "id": 250,
-            "label": "Vehicle Information and Communication System [en]",
+            "label": "Vehicle Information\nand Communication\nSystem [en]",
             "value": 6
         },
         {
             "id": 251,
-            "label": "Information Systems Security Association [en]",
+            "label": "Information\nSystems Security\nAssociation\n[en]",
             "value": 1
         },
         {
             "id": 252,
-            "label": "Transaction processing system [en]",
+            "label": "Transaction\nprocessing\nsystem [en]",
             "value": 3
         },
         {
             "id": 253,
-            "label": "Transport standards organisations [en]",
+            "label": "Transport standards\norganisations\n[en]",
             "value": 1
         },
         {
             "id": 254,
-            "label": "Joint Interface Control Officer [en]",
+            "label": "Joint Interface\nControl Officer\n[en]",
             "value": 1
         },
         {
             "id": 255,
-            "label": "Cold start (recommender systems) [en]",
+            "label": "Cold start\n(recommender\nsystems) [en]",
             "value": 9
         },
         {
             "id": 256,
-            "label": "Joint Regional Information Exchange System [en]",
+            "label": "Joint Regional\nInformation\nExchange System\n[en]",
             "value": 2
         },
         {
@@ -1287,37 +1287,37 @@
         },
         {
             "id": 258,
-            "label": "Document engineering [en]",
+            "label": "Document engineering\n[en]",
             "value": 1
         },
         {
             "id": 259,
-            "label": "Spatial decision support system [en]",
+            "label": "Spatial decision\nsupport system\n[en]",
             "value": 2
         },
         {
             "id": 260,
-            "label": "Geographical Operations System [en]",
+            "label": "Geographical\nOperations\nSystem [en]",
             "value": 1
         },
         {
             "id": 261,
-            "label": "Integrated criminal justice information system [en]",
+            "label": "Integrated\ncriminal justice\ninformation\nsystem [en]",
             "value": 1
         },
         {
             "id": 262,
-            "label": "Identity correlation [en]",
+            "label": "Identity correlation\n[en]",
             "value": 1
         },
         {
             "id": 263,
-            "label": "Information Processes and Technology [en]",
+            "label": "Information\nProcesses and\nTechnology\n[en]",
             "value": 1
         },
         {
             "id": 264,
-            "label": "Issue-based information system [en]",
+            "label": "Issue-based\ninformation\nsystem [en]",
             "value": 1
         },
         {
@@ -1327,32 +1327,32 @@
         },
         {
             "id": 266,
-            "label": "Adoption (software implementation) [en]",
+            "label": "Adoption (software\nimplementation)\n[en]",
             "value": 7
         },
         {
             "id": 267,
-            "label": "Process development execution system [en]",
+            "label": "Process development\nexecution system\n[en]",
             "value": 4
         },
         {
             "id": 268,
-            "label": "Manufacturing execution system [en]",
+            "label": "Manufacturing\nexecution system\n[en]",
             "value": 2
         },
         {
             "id": 269,
-            "label": "Laws of information systems [en]",
+            "label": "Laws of information\nsystems [en]",
             "value": 1
         },
         {
             "id": 270,
-            "label": "Marine Life Information Network [en]",
+            "label": "Marine Life\nInformation\nNetwork [en]",
             "value": 1
         },
         {
             "id": 271,
-            "label": "Information silo [en]",
+            "label": "Information\nsilo [en]",
             "value": 5
         },
         {
@@ -1362,77 +1362,77 @@
         },
         {
             "id": 273,
-            "label": "Control-flow diagram [en]",
+            "label": "Control-flow\ndiagram [en]",
             "value": 2
         },
         {
             "id": 274,
-            "label": "Personal knowledge management [en]",
+            "label": "Personal knowledge\nmanagement\n[en]",
             "value": 4
         },
         {
             "id": 275,
-            "label": "Information processor [en]",
+            "label": "Information\nprocessor [en]",
             "value": 5
         },
         {
             "id": 276,
-            "label": "Digital ecosystem [en]",
+            "label": "Digital ecosystem\n[en]",
             "value": 1
         },
         {
             "id": 277,
-            "label": "Local information systems [en]",
+            "label": "Local information\nsystems [en]",
             "value": 1
         },
         {
             "id": 278,
-            "label": "Reason maintenance [en]",
+            "label": "Reason maintenance\n[en]",
             "value": 1
         },
         {
             "id": 279,
-            "label": "Data system [en]",
+            "label": "Data system\n[en]",
             "value": 2
         },
         {
             "id": 280,
-            "label": "Business activity monitoring [en]",
+            "label": "Business activity\nmonitoring\n[en]",
             "value": 3
         },
         {
             "id": 281,
-            "label": "Laboratory information management system [en]",
+            "label": "Laboratory\ninformation\nmanagement\nsystem [en]",
             "value": 9
         },
         {
             "id": 282,
-            "label": "Semantic broker [en]",
+            "label": "Semantic broker\n[en]",
             "value": 4
         },
         {
             "id": 283,
-            "label": "System Wide Information Management [en]",
+            "label": "System Wide\nInformation\nManagement\n[en]",
             "value": 1
         },
         {
             "id": 284,
-            "label": "Virtual USA [en]",
+            "label": "Virtual USA\n[en]",
             "value": 1
         },
         {
             "id": 285,
-            "label": "MIS Quarterly Executive [en]",
+            "label": "MIS Quarterly\nExecutive [en]",
             "value": 2
         },
         {
             "id": 286,
-            "label": "Intelligent decision support system [en]",
+            "label": "Intelligent\ndecision support\nsystem [en]",
             "value": 2
         },
         {
             "id": 287,
-            "label": "Dynamic Business Modeling [en]",
+            "label": "Dynamic Business\nModeling [en]",
             "value": 1
         },
         {
@@ -1442,52 +1442,52 @@
         },
         {
             "id": 289,
-            "label": "Clinical decision support system [en]",
+            "label": "Clinical decision\nsupport system\n[en]",
             "value": 4
         },
         {
             "id": 290,
-            "label": "VAT Information Exchange System [en]",
+            "label": "VAT Information\nExchange System\n[en]",
             "value": 1
         },
         {
             "id": 291,
-            "label": "Global information system [en]",
+            "label": "Global information\nsystem [en]",
             "value": 3
         },
         {
             "id": 292,
-            "label": "Diablo Data Systems [en]",
+            "label": "Diablo Data\nSystems [en]",
             "value": 1
         },
         {
             "id": 293,
-            "label": "Field force automation [en]",
+            "label": "Field force\nautomation\n[en]",
             "value": 2
         },
         {
             "id": 294,
-            "label": "Business & Information Systems Engineering [en]",
+            "label": "Business &\nInformation\nSystems Engineering\n[en]",
             "value": 3
         },
         {
             "id": 295,
-            "label": "Social Study of Information Systems [en]",
+            "label": "Social Study\nof Information\nSystems [en]",
             "value": 2
         },
         {
             "id": 296,
-            "label": "FAO Country Profiles [en]",
+            "label": "FAO Country\nProfiles [en]",
             "value": 1
         },
         {
             "id": 297,
-            "label": "Proactive information delivery [en]",
+            "label": "Proactive information\ndelivery [en]",
             "value": 1
         },
         {
             "id": 298,
-            "label": "Expert systems for mortgages [en]",
+            "label": "Expert systems\nfor mortgages\n[en]",
             "value": 2
         },
         {
@@ -1497,12 +1497,12 @@
         },
         {
             "id": 300,
-            "label": "UK Academy for Information Systems [en]",
+            "label": "UK Academy\nfor Information\nSystems [en]",
             "value": 1
         },
         {
             "id": 301,
-            "label": "Bridge management system [en]",
+            "label": "Bridge management\nsystem [en]",
             "value": 1
         },
         {
@@ -1512,17 +1512,17 @@
         },
         {
             "id": 303,
-            "label": "Information Systems Journal [en]",
+            "label": "Information\nSystems Journal\n[en]",
             "value": 2
         },
         {
             "id": 304,
-            "label": "Trust management (information system) [en]",
+            "label": "Trust management\n(information\nsystem) [en]",
             "value": 1
         },
         {
             "id": 305,
-            "label": "Structured systems analysis and design method [en]",
+            "label": "Structured\nsystems analysis\nand design\nmethod [en]",
             "value": 1
         },
         {
@@ -1537,7 +1537,7 @@
         },
         {
             "id": 308,
-            "label": "Earthquake Early Warning (Japan) [en]",
+            "label": "Earthquake\nEarly Warning\n(Japan) [en]",
             "value": 1
         },
         {
@@ -1547,17 +1547,17 @@
         },
         {
             "id": 310,
-            "label": "DIKW pyramid [en]",
+            "label": "DIKW pyramid\n[en]",
             "value": 1
         },
         {
             "id": 311,
-            "label": "Semantic desktop [en]",
+            "label": "Semantic desktop\n[en]",
             "value": 2
         },
         {
             "id": 312,
-            "label": "Dataspaces [en]",
+            "label": "Dataspaces\n[en]",
             "value": 4
         },
         {
@@ -1567,22 +1567,22 @@
         },
         {
             "id": 314,
-            "label": "International Institute for Advanced Studies in Systems Research and Cybernetics [en]",
+            "label": "International\nInstitute for\nAdvanced Studies\nin Systems\nResearch and\nCybernetics\n[en]",
             "value": 1
         },
         {
             "id": 315,
-            "label": "Master of Business Systems [en]",
+            "label": "Master of Business\nSystems [en]",
             "value": 1
         },
         {
             "id": 316,
-            "label": "Sticky information [en]",
+            "label": "Sticky information\n[en]",
             "value": 1
         },
         {
             "id": 317,
-            "label": "Executive information system [en]",
+            "label": "Executive information\nsystem [en]",
             "value": 3
         },
         {
@@ -1592,7 +1592,7 @@
         },
         {
             "id": 319,
-            "label": "Electronic markets [en]",
+            "label": "Electronic\nmarkets [en]",
             "value": 1
         },
         {
@@ -1602,7 +1602,7 @@
         },
         {
             "id": 321,
-            "label": "Data infrastructure [en]",
+            "label": "Data infrastructure\n[en]",
             "value": 1
         },
         {
@@ -1612,87 +1612,87 @@
         },
         {
             "id": 323,
-            "label": "Ucode system [en]",
+            "label": "Ucode system\n[en]",
             "value": 1
         },
         {
             "id": 324,
-            "label": "Digital marketing system [en]",
+            "label": "Digital marketing\nsystem [en]",
             "value": 1
         },
         {
             "id": 325,
-            "label": "Feral information systems [en]",
+            "label": "Feral information\nsystems [en]",
             "value": 1
         },
         {
             "id": 326,
-            "label": "Disparate system [en]",
+            "label": "Disparate system\n[en]",
             "value": 2
         },
         {
             "id": 327,
-            "label": "Urban and Regional Information Systems Association [en]",
+            "label": "Urban and Regional\nInformation\nSystems Association\n[en]",
             "value": 1
         },
         {
             "id": 328,
-            "label": "Legal expert system [en]",
+            "label": "Legal expert\nsystem [en]",
             "value": 1
         },
         {
             "id": 329,
-            "label": "Data-flow diagram [en]",
+            "label": "Data-flow diagram\n[en]",
             "value": 2
         },
         {
             "id": 330,
-            "label": "Chief information officer (higher education) [en]",
+            "label": "Chief information\nofficer (higher\neducation)\n[en]",
             "value": 1
         },
         {
             "id": 331,
-            "label": "Automated information system [en]",
+            "label": "Automated information\nsystem [en]",
             "value": 1
         },
         {
             "id": 332,
-            "label": "Internal Market Information System [en]",
+            "label": "Internal Market\nInformation\nSystem [en]",
             "value": 1
         },
         {
             "id": 333,
-            "label": "Physical Internet [en]",
+            "label": "Physical Internet\n[en]",
             "value": 1
         },
         {
             "id": 334,
-            "label": "Sales force management system [en]",
+            "label": "Sales force\nmanagement\nsystem [en]",
             "value": 1
         },
         {
             "id": 335,
-            "label": "Eclipse (software suite) [en]",
+            "label": "Eclipse (software\nsuite) [en]",
             "value": 1
         },
         {
             "id": 336,
-            "label": "Payroll automation [en]",
+            "label": "Payroll automation\n[en]",
             "value": 2
         },
         {
             "id": 337,
-            "label": "Website Meta Language [en]",
+            "label": "Website Meta\nLanguage [en]",
             "value": 1
         },
         {
             "id": 338,
-            "label": "Ignorance management [en]",
+            "label": "Ignorance management\n[en]",
             "value": 2
         },
         {
             "id": 339,
-            "label": "Value sensitive design [en]",
+            "label": "Value sensitive\ndesign [en]",
             "value": 1
         },
         {
@@ -1702,17 +1702,17 @@
         },
         {
             "id": 341,
-            "label": "Association for Information Systems [en]",
+            "label": "Association\nfor Information\nSystems [en]",
             "value": 5
         },
         {
             "id": 342,
-            "label": "Work systems [en]",
+            "label": "Work systems\n[en]",
             "value": 1
         },
         {
             "id": 343,
-            "label": "Strategic information system [en]",
+            "label": "Strategic information\nsystem [en]",
             "value": 1
         },
         {
@@ -1722,17 +1722,17 @@
         },
         {
             "id": 345,
-            "label": "Enhanced publication [en]",
+            "label": "Enhanced publication\n[en]",
             "value": 2
         },
         {
             "id": 346,
-            "label": "Heritage Operations Processing System [en]",
+            "label": "Heritage Operations\nProcessing\nSystem [en]",
             "value": 1
         },
         {
             "id": 347,
-            "label": "Research Object [en]",
+            "label": "Research Object\n[en]",
             "value": 1
         },
         {
@@ -1742,87 +1742,87 @@
         },
         {
             "id": 349,
-            "label": "CreditorWatch [en]",
+            "label": "CreditorWatch\n[en]",
             "value": 2
         },
         {
             "id": 350,
-            "label": "Digital firm [en]",
+            "label": "Digital firm\n[en]",
             "value": 1
         },
         {
             "id": 351,
-            "label": "CDIS (computer-based system) [en]",
+            "label": "CDIS (computer-\nbased system)\n[en]",
             "value": 1
         },
         {
             "id": 352,
-            "label": "Field service management [en]",
+            "label": "Field service\nmanagement\n[en]",
             "value": 2
         },
         {
             "id": 353,
-            "label": "FAO GM Foods Platform [en]",
+            "label": "FAO GM Foods\nPlatform [en]",
             "value": 1
         },
         {
             "id": 354,
-            "label": "Information systems success model [en]",
+            "label": "Information\nsystems success\nmodel [en]",
             "value": 1
         },
         {
             "id": 355,
-            "label": "Wayfinding software [en]",
+            "label": "Wayfinding\nsoftware [en]",
             "value": 1
         },
         {
             "id": 356,
-            "label": "Organizing vision [en]",
+            "label": "Organizing\nvision [en]",
             "value": 1
         },
         {
             "id": 357,
-            "label": "Customer knowledge [en]",
+            "label": "Customer knowledge\n[en]",
             "value": 2
         },
         {
             "id": 358,
-            "label": "Information culture [en]",
+            "label": "Information\nculture [en]",
             "value": 1
         },
         {
             "id": 359,
-            "label": "Information Management Body of Knowledge [en]",
+            "label": "Information\nManagement\nBody of Knowledge\n[en]",
             "value": 3
         },
         {
             "id": 360,
-            "label": "Information management [en]",
+            "label": "Information\nmanagement\n[en]",
             "value": 15
         },
         {
             "id": 361,
-            "label": "Notification system [en]",
+            "label": "Notification\nsystem [en]",
             "value": 2
         },
         {
             "id": 362,
-            "label": "Journal of Strategic Information Systems [en]",
+            "label": "Journal of\nStrategic Information\nSystems [en]",
             "value": 1
         },
         {
             "id": 363,
-            "label": "Warehouse execution system [en]",
+            "label": "Warehouse execution\nsystem [en]",
             "value": 1
         },
         {
             "id": 364,
-            "label": "Chief information officer [en]",
+            "label": "Chief information\nofficer [en]",
             "value": 6
         },
         {
             "id": 365,
-            "label": "Local Government Category List [en]",
+            "label": "Local Government\nCategory List\n[en]",
             "value": 1
         },
         {
@@ -1832,7 +1832,7 @@
         },
         {
             "id": 367,
-            "label": "Global Change Information System [en]",
+            "label": "Global Change\nInformation\nSystem [en]",
             "value": 1
         },
         {
@@ -1852,42 +1852,42 @@
         },
         {
             "id": 371,
-            "label": "Intelligence engine [en]",
+            "label": "Intelligence\nengine [en]",
             "value": 2
         },
         {
             "id": 372,
-            "label": "Animal genetic resources for food and agriculture [en]",
+            "label": "Animal genetic\nresources for\nfood and agriculture\n[en]",
             "value": 1
         },
         {
             "id": 373,
-            "label": "Sociomateriality [en]",
+            "label": "Sociomateriality\n[en]",
             "value": 1
         },
         {
             "id": 374,
-            "label": "Aptum Technologies [en]",
+            "label": "Aptum Technologies\n[en]",
             "value": 1
         },
         {
             "id": 375,
-            "label": "Computer-mediated communication [en]",
+            "label": "Computer-mediated\ncommunication\n[en]",
             "value": 1
         },
         {
             "id": 376,
-            "label": "Student information system [en]",
+            "label": "Student information\nsystem [en]",
             "value": 2
         },
         {
             "id": 377,
-            "label": "Plant Information Management System [en]",
+            "label": "Plant Information\nManagement\nSystem [en]",
             "value": 1
         },
         {
             "id": 378,
-            "label": "Credit bureau [en]",
+            "label": "Credit bureau\n[en]",
             "value": 1
         },
         {
@@ -1897,117 +1897,117 @@
         },
         {
             "id": 380,
-            "label": "Blockchain [en]",
+            "label": "Blockchain\n[en]",
             "value": 1
         },
         {
             "id": 381,
-            "label": "German Emigrants Database [en]",
+            "label": "German Emigrants\nDatabase [en]",
             "value": 1
         },
         {
             "id": 382,
-            "label": "Expert system [en]",
+            "label": "Expert system\n[en]",
             "value": 9
         },
         {
             "id": 383,
-            "label": "Archives management [en]",
+            "label": "Archives management\n[en]",
             "value": 2
         },
         {
             "id": 384,
-            "label": "Content management system [en]",
+            "label": "Content management\nsystem [en]",
             "value": 5
         },
         {
             "id": 385,
-            "label": "Matrix factorization (recommender systems) [en]",
+            "label": "Matrix factorization\n(recommender\nsystems) [en]",
             "value": 5
         },
         {
             "id": 386,
-            "label": "Information system [en]",
+            "label": "Information\nsystem [en]",
             "value": 27
         },
         {
             "id": 387,
-            "label": "Dashboard (business) [en]",
+            "label": "Dashboard (business)\n[en]",
             "value": 4
         },
         {
             "id": 388,
-            "label": "Abbott Informatics [en]",
+            "label": "Abbott Informatics\n[en]",
             "value": 1
         },
         {
             "id": 389,
-            "label": "Decision support system [en]",
+            "label": "Decision support\nsystem [en]",
             "value": 21
         },
         {
             "id": 390,
-            "label": "Neuro-Information-Systems [en]",
+            "label": "Neuro-Information-\nSystems [en]",
             "value": 1
         },
         {
             "id": 391,
-            "label": "Management information system [en]",
+            "label": "Management\ninformation\nsystem [en]",
             "value": 13
         },
         {
             "id": 392,
-            "label": "LabVantage [en]",
+            "label": "LabVantage\n[en]",
             "value": 1
         },
         {
             "id": 393,
-            "label": "Recommender system [en]",
+            "label": "Recommender\nsystem [en]",
             "value": 13
         },
         {
             "id": 394,
-            "label": "Notification LED [en]",
+            "label": "Notification\nLED [en]",
             "value": 2
         },
         {
             "id": 395,
-            "label": "Cold start (computing) [en]",
+            "label": "Cold start\n(computing)\n[en]",
             "value": 5
         },
         {
             "id": 396,
-            "label": "Business informatics [en]",
+            "label": "Business informatics\n[en]",
             "value": 5
         },
         {
             "id": 397,
-            "label": "Ocean Biodiversity Information System [en]",
+            "label": "Ocean Biodiversity\nInformation\nSystem [en]",
             "value": 1
         },
         {
             "id": 398,
-            "label": "Coverage (information systems) [en]",
+            "label": "Coverage (information\nsystems) [en]",
             "value": 1
         },
         {
             "id": 399,
-            "label": "Self-service [en]",
+            "label": "Self-service\n[en]",
             "value": 1
         },
         {
             "id": 400,
-            "label": "Human resource management system [en]",
+            "label": "Human resource\nmanagement\nsystem [en]",
             "value": 2
         },
         {
             "id": 401,
-            "label": "Technology–organization–environment framework [en]",
+            "label": "Technology–organization–environment\nframework [en]",
             "value": 1
         },
         {
             "id": 402,
-            "label": "Knowledge management [en]",
+            "label": "Knowledge management\n[en]",
             "value": 28
         }
     ],
