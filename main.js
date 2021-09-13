@@ -53,6 +53,7 @@ function getDisplayTitle(language, title) {
 }
 
 function getWrappedTitle(displayTitle, characterWrap = 10) {
+    return displayTitle
     const words = displayTitle.split(/\s+/)
     const lines = []
     let currentLine = ''
@@ -61,17 +62,18 @@ function getWrappedTitle(displayTitle, characterWrap = 10) {
         const wordParts = word.split('-')
         const lastIndex = wordParts.length - 1
         for (let i in wordParts) {
-            const nextpart = wordParts[i] + (i < lastIndex ? '-' : '')
-            if (currentLine.length + nextpart.length >= characterWrap) {
+            currentLine += wordParts[i] + (i < lastIndex ? '-' : '')
+            if (currentLine.length >= characterWrap) {
                 lines.push(currentLine)
                 currentLine = ''
             } 
-            currentLine += nextpart
         }
         currentLine += currentLine ? ' ' : ''
     }
 
+    currentLine = currentLine.trim()
     if (currentLine) lines.push(currentLine)
+
     return lines.join('\n')
 }
 
@@ -103,7 +105,7 @@ function createDataSets(refs) {
     }
 
     // set node values:
-    edges.forEach(edge => void nodes.find(node => nodes[edge.to - 1].value += edge.value))
+    edges.forEach(edge => nodes[edge.to - 1].value += edge.value)
 
     return {
         nodes: nodes,
