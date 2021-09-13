@@ -13,11 +13,13 @@
 
         #loading {
             z-index: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
             text-align: center;
             background-color: #9346e3;
             color: white;
             font: bold 2rem sans-serif;
-            line-height: 100vh;
         }
 
         .hidden {
@@ -27,7 +29,7 @@
 </head>
 
 <body>
-    <div id="loading">Creating Network. This may take a while.</div>
+    <div id="loading">Rendering Network. This may take a while.</div>
     <div id="mynetwork"></div>
     <script type="text/javascript">
         fetch('./network.json').then(res => res.json().then(render))
