@@ -6,14 +6,28 @@
     <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
     <script type="text/javascript" src="./vis-config.js"></script>
     <style type="text/css">
-        #mynetwork {
+        div {
             position: absolute;
             inset: 0;
+        }
+
+        #loading {
+            z-index: 1;
+            text-align: center;
+            background-color: #9346e3;
+            color: white;
+            font: bold 2rem sans-serif;
+            line-height: 100vh;
+        }
+
+        .hidden {
+            display: none !important;
         }
     </style>
 </head>
 
 <body>
+    <div id="loading">Creating Network. This may take a while.</div>
     <div id="mynetwork"></div>
     <script type="text/javascript">
         fetch('./network.json').then(res => res.json().then(render))
@@ -23,7 +37,12 @@
             const edges = new vis.DataSet(data.edges)
 
             const container = document.getElementById('mynetwork')
+            const loading = document.getElementById('loading')
             const network = new vis.Network(container, { nodes, edges }, visconfig)
+            network.on('afterDrawing', function finished() {
+                loading.classList.add('hidden')
+                network.off('afterDrawing', finished)
+            })
         }
     </script>
 </body>
