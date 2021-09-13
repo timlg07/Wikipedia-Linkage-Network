@@ -2,6 +2,8 @@
 
 Visualizes the linkage between a set of given Wikipedia pages as graph.
 
+Demo of a network: [tim-greller.de/data/wikinet](https://tim-greller.de/data/wikinet/)
+
 ## Usage
 
 ### 1. Install dependencies:
