@@ -7,7 +7,7 @@ const titles = require('./titles.json')
 async function main() {
     const browser = await puppeteer.launch(config.browserconfig)
     const page = await browser.newPage()
-    const refs = await fetchRefData(page, 'de')
+    const refs = await fetchRefData(page)
     const data = createDataSets(refs)
     await browser.close()
 
@@ -15,23 +15,29 @@ async function main() {
     save('network.json', data)
 }
 
-async function fetchRefData(page, language) {
+async function fetchRefData(page) {
     const titleCombinations = {}
-    for (let title of titles[language]) {
-        const url = wikiurl.getUrl(language, title)
-        await page.goto(url)
-        const wikirefQuery = `#mw-content-text a[href^='/wiki/']` // use #bodyContent to include categories at the footer as well
-        const hrefs = await page.$$eval(wikirefQuery, elements => {
-            const res = []
-            elements.forEach(a => void res.push(a.href))
-            return res
-        })
-        const linkedTitles = hrefs
-                .map(wikiurl.getTitle) // Parse url to title of the Wikipedia page
-                .filter(t => !t.includes(':')) // Filter out Wikipedia:, Datei:, Benutzer:, Hilfe:, and similar Links
-        titleCombinations[title] = linkedTitles
+    for (let language in titles) {
+        for (let title of titles[language]) {
+            const url = wikiurl.getUrl(language, title)
+            titleCombinations[title] = await getLinkedTitles(url, page)
+        }
     }
     return titleCombinations
+}
+
+async function getLinkedTitles(url, page) {
+    await page.goto(url)
+    const wikirefQuery = `#mw-content-text a[href^='/wiki/']` // use #bodyContent to include categories at the footer as well
+    const hrefs = await page.$$eval(wikirefQuery, elements => {
+        const res = []
+        elements.forEach(a => void res.push(a.href))
+        return res
+    })
+
+    return hrefs
+            .map(wikiurl.getTitle) // Parse url to title of the Wikipedia page
+            .filter(t => !t.includes(':')) // Filter out Wikipedia:, Datei:, Benutzer:, Hilfe:, and similar Links
 }
 
 function createDataSets(refs) {
