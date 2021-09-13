@@ -1,6 +1,6 @@
-# Wikipedia-Linkage-Network
+# Wikipedia Linkage Network
 
-Visualizes the linkage between a set of given Wikipedia pages as graph.
+Visualizes the linkage between a set of given Wikipedia pages as a graph.
 
 Demo of a network: [tim-greller.de/data/wikinet](https://tim-greller.de/data/wikinet/)
 
